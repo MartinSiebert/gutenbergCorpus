@@ -10,4 +10,4 @@ Data is provided in in this repository as a tab seperated .csv file - gutenberg_
 - bookNo - Project Gutenberg specific book number. Necessary for downloading the needed files from www.gutenberg.org.
 - author - Author of the book. Retrieved from the ebook's header.
 - year - original publication year of the books hard copy. Retrieved from Wikidata's SPARQL endpoint by stringmatching author and book title using Jaro Winkler with a threshold of 90 on the title and 70 on the author. 
-- title - Title of the book. Retrieved from the ebook's header.
+- book - Title of the book. Retrieved from the ebook's header.
