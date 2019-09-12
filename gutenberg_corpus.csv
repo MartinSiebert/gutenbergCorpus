@@ -1,0 +1,2913 @@
+	bookNo	author	year	book
+0	11	Lewis Carroll	1865	Alice's Adventures in Wonderland
+1	13	Lewis Carroll	1876	The Hunting of the Snark
+2	15	Herman Melville	1851	Moby-Dick
+3	16	James M. Barrie	1911	Peter Pan
+4	19	Henry W. Longfellow	1855	The Song of Hiawatha
+5	20	John Milton	1667	Paradise Lost
+6	22	Peter Mark Roget	1862	Roget's Thesaurus
+7	24	Willa Cather	1913	O Pioneers!
+8	26	John Milton	1667	Paradise Lost
+9	27	Thomas Hardy	1874	Far from the Madding Crowd
+10	32	Charlotte Perkins Stetson Gilman	1915	Herland
+11	33	Nathaniel Hawthorne	1850	The Scarlet Letter
+12	35	H. G. Wells	1895	The Time Machine
+13	36	H. G. Wells	1898	The War of the Worlds
+14	39	Ed Krol	1987	Hitchhiker's Guide to the Internet
+15	44	Willa Cather	2002	The Story of Lucy Gault
+16	45	Lucy Maud Montgomery	1908	Anne of Green Gables
+17	46	Charles Dickens	1843	A Christmas Carol
+18	47	Lucy Maud Montgomery	1909	Anne of Avonlea
+19	51	Lucy Maud Montgomery	1915	Anne of the Island
+20	54	L. Frank Baum	1904	The Marvelous Land of Oz
+21	55	L. Frank Baum	1900	The Wonderful Wizard of Oz
+22	58	John Milton	1671	Paradise Regained
+23	61	Karl Marx and Friedrich Engels	1848	The Communist Manifesto
+24	62	Edgar Rice Burroughs	1917	A Princess of Mars
+25	64	Edgar Rice Burroughs	1918	The Gods of Mars
+26	72	Edgar Rice Burroughs	1920	Thuvia, Maid of Mars
+27	73	Stephen Crane	1895	The Red Badge of Courage
+28	74	Mark Twain (Samuel Clemens)	1876	The Adventures of Tom Sawyer
+29	76	Mark Twain (Samuel Clemens)	1885	Adventures of Huckleberry Finn
+30	76	Mark Twain (Samuel Clemens)	1884	Adventures of Huckleberry Finn
+31	77	Nathaniel Hawthorne	1851	The House of the Seven Gables
+32	78	Edgar Rice Burroughs	1912	Tarzan of the Apes
+33	81	Edgar Rice Burroughs	1913	The Return of Tarzan
+34	82	Walter Scott	1820	Ivanhoe
+35	83	Jules Verne	1865	From the Earth to the Moon
+36	84	Mary Wollstonecraft (Godwin) Shelley	1818	Frankenstein
+37	85	Edgar Rice Burroughs	1914	The Beasts of Tarzan
+38	86	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+39	90	Edgar Rice Burroughs	1915	The Son of Tarzan
+40	91	Mark Twain (Samuel Clemens)	1894	Tom Sawyer Abroad
+41	92	Edgar Rice Burroughs	1916	Tarzan and the Jewels of Opar
+42	93	Mark Twain (Samuel Clemens)	1896	Tom Sawyer, Detective
+43	95	Anthony Hope	1894	The Prisoner of Zenda
+44	96	Edgar Rice Burroughs	1929	The Monster Men
+45	97	Edwin A. Abbott	1884	Flatland
+46	98	Charles Dickens	1859	A Tale of Two Cities
+47	103	Jules Verne	1872	Around the World in Eighty Days
+48	105	Jane Austen	1818	Persuasion
+49	106	Edgar Rice Burroughs	1919	Jungle Tales of Tarzan
+50	107	Thomas Hardy	1874	Far from the Madding Crowd
+51	108	Arthur Conan Doyle	1892	The Adventures of Sherlock Holmes
+52	110	Thomas Hardy	1891	Tess of the d'Urbervilles
+53	111	Gene Stratton-Porter	1904	Freckles
+54	113	Frances Hodgson Burnett	1911	The Secret Garden
+55	119	Mark Twain (Samuel Clemens)	1880	A Tramp Abroad
+56	120	Robert Louis Stevenson	1883	Treasure Island
+57	121	Jane Austen	1817	Northanger Abbey
+58	122	Thomas Hardy	1878	The Return of the Native
+59	123	Edgar Rice Burroughs	1914	At the Earth's Core
+60	126	Arthur Conan Doyle	1913	The Poison Belt
+61	130	G. K. Chesterton	1908	Orthodoxy
+62	131	John Bunyan	1678	The Pilgrim's Progress
+63	133	Harold Frederic	1896	The Damnation of Theron Ware
+64	134	Mary Wollstonecraft	1894	Maria
+65	135	Victor Hugo	1862	Les Misérables
+66	136	Robert Louis Stevenson	1885	A Child's Garden of Verses
+67	140	Upton Sinclair	1905	The Jungle
+68	140	Upton Sinclair	2011	The Jungle
+69	141	Jane Austen	1814	Mansfield Park
+70	143	Thomas Hardy	1886	The Mayor of Casterbridge
+71	144	Virginia Woolf	1915	The Voyage Out
+72	145	George Eliot	1871	Middlemarch
+73	147	Thomas Paine	1776	Common Sense
+74	147	Thomas Paine	1993	Common Sense
+75	148	Benjamin Franklin	1791	The Autobiography of Benjamin Franklin
+76	151	Samuel Taylor Coleridge	1798	The Rime of the Ancient Mariner
+77	153	Thomas Hardy	1895	Jude the Obscure
+78	154	William Dean Howells	1885	The Rise of Silas Lapham
+79	155	Wilkie Collins	1868	The Moonstone
+80	157	Jean Webster	1912	Daddy-Long-Legs
+81	158	Jane Austen	1815	Emma
+82	159	H. G. Wells	1896	The Island of Doctor Moreau
+83	161	Jane Austen	1811	Sense and Sensibility
+84	164	Jules Verne	1869	Twenty Thousand Leagues Under the Sea
+85	165	Frank Norris	1899	McTeague
+86	169	William Morris	1896	The Well at the World's End
+87	172	Christopher Morley	1919	The Haunted Bookshop
+88	174	Oscar Wilde	1890	The Picture of Dorian Gray
+89	175	Gaston Leroux	1910	The Phantom of the Opera
+90	176	Henry James	1875	Roderick Hudson
+91	178	Henry James	1879	Confidence
+92	179	Henry James	1878	The Europeans
+93	208	Henry James	1879	Daisy Miller
+94	211	Henry James	1888	The Aspern Papers
+95	213	Andrew Barton 'Banjo' Paterson	1895	The Man from Snowy River and Other Verses
+96	214	Henry Lawson	1896	In the Days When the World was Wide and Other Verses
+97	215	Jack London	1903	The Call of the Wild
+98	220	Joseph Conrad	1912	The Secret Sharer
+99	221	Arthur Conan Doyle	1892	The Adventures of Sherlock Holmes
+100	222	W. Somerset Maugham	1919	The Moon and Sixpence
+101	223	G. K. Chesterton	1914	The Wisdom of Father Brown
+102	224	Thomas Hardy	1873	A Pair of Blue Eyes
+103	225	George MacDonald	1871	At the Back of the North Wind
+104	233	Theodore Dreiser	1900	Sister Carrie
+105	238	Jean Webster	1915	Dear Enemy
+106	241	William Wells Brown	1853	Clotel
+107	242	Willa Cather	1918	My Ántonia
+108	244	Arthur Conan Doyle	1887	A Study in Scarlet
+109	245	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+110	266	John Gower	1667	Paradise Lost
+111	269	Saki	1914	Beasts and Super-Beasts
+112	270	Kenneth Grahame	1898	Dream days
+113	271	Anna Sewell	1877	Black Beauty
+114	281	Robert Louis Stevenson	1992	Fatherland
+115	283	Edith Wharton	1912	The Reef
+116	289	Kenneth Grahame	1908	The Wind in the Willows
+117	301	Oscar Wilde	1898	The Ballad of Reading Gaol
+118	304	Andrew Barton 'Banjo' Paterson	1902	Rio Grande's Last Race and Other Verses
+119	308	Jerome K. Jerome	1889	Three Men in a Boat
+120	310	Jack London	1907	Before Adam
+121	318	Jack London	1913	John Barleycorn
+122	325	George MacDonald	1858	Phantastes
+123	329	Robert Louis Stevenson	1893	Island Nights' Entertainments
+124	331	Edgar Rice Burroughs	1921	The Mucker
+125	344	Robert Louis Stevenson	1882	The Merry Men
+126	345	Bram Stoker	1897	Dracula
+127	351	W. Somerset Maugham	1915	Of Human Bondage
+128	356	Arthur Conan Doyle	1892	Beyond the City
+129	357	William Morris	1888	A Dream of John Ball
+130	363	Edgar Rice Burroughs	1974	The Oakdale Affair
+131	364	Edgar Rice Burroughs	1926	The Mad King
+132	365	Mary Austin	1903	The Land of Little Rain
+133	369	Edgar Rice Burroughs	1927	The Outlaw of Torn
+134	372	Robert Louis Stevenson	1885	Prince Otto
+135	375	Ambrose Bierce	1890	An Occurrence at Owl Creek Bridge
+136	376	Daniel Defoe	1722	A Journal of the Plague Year
+137	380	Robert Louis Stevenson	1896	Weir of Hermiston
+138	381	Robert Louis Stevenson	1887	Memories and Portraits
+139	384	Francis Hodgson Burnett	2012	The Lost Prince
+140	384	Francis Hodgson Burnett	1915	The Lost Prince
+141	389	Arthur Machen	1894	The Great God Pan
+142	392	Torquato Tasso	1581	Jerusalem Delivered
+143	393	H. de Vere Stacpoole	1908	The Blue Lagoon
+144	394	Elizabeth Cleghorn Gaskell	1851	Cranford
+145	396	Frank R. Stockton	1882	The Lady, or the Tiger?
+146	402	Booth Tarkington	1914	Penrod
+147	408	W. E. B. Du Bois	1903	The Souls of Black Folk
+148	416	Sherwood Anderson	1919	Winesburg, Ohio
+149	419	L. Frank Baum	1919	The Magic of Oz
+150	420	L. Frank Baum.	1908	Dorothy and the Wizard in Oz
+151	421	Robert Louis Stevenson	1886	Kidnapped
+152	426	Robert Louis Stevenson	1905	Tales and Fantasies
+153	432	Henry James	1903	The Ambassadors
+154	434	Mary Roberts Rinehart	1908	The Circular Staircase
+155	438	Robert Louis Stevenson	1887	Underwoods
+156	439	Arthur Conan Doyle	1919	The Vital Message
+157	440	Eleanor H. Porter	1916	Just David
+158	447	Stephen Crane	1893	Maggie: A Girl of the Streets
+159	451	Joseph Conrad	1917	The Shadow Line
+160	452	George Borrow	1851	Lavengro
+161	456	H. G. Wells	1938	The Sword in the Stone
+162	458	Don Marquis	1915	Dreams and Dust
+163	463	Stephen Crane	1895	The Red Badge of Courage
+164	470	Gilbert K. Chesterton	1905	Heretics
+165	479	Frances Hodgson Burnett	1885	Little Lord Fauntleroy
+166	480	Joe Hutsko	1860	Unto This Last
+167	482	Thomas Hardy	1887	The Woodlanders
+168	485	L. Frank Baum	1909	The Road to Oz
+169	486	L. Frank Baum	1907	Ozma of Oz
+170	493	Joseph Conrad	1903	Falk
+171	494	Joseph Conrad	1993	Tomorrow, When the War Began
+172	495	Joseph Conrad	1901	Amy Foster
+173	498	Kate Douglas Wiggin	1903	Rebecca of Sunnybrook Farm
+174	499	Victor Appleton	1917	Tom Swift in the Land of Wonders
+175	501	Hugh Lofting	1920	The Story of Doctor Dolittle
+176	502	Zane Grey	1913	Desert Gold
+177	507	George Eliot	1859	Adam Bede
+178	509	Joseph Sheridan Le Fanu	1975	The Purcell Papers
+179	509	Joseph Sheridan Le Fanu	1880	The Purcell Papers
+180	510	Joseph Sheridan Le Fanu	1880	The Purcell Papers
+181	510	Joseph Sheridan Le Fanu	1975	The Purcell Papers
+182	511	Joseph Sheridan Le Fanu	1975	The Purcell Papers
+183	511	Joseph Sheridan Le Fanu	1880	The Purcell Papers
+184	512	Nathaniel Hawthorne	1846	Mosses from an Old Manse
+185	514	Louisa May Alcott	1868	Little Women
+186	516	Robert Louis Stevenson	1883	The Silverado Squatters
+187	517	L. Frank Baum	1910	The Emerald City of Oz
+188	518	L. Frank Baum	1903	The Enchanted Island of Yew
+189	520	L. Frank Baum	1912	The Life and Adventures of Santa Claus
+190	524	H. G. Wells	1909	Ann Veronica
+191	534	Robert Louis Stevenson	1878	An Inland Voyage
+192	535	Robert Louis Stevenson	1879	Travels with a Donkey in the Cévennes
+193	541	Edith Wharton	1920	The Age of Innocence
+194	541	Edith Wharton	1995	The Age of Innocence
+195	543	Sinclair Lewis	1920	Main Street
+196	544	Lucy Maud Montgomery	1917	Anne's House of Dreams
+197	545	Edgar Rice Burroughs	1914	At the Earth's Core
+198	549	Mariano Azuela	1915	The Underdogs
+199	550	George Eliot	1861	Silas Marner
+200	551	Edgar Rice Burroughs	1924	The Land That Time Forgot
+201	552	Edgar Rice Burroughs	1963	The People That Time Forgot
+202	553	Edgar Rice Burroughs	1963	Out of Time's Abyss
+203	556	Rudyard Kipling	1910	Rewards and Fairies
+204	557	Rudyard Kipling	1906	Puck of Pook's Hill
+205	558	John Buchan	1915	The Thirty-Nine Steps
+206	559	John Buchan	1916	Greenmantle
+207	560	John Buchan	1919	Mr Standfast
+208	564	Charles Dickens	1870	The Mystery of Edwin Drood
+209	573	Charles and Mary Lamb	1837	Tales from Shakspeare
+210	573	Charles and Mary Lamb	1918	Tales from Shakspeare
+211	573	Charles and Mary Lamb	1807	Tales from Shakspeare
+212	573	Charles and Mary Lamb	1922	Tales from Shakspeare
+213	580	Charles Dickens	1836	The Pickwick Papers
+214	583	Wilkie Collins	1860	The Woman in White
+215	584	Harriet E. Wilson	1859	Our Nig
+216	588	Charles Dickens	1840	Master Humphrey's Clock
+217	589	Robert Louis Stevenson	1893	Catriona
+218	599	William Makepeace Thackeray	1848	Vanity Fair
+219	600	Feodor Dostoevsky	2014	Notes from Underground
+220	600	Feodor Dostoevsky	1864	Notes from Underground
+221	605	Edgar Rice Burroughs	1915	Pellucidar
+222	608	John Milton	1644	Areopagitica
+223	611	John Buchan	1910	Prester John
+224	614	Robert Louis Stevenson	1892	Across the Plains
+225	615	Lodovico Ariosto	1516	Orlando Furioso
+226	615	Lodovico Ariosto	1532	Orlando Furioso
+227	619	Anthony Trollope	1855	The Warden
+228	620	Lewis Carroll	1889	Sylvie and Bruno
+229	621	William James	1902	The Varieties of Religious Experience
+230	623	Jonathan Swift	1704	The Battle of the Books
+231	638	Joseph Conrad	1896	An Outcast of the Islands
+232	642	Henry James	1895	The Altar of the Dead
+233	643	Henry James	1895	The Death of the Lion
+234	644	Charles Dickens	1848	The Haunted Man and the Ghost's Bargain
+235	645	Henry James	1896	The Figure in the Carpet
+236	647	Robert Louis Stevenson	1879	Travels with a Donkey in the Cévennes
+237	648	George Borrow	1862	Wild Wales
+238	650	Charles Dickens	1846	Pictures from Italy
+239	653	Charles Dickens	1844	The Chimes
+240	654	John Bunyan	1666	Grace Abounding to the Chief of Sinners
+241	678	Charles Dickens	1845	The Cricket on the Hearth
+242	683	Izaak Walton	1653	The Compleat Angler
+243	687	Joseph Conrad	1912	A Personal Record
+244	689	Leo Tolstoi	1889	The Kreutzer Sonata
+245	696	Horace Walpole	1764	The Castle of Otranto
+246	696	Horace Walpole	1765	The Castle of Otranto
+247	699	Charles Dickens	1851	A Child's History of England
+248	700	Charles Dickens	1840	The Old Curiosity Shop
+249	701	John Ruskin.	1842	The King of the Golden River
+250	708	George MacDonald	1872	The Princess and the Goblin
+251	711	H. Rider Haggard	1887	Allan Quatermain
+252	718	H. G. Wells	1909	Tono-Bungay
+253	720	Joseph Conrad	1895	Almayer's Folly
+254	729	Stephen Levy	1984	Hackers: Heroes of the Computer Revolution
+255	730	Charles Dickens	1838	Oliver Twist
+256	746	Jack London	1910	Burning Daylight
+257	751	Oliver Wendell Holmes	1858	The Autocrat of the Breakfast-Table
+258	754	Hendrik van Loon	1921	The Story of Mankind
+259	766	Charles Dickens	1850	David Copperfield
+260	767	Anne Bronte	1847	Agnes Grey
+261	768	Emily Bronte	1847	Wuthering Heights
+262	770	E. Nesbit	1899	The Story of the Treasure Seekers
+263	773	Oscar Wilde	1887	Lord Arthur Savile's Crime
+264	777	William J. Claxton	2002	The Story of Lucy Gault
+265	782	John Mandeville	1356	The Travels of Sir John Mandeville
+266	786	Charles Dickens	1854	Hard Times
+267	804	Laurence Sterne	1768	A Sentimental Journey Through France and Italy
+268	805	F. Scott Fitzgerald	1920	This Side of Paradise
+269	821	Charles Dickens	1848	Dombey and Son
+270	829	Jonathan Swift	1726	Gulliver's Travels
+271	833	Thorstein Veblen	1899	The Theory of the Leisure Class
+272	834	Sir Arthur Conan Doyle	1894	The Memoirs of Sherlock Holmes
+273	836	E. Nesbit	1904	The Phoenix and the Carpet
+274	837	E. Nesbit	1906	The Story of the Amulet
+275	848	Robert Louis Stevenson	1879	Travels with a Donkey in the Cévennes
+276	850	F. Hopkinson Smith	1896	Tom Grogan
+277	852	John Dewey	1916	Democracy and Education
+278	863	Agatha Christie	1920	The Mysterious Affair at Styles
+279	864	Robert Louis Stevenson	1889	The Master of Ballantrae
+280	875	Oscar Wilde	1890	The Picture of Dorian Gray
+281	883	Charles Dickens	1864	Our Mutual Friend
+282	897	William Makepeace Thackeray	1855	The Rose and the Ring
+283	898	Henry James	1888	The Lesson of the Master
+284	902	Oscar Wilde	1888	The Happy Prince
+285	903	Arthur Conan Doyle	1891	The White Company
+286	910	Jack London	1906	White Fang
+287	913	M. Y. Lermontov	1840	A Hero of Our Time
+288	914	Charles Dickens	1875	The Uncommercial Traveller
+289	917	Charles Dickens	1840	Barnaby Rudge
+290	921	Oscar Wilde	1905	De Profundis
+291	932	Edgar Allan Poe	1839	The Fall of the House of Usher
+292	940	James Fenimore Cooper	1826	The Last of the Mohicans
+293	944	Charles Darwin	1839	The Voyage of the Beagle
+294	945	Mr. and Mrs. Haldeman-Julius	1980	Metroland
+295	946	Jane Austen	1871	Lady Susan
+296	949	Victor Appleton	1910	Tom Swift and His Submarine Boat
+297	950	Victor Appleton	1910	Tom Swift and His Electric Runabout
+298	951	Victor Appleton	1911	Tom Swift and His Sky Racer
+299	952	Victor Appleton	1912	Tom Swift and His Air Glider
+300	953	Victor Appleton	1916	Tom Swift and His Big Tunnel
+301	954	Victor Appleton	1918	Tom Swift and His War Tank
+302	955	L. Frank Baum	1913	The Patchwork Girl of Oz
+303	956	L. Frank Baum	1914	Tik-Tok of Oz
+304	957	L. Frank Baum	1915	The Scarecrow of Oz
+305	958	L. Frank Baum	1916	Rinkitink in Oz
+306	959	L. Frank Baum	1917	The Lost Princess of Oz
+307	960	L. Frank Baum	1918	The Tin Woodman of Oz
+308	961	L. Frank Baum	1920	Glinda of Oz
+309	963	Charles Dickens	1857	Little Dorrit
+310	964	Howard Pyle	1883	The Merry Adventures of Robin Hood
+311	965	Alexandre Dumas (Pere)	1850	The Black Tulip
+312	966	Thomas Love Peacock	1822	Maid Marian
+313	969	Anne Bronte	1848	The Tenant of Wildfell Hall
+314	972	Ambrose Bierce	1911	The Devil's Dictionary
+315	974	Joseph Conrad	1907	The Secret Agent
+316	980	Booth Tarkington	1921	Alice Adams
+317	986	Leo Tolstoy	1895	Master and Man
+318	996	Miguel de Cervantes Saavedra	1615	Don Quixote
+319	996	Miguel de Cervantes Saavedra	1605	Don Quixote
+320	1013	H. G. Wells	1901	The First Men in the Moon
+321	1015	Francis Parkman, Jr.	1989	The Trial
+322	1015	Francis Parkman, Jr.	1925	The Trial
+323	1015	Francis Parkman, Jr.	1987	The Trial
+324	1022	Henry David Thoreau	1862	Walking
+325	1023	Charles Dickens	1853	Bleak House
+326	1024	Robert Louis Stevenson and Lloyd Osbourne	1892	The Wrecker
+327	1024	Robert Louis Stevenson and Lloyd Osbourne	2009	The Wrecker
+328	1027	Zane Grey	1915	The Lone Star Ranger
+329	1028	(AKA Charlotte Bronte) Currer Bell	1857	The Professor
+330	1032	Henry James	1891	The Pupil
+331	1045	William Shakespeare	1593	Venus and Adonis
+332	1051	Thomas Carlyle	1833	Sartor Resartus
+333	1056	Jack London	1909	Martin Eden
+334	1058	Joseph Conrad	1906	The Mirror of the Sea
+335	1063	Edgar Allan Poe	1846	The Cask of Amontillado
+336	1064	Edgar Allan Poe	1842	The Masque of the Red Death
+337	1074	Jack London	1904	The Sea-Wolf
+338	1076	Ernest Bramah	1900	The Wallet of Kai Lung
+339	1079	Laurence Sterne	1759	The Life and Opinions of Tristram Shandy, Gentleman
+340	1080	Jonathan Swift	1729	A Modest Proposal
+341	1083	Joseph Conrad	1919	The Arrow of Gold
+342	1086	Mark Twain	1907	A Horse's Tale
+343	1093	Henry James	1903	The Beast in the Jungle
+344	1098	Booth Tarkington	1930	The Turmoil
+345	1138	H. G. Wells	1915	The Research Magnificent
+346	1142	Joseph Conrad	1902	Typhoon
+347	1144	Henry James	1898	In the Cage
+348	1145	Anthony Hope	1898	Rupert of Hentzau
+349	1153	Edgar Rice Burroughs	1922	The Chessmen of Mars
+350	1154	Hugh Lofting	1922	The Voyages of Doctor Dolittle
+351	1155	Agatha Christie	1922	The Secret Adversary
+352	1156	Sinclair Lewis	1922	Babbitt
+353	1158	Booth Tarkington	1916	Penrod and Sam
+354	1161	Jack London	1917	Jerry of the Islands
+355	1163	Jack London	1911	Adventure
+356	1164	Jack London	1908	The Iron Heel
+357	1184	Alexandre Dumas, père	1844	The Count of Monte Cristo
+358	1188	Bram Stoker	1911	The Lair of the White Worm
+359	1190	Henry James	1908	The Jolly Corner
+360	1191	William Congreve	2002	The Story of Lucy Gault
+361	1192	William Congreve	2002	The Story of Lucy Gault
+362	1198	Thomas Alexander Browne, AKA Rolf Boldrewood	1888	Robbery Under Arms
+363	1200	Francois Rabelais	1534	Gargantua and Pantagruel
+364	1207	H. Rider Haggard	1892	Nada the Lily
+365	1210	Lafcadio Hearn	1904	Kwaidan: Stories and Studies of Strange Things
+366	1213	Mark Twain	1899	The Man That Corrupted Hadleyburg
+367	1220	Honore de Balzac	1836	The Atheist's Mass
+368	1227	Charles Darwin	1872	The Expression of the Emotions in Man and Animals
+369	1228	Charles Darwin	1859	On the Origin of Species
+370	1230	Honore de Balzac	1839	Pierre Grassou
+371	1231	Henry Lawson	1900	On the Track
+372	1232	Nicolo Machiavelli	1532	The Prince
+373	1232	Nicolo Machiavelli	2002	The Prince
+374	1232	Nicolo Machiavelli	2005	The Prince
+375	1235	Theophile Gautier	1863	Captain Fracasse
+376	1245	Virginia Woolf	1919	Night and Day
+377	1245	Virginia Woolf	2009	Night and Day
+378	1250	Ayn Rand	1938	Anthem
+379	1257	Alexandre Dumas, Pere	1844	The Three Musketeers
+380	1259	Alexandre Dumas, Pere	1845	Twenty Years After
+381	1260	Charlotte Bronte	1847	Jane Eyre
+382	1263	Edith Wharton	1922	The Glimpses of the Moon
+383	1264	H. G. Wells	1896	The Wheels of Chance
+384	1265	Lytton Strachey	1921	Queen Victoria
+385	1266	Myrtle Reed	1902	Lavender and Old Lace
+386	1267	Ernest Bramah	1922	Kai Lung's Golden Hours
+387	1268	Jules Verne	1874	The Mysterious Island
+388	1270	H. L. Mencken	1922	Seven Pillars of Wisdom
+389	1280	Edgar Lee Masters	1915	Spoon River Anthology
+390	1281	Victor Appleton	1915	Tom Swift and His Aerial Warship
+391	1282	Victor Appleton	1911	Tom Swift Among the Diamond Makers
+392	1283	Victor Appleton	1912	Tom Swift and His Wizard Camera
+393	1284	Victor Appleton	1919	Tom Swift and His Air Scout
+394	1286	Charles Lamb	1807	Tales from Shakspeare
+395	1286	Charles Lamb	1837	Tales from Shakspeare
+396	1286	Charles Lamb	1918	Tales from Shakspeare
+397	1286	Charles Lamb	1922	Tales from Shakspeare
+398	1288	Kenneth Grahame	1898	Dream days
+399	1289	Charles Dickens	2007	God Is Not Great
+400	1292	William Congreve	2010	The Call of the Mild
+401	1294	Honore de Balzac	1838	The Firm of Nucingen
+402	1296	John Galt	2009	The Lovers
+403	1296	John Galt	1961	The Lovers
+404	1298	Owen Wister	1902	The Virginian
+405	1300	Zane Grey	1912	Riders of the Purple Sage
+406	1302	William Blades	2002	The Story of Lucy Gault
+407	1313	Henry Lawson	1900	Over the Sliprails
+408	1321	T. S. Eliot	1922	The Waste Land
+409	1322	Walt Whitman	1855	Leaves of Grass
+410	1323	William H. Prescott	2002	The Story of Lucy Gault
+411	1327	“Elizabeth”, AKA Marie Annette Beauchamp	1889	Elizabeth and Her German Garden
+412	1329	David Lindsay	1920	A Voyage to Arcturus
+413	1332	J. M. Barrie	1906	Peter Pan in Kensington Gardens
+414	1342	Jane Austen	1813	Pride and Prejudice
+415	1346	Karl Marx	1852	The Eighteenth Brumaire of Louis Napoleon
+416	1350	Honore de Balzac	1833	The Country Doctor
+417	1353	Jules Verne	1877	Off on a Comet
+418	1354	Lucy Maud Montgomery	1912	Chronicles of Avonlea
+419	1361	Victor Appleton	1913	Tom Swift and His Giant Cannon
+420	1362	Victor Appleton	1920	Tom Swift and His Undersea Search
+421	1363	Victor Appleton	1921	Tom Swift Among the Fire Fighters
+422	1364	Victor Appleton	1922	Tom Swift and His Electric Locomotive
+423	1366	Charles Reade	1845	The Cricket on the Hearth
+424	1368	H. Rider Haggard	1919	When the World Shook
+425	1376	J. M. Barrie	1902	The Little White Bird
+426	1387	Owen Wister	1907	Mother
+427	1389	Honore de Balzac	1830	Gobseck
+428	1399	Leo Tolstoy	1877	Anna Karenina
+429	1400	Charles Dickens	1860	Great Expectations
+430	1401	Edgar Rice Burroughs	1920	Tarzan the Untamed
+431	1419	Charles Dickens	1866	Mugby Junction
+432	1423	Charles Dickens and Wilkie Collins	1867	No Thoroughfare
+433	1424	Maria Edgeworth	1800	Castle Rackrent
+434	1425	Honore de Balzac	1830	El Verdugo
+435	1428	Honore de Balzac	1909	La Grande Bretèche
+436	1428	Honore de Balzac	1831	La Grande Bretèche
+437	1429	Katherine Mansfield	1994	The Bastard Prince
+438	1430	E. Nesbit	1907	Beautiful Stories from Shakespeare
+439	1432	Honore de Balzac	1834	Séraphîta
+440	1438	Wilkie Collins	1862	No Name
+441	1448	Johanna Spyri	1880	Heidi
+442	1449	Jack London	1913	The Valley of the Moon
+443	1450	Eleanor H. Porter	1915	Pollyanna Grows Up
+444	1460	Sir Walter Scott	1816	The Black Dwarf
+445	1461	Sir Walter Scott	1819	A Legend of Montrose
+446	1463	George Gissing	1903	The Private Papers of Henry Ryecroft
+447	1472	Katherine Mansfield	1911	In a German Pension
+448	1473	Maria Edgeworth	1812	The Absentee
+449	1476	Joseph Conrad	1913	Chance
+450	1476	Joseph Conrad	1986	Chance
+451	1476	Joseph Conrad	2004	Chance
+452	1480	Thomas Hughes	1857	Tom Brown's School Days
+453	1482	Honore de Balzac	1844	Modeste Mignon
+454	1484	Vicente Blasco Ibanez	1916	The Four Horsemen of the Apocalypse
+455	1487	George Bernard Shaw	1898	The Perfect Wagnerite
+456	1497	Plato	-380	The Republic
+457	1508	William Shakespeare	2002	The Story of Lucy Gault
+458	1514	William Shakespeare	1948	Intruder in the Dust
+459	1515	William Shakespeare	1959	The Mansion
+460	1519	William Shakespeare	2002	The Story of Lucy Gault
+461	1525	William Shakespeare	1601	The Phoenix and the Turtle
+462	1539	William Shakespeare	2002	The Story of Lucy Gault
+463	1540	William Shakespeare	1940	The Hamlet
+464	1543	William Shakespeare	1609	A Lover's Complaint
+465	1554	Honore de Balzac	1830	Adieu
+466	1565	Edward George Bulwer-Lytton	1834	The Last Days of Pompeii
+467	1585	Robert Louis Stevenson and Lloyd Osbourne	1889	The Wrong Box
+468	1587	Wilkie Collins	1881	The Black Robe
+469	1595	O. Henry	1910	Whirligigs
+470	1596	Jack London	1912	Smoke Bellew
+471	1606	Sir Walter Scott	1821	Kenilworth
+472	1614	Julian Hawthorne	1980	Metroland
+473	1622	Wilkie Collins	1875	The Law and the Lady
+474	1646	O. Henry	1909	Roads of Destiny
+475	1649	Honore de Balzac	1834	Ferragus: Chief of the Devorants
+476	1651	Emile Gaboriau	1867	The Mystery of Orcival
+477	1652	Jules Verne	1875	The Survivors of the Chancellor
+478	1656	Plato	-395	Apology
+479	1659	Honore de Balzac	1835	The Girl with the Golden Eyes
+480	1661	Arthur Conan Doyle	1892	The Adventures of Sherlock Holmes
+481	1683	Honore de Balzac	1843	Honorine
+482	1685	Gaston Leroux	1907	The Mystery of the Yellow Room
+483	1688	Jack London	1903	The People of the Abyss
+484	1690	H. Rider Haggard	1912	Marie
+485	1695	G. K. Chesterton	1908	The Man Who Was Thursday
+486	1698	Jules Verne	1875	The Survivors of the Chancellor
+487	1704	Honore de Balzac	1840	Pierrette
+488	1710	Honoré de Balzac	1909	La Grande Bretèche
+489	1710	Honoré de Balzac	1831	La Grande Bretèche
+490	1711	H. Rider Haggard	1913	Child of Storm
+491	1714	Honoré de Balzac	1842	Another Study of a Woman
+492	1715	Honore de Balzac	1833	Eugénie Grandet
+493	1718	G. K. Chesterton	1912	Manalive
+494	1720	G.K. Chesterton	1922	The Man Who Knew Too Much
+495	1724	H. Rider Haggard	1917	Finished
+496	1730	Jack London	1917	Michael, Brother of Jerry
+497	1737	Honore de Balzac	1936	Facino Cane
+498	1741	Frank L. Packard	1925	The Trial
+499	1741	Frank L. Packard	1987	The Trial
+500	1741	Frank L. Packard	1989	The Trial
+501	1749	Honore de Balzac	1846	Cousin Bette
+502	1804	H. G. Wells	1917	War and the Future
+503	1807	Richard Harding Davis	1995	The Hot Zone
+504	1811	Honore de Balzac	1837	Massimilla Doni
+505	1826	Honore de Balzac	1831	Sarrasine
+506	1827	Elizabeth Gaskell	1857	The Life of Charlotte Brontë
+507	1828	Sir Walter Scott	1828	Chronicles of the Canongate
+508	1837	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+509	1840	Theodore Dreiser	1912	The Financier
+510	1841	Honore de Balzac	1831	Z. Marcas
+511	1842	Jules Verne	1877	Michael Strogoff
+512	1843	Richard Harding Davis	1921	Vera
+513	1845	Max Beerbohm	1911	Zuleika Dobson
+514	1846	William MacLeod Raine	1959	The Mansion
+515	1848	H. Rider Haggard	1893	Montezuma's Daughter
+516	1857	Anna Katharine Green	1911	Initials Only
+517	1858	Rudyard Kipling	1888	Plain Tales from the Hills
+518	1860	Charles Kingsley	1855	Westward Ho!
+519	1862	Alphonse Daudet	1872	Tartarin of Tarascon
+520	1872	A. A. Milne	1922	The Red House Mystery
+521	1873	Honore de Balzac	1837	Gambara
+522	1874	E. Nesbit	1906	The Railway Children
+523	1880	James Fenimore Cooper	1840	The Pathfinder, or The Inland Sea
+524	1892	Mark Twain (Samuel Clemens)	1904	Extracts from Adam's Diary
+525	1895	Wilkie Collins	1866	Armadale
+526	1896	Stanley Weyman	1894	Under the Red Robe
+527	1898	Honore de Balzac	1842	Albert Savarus
+528	1900	Herman Melville	1846	Typee
+529	1901	William J. Long	2002	The Story of Lucy Gault
+530	1906	Samuel Butler	1872	Erewhon
+531	1929	Richard Brinsley Sheridan	1777	The School for Scandal
+532	1930	Anatole France	1908	Penguin Island
+533	1933	William Makepeace Thackeray	2002	The Story of Lucy Gault
+534	1934	William Blake	1794	Songs of Innocence and of Experience
+535	1937	Rudyard Kipling	1895	The Second Jungle Book
+536	1943	Honore de Balzac	1832	Louis Lambert
+537	1946	Carl von Clausewitz	1832	On War
+538	1947	Rafael Sabatini	1921	Scaramouche
+539	1948	Thomas Bailey Aldrich	1870	The Story of a Bad Boy
+540	1950	Honore de Balzac	1842	A Woman of Thirty
+541	1954	Honore de Balzac	1829	Colonel Chabert
+542	1957	Honore de Balzac	1839	Béatrix
+543	1965	Rafael Sabatini	1922	Captain Blood
+544	1966	John Buchan	1921	The Path of the King
+545	1971	Samuel Butler	1901	Erewhon Revisited
+546	1974	Aristotle	-334	Poetics
+547	1983	Booth Tarkington	1900	Monsieur Beaucaire
+548	1986	John Bunyan	2009	The Life and Death of Democracy
+549	1998	Friedrich Nietzsche	1883	Thus Spoke Zarathustra
+550	1999	Aldous Huxley	1921	Crome Yellow
+551	2005	P. G. Wodehouse	1917	Piccadilly Jim
+552	2009	Charles Darwin	1859	On the Origin of Species
+553	2014	Marie Belloc Lowndes	1913	The Lodger
+554	2020	Edgar Rice Burroughs	1921	Tarzan the Terrible
+555	2024	Jerome K. Jerome	1891	Diary of a Pilgrimage
+556	2028	Sax Rohmer	1915	The Yellow Claw
+557	2034	Sir Walter Scott	1814	Waverley
+558	2040	Thomas De Quincey	1822	Confessions of an English Opium-Eater
+559	2044	Henry Adams	1918	The Education of Henry Adams
+560	2055	Richard Henry Dana	1840	Two Years Before the Mast
+561	2057	Zane Grey	1978	The Last Good Kiss
+562	2060	William Beckford	2002	The Story of Lucy Gault
+563	2064	Samuel Johnson	1775	A Journey to the Western Islands of Scotland
+564	2067	Ferdinand Ossendowski	1922	Beasts, Men and Gods
+565	2078	Anatole France	1890	Thaïs
+566	2081	Nathaniel Hawthorne	1852	The Blithedale Romance
+567	2083	Jules Verne	1868	In Search of the Castaways
+568	2084	Samuel Butler	1903	The Way of All Flesh
+569	2097	Arthur Conan Doyle	1894	The Sign of the Four
+570	2123	Anatole France	1881	The Crime of Sylvestre Bonnard
+571	2133	Herbert A. Giles	1876	Chinese Sketches
+572	2142	Leo Tolstoy	1852	Childhood
+573	2145	Lew Wallace	1880	Ben-Hur: A Tale of the Christ
+574	2153	Elizabeth Cleghorn Gaskell	1848	Mary Barton
+575	2154	Jules Verne	1872	Around the World in Eighty Days
+576	2156	Herbert Allen Giles	1902	China and the Chinese
+577	2160	Tobias Smollett	1771	The Expedition of Humphry Clinker
+578	2162	Emma Goldman	1910	Anarchism and Other Essays
+579	2165	George Eliot	1859	The Lifted Veil
+580	2166	H. Rider Haggard	1885	King Solomon's Mines
+581	2181	Nathaniel Hawthorne	1860	The Marble Faun
+582	2182	Nathaniel Hawthorne	1860	The Marble Faun
+583	2183	Jerome K. Jerome	1900	Three Men on the Bummel
+584	2186	Rudyard Kipling	1897	Captains Courageous
+585	2194	George Sand	1837	Mauprat
+586	2196	Pierre Loti	1886	An Iceland Fisherman
+587	2225	Rudyard Kipling	1897	Captains Courageous
+588	2226	Rudyard Kipling	1901	Kim
+589	2231	Jerome K. Jerome	1919	All Roads Lead to Calvary
+590	2233	P. G. Wodehouse	1919	A Damsel in Distress
+591	2273	Victor Appleton	1910	Tom Swift and His Motor Boat
+592	2276	James Hogg	1824	The Private Memoirs and Confessions of a Justified Sinner
+593	2291	George MacDonald	1863	David Elginbrod
+594	2300	Charles Darwin	1871	The Descent of Man, and Selection in Relation to Sex
+595	2302	Fyodor Dostoyevsky	1846	Poor Folk
+596	2311	Tobias Smollett	1766	Travels through France and Italy
+597	2344	Arthur Conan Doyle	1893	The Adventure of the Cardboard Box
+598	2345	Arthur Conan Doyle	1926	The Adventure of the Retired Colourman
+599	2346	Arthur Conan Doyle	1912	The Adventure of the Bruce-Partington Plans
+600	2347	Arthur Conan Doyle	1913	The Adventure of the Dying Detective
+601	2349	Arthur Conan Doyle	1892	The Adventure of the Beryl Coronet
+602	2351	Dinah Maria Mulock Craik	1856	John Halifax, Gentleman
+603	2358	Mary Roberts Rinehart	1914	The After House
+604	2360	Erskine Childers	1903	The Riddle of the Sands
+605	2365	Madame de La Fayette	1662	The Princess of Montpensier
+606	2369	Willa Cather	2002	The Story of Lucy Gault
+607	2375	Alphonse Daudet	1872	Tartarin of Tarascon
+608	2392	Albert Payson Terhune	1922	Further Adventures of Lad
+609	2413	Gustave Flaubert	1857	Madame Bovary
+610	2415	Jack London	1914	The Mutiny of the Elsinore
+611	2425	Henry James	1879	A Bundle of Letters
+612	2429	Jack London	1910	Lost Face
+613	2431	Mark Twain	1909	Is Shakespeare Dead?
+614	2437	Jerome K. Jerome	1909	They and I
+615	2445	Voltaire	1734	Letters on the English
+616	2447	Lytton Strachey	1918	Eminent Victorians
+617	2450	Leo Tolstoy	1854	Boyhood
+618	2462	B. Perez Galdos	1876	Doña Perfecta
+619	2465	Prosper Merimee	1845	Carmen
+620	2466	Ivan S. Turgenev	1877	Virgin Soil
+621	2480	Joseph Conrad	1911	Under Western Eyes
+622	2484	Plutarch	1883	The Boys' and Girls' Plutarch
+623	2500	Herman Hesse	1922	Siddhartha
+624	2505	Charlotte M. Yonge	1853	The Heir of Redclyffe
+625	2506	William D. Howells	1883	The Sleeping Car
+626	2512	Jack London	1911	The Cruise of the Snark
+627	2516	Sir Walter Scott	1824	Redgauntlet
+628	2530	Alfred Russell Wallace	1869	The Malay Archipelago
+629	2539	Alfred Russell Wallace	1869	The Malay Archipelago
+630	2540	Edmund Gosse	1907	Father and Son
+631	2548	Elizabeth Gaskell	1856	The Poor Clare
+632	2554	Fyodor Dostoevsky	1866	Crime and Punishment
+633	2565	William Morris	1890	The Story of the Glittering Plain
+634	2567	Henry David Thoreau	1859	A Plea for Captain John Brown
+635	2568	E.C. (Edmund Clerihew) Bentley	1913	Trent's Last Case
+636	2569	Rudyard Kipling	1898	The Day's Work
+637	2600	Leo Tolstoy	1869	War and Peace
+638	2602	H. Rider Haggard	1910	Queen Sheba's Ring
+639	2604	E. M. Forster	1907	The Longest Journey
+640	2607	P. G. Wodehouse	1915	Psmith, Journalist
+641	2618	John Kendrick Bangs	1895	A House-Boat on the Styx
+642	2638	Fyodor Dostoyevsky	1869	The Idiot
+643	2641	E. M. Forster	1908	A Room with a View
+644	2662	Thomas Hardy	1872	Under the Greenwood Tree
+645	2664	Edward Bulwer Lytton	1842	Zanoni
+646	2667	Oliver Goldsmith	1766	The Vicar of Wakefield
+647	2686	William Makepeace Thackeray	1795	The Book of Los
+648	2688	Edgar Wallace	1930	The Clue of the Silver Key
+649	2709	Maxim Gorky	1899	Foma Gordeev
+650	2713	H. Rider Haggard	1888	Maiwa's Revenge
+651	2721	H. Rider Haggard	1890	Eric Brighteyes
+652	2726	Louisa M. Alcott	1875	Eight Cousins
+653	2731	William Makepeace Thackeray	2002	The Story of Lucy Gault
+654	2735	William Kirby	1877	The Golden Dog
+655	2754	Alexandre Dumas, Pere	1853	The Countess of Charny
+656	2763	H. Rider Haggard and Andrew Lang	1890	The World's Desire
+657	2764	H. Rider Haggard	1911	The Mahatma and the Hare
+658	2771	John Galsworthy	1904	The Island Pharisees
+659	2775	Ford Madox Ford	1915	The Good Soldier
+660	2776	O. Henry	1906	The Four Million
+661	2777	O. Henry	1904	Cabbages and Kings
+662	2787	Louisa May Alcott	1869	An Old-Fashioned Girl
+663	2788	Louisa May Alcott	1871	Little Men
+664	2795	Alfred Ollivant	1898	Bob, Son of Battle
+665	2799	Irving Bacheller	1900	Eben Holden
+666	2801	James Harrington	1656	The Commonwealth of Oceana
+667	2802	Helen Hunt Jackson	1884	Ramona
+668	2804	Louisa May Alcott	1876	Rose in Bloom
+669	2811	Pliny	74	Natural History
+670	2811	Pliny	2003	Natural History
+671	2813	Arnold Bennett	1902	The Grand Babylon Hotel
+672	2815	Henry Adams	1880	Democracy: An American Novel
+673	2816	Tommaso Campanella	1623	The City of the Sun
+674	2817	James Joyce	1907	Chamber Music
+675	2825	Friedrich de la Motte Fouque	1811	Undine
+676	2828	Rudyard Kipling	1888	Under the Deodars
+677	2833	Henry James	1881	The Portrait of a Lady
+678	2834	Henry James	1881	The Portrait of a Lady
+679	2841	H. Rider Haggard	1916	The Ivory Child
+680	2844	William Makepeace Thackeray	2002	The Story of Lucy Gault
+681	2845	Arthur Conan Doyle	1906	Sir Nigel
+682	2852	A. Conan Doyle	1901	The Hound of the Baskervilles
+683	2853	Henryk Sienkiewicz	1896	Quo Vadis
+684	2855	H. Rider Haggard	1900	Elissa
+685	2856	H. Rider Haggard	1918	Moon of Israel
+686	2857	H. Rider Haggard	1908	The Yellow God
+687	2860	Anthony Trollope	1861	Framley Parsonage
+688	2865	Howard Pyle	1888	Otto of the Silver Hand
+689	2870	Henry James	1880	Washington Square
+690	2874	Mark Twain	1896	Personal Recollections of Joan of Arc
+691	2875	Mark Twain	1896	Personal Recollections of Joan of Arc
+692	2876	Rudyard Kipling	1891	The Light That Failed
+693	2885	William Morris	1889	The House of the Wolfings
+694	2892	James Stephens	1920	Irish Fairy Tales
+695	2893	H. Rider Haggard	1896	The Wizard
+696	2895	Mark Twain (Samuel Clemens)	1897	Following the Equator
+697	2944	Ralph Waldo Emerson	1841	Essays: First Series
+698	2946	E. M. Forster	1910	Howards End
+699	2948	E. M. Forster	1905	Where Angels Fear to Tread
+700	3005	Victor Appleton	1910	Tom Swift and His Airship
+701	3006	Rudyard Kipling	1899	Stalky & Co.
+702	3007	Willis George Emerson	1908	The Smoky God
+703	3011	Sir Walter Scott	1810	The Lady of the Lake
+704	3020	William Hazlitt	1821	Table-Talk
+705	3021	Robert Frost	1913	A Boy's Will
+706	3026	Robert Frost	1914	North of Boston
+707	3030	Rafael Sabatini	1904	The Tavern Knight
+708	3031	Ernest Thompson Seton	1898	Wild Animals I Have Known
+709	3044	Thomas Hardy	1871	Desperate Remedies
+710	3045	Anthony Trollope	1866	The Last Chronicle of Barset
+711	3055	William Morris	1894	The Wood Beyond the World
+712	3067	Charles Reade	1863	Hard Cash
+713	3069	Arthur Conan Doyle	1900	The Great Boer War
+714	3070	Arthur Conan Doyle	1901	The Hound of the Baskervilles
+715	3076	John Reed	1919	Ten Days that Shook the World
+716	3091	Jules Verne	1881	Eight Hundred Leagues on the Amazon
+717	3092	George M. Wrong	1968	The Concerns of a Citizen
+718	3094	H. Rider Haggard	1911	Red Eve
+719	3095	Bram Stoker	1909	The Lady of the Shroud
+720	3096	H. Rider Haggard	1890	Beatrice
+721	3097	H. Rider Haggard	1914	The Wanderer's Necklace
+722	3110	Charles Dudley Warner	1842	American Notes
+723	3118	Charles Dudley Warner	1897	Equality
+724	3127	Charles Dudley Warner	1877	Being a Boy
+725	3132	Charles Dudley Warner	1859	On the Origin of Species
+726	3133	Charles Dudley Warner	1874	Baddeck, And That Sort of Thing
+727	3145	Henry James	1884	The Author of Beltraffio
+728	3146	Thomas Hardy	1882	Two on a Tower
+729	3153	H. R. Haggard	1922	The Virgin of the Sun
+730	3162	John Kendrick Bangs	1899	The Enchanted Type-Writer
+731	3166	Anthony Trollope	1858	Doctor Thorne
+732	3176	Mark Twain (Samuel Clemens)	1869	The Innocents Abroad
+733	3177	Mark Twain (Samuel Clemens)	1872	Roughing It
+734	3179	Mark Twain (Samuel Clemens)	1892	The American Claimant
+735	3180	Mark Twain	1902	A Double Barrelled Detective Story
+736	3186	Mark Twain	1916	The Mysterious Stranger
+737	3207	Thomas Hobbes	2015	Leviathan
+738	3207	Thomas Hobbes	1668	Leviathan
+739	3207	Thomas Hobbes	2009	Leviathan
+740	3207	Thomas Hobbes	1992	Leviathan
+741	3207	Thomas Hobbes	1929	Leviathan
+742	3207	Thomas Hobbes	1651	Leviathan
+743	3251	Mark Twain (Samuel Clemens)	1899	The Man That Corrupted Hadleyburg
+744	3261	William Morris	1890	News from Nowhere
+745	3268	Ann Radcliffe	1794	The Mysteries of Udolpho
+746	3285	James Fenimore Cooper	1841	The Deerslayer
+747	3289	Sir Arthur Conan Doyle	1915	The Valley of Fear
+748	3294	Raphael Sabatini	1915	The Sea Hawk
+749	3321	Leroy Scott	1996	Children of the Mind
+750	3327	Thomas Bulfinch	1855	Bulfinch's Mythology
+751	3339	Eugene Sue	1844	The Wandering Jew
+752	3340	Eugene Sue	1844	The Wandering Jew
+753	3341	Eugene Sue	1844	The Wandering Jew
+754	3342	Eugene Sue	1844	The Wandering Jew
+755	3343	Eugene Sue	1844	The Wandering Jew
+756	3344	Eugene Sue	1844	The Wandering Jew
+757	3345	Eugene Sue	1844	The Wandering Jew
+758	3346	Eugene Sue	1844	The Wandering Jew
+759	3347	Eugene Sue	1844	The Wandering Jew
+760	3348	Eugene Sue	1844	The Wandering Jew
+761	3349	Eugene Sue	1844	The Wandering Jew
+762	3350	Eugene Sue	1844	The Wandering Jew
+763	3362	William Dean Howells	1959	The Mansion
+764	3366	William Dean Howells	1890	A Hazard of New Fortunes
+765	3367	William Dean Howells	1890	A Hazard of New Fortunes
+766	3368	William Dean Howells	1890	A Hazard of New Fortunes
+767	3369	William Dean Howells	1890	A Hazard of New Fortunes
+768	3370	William Dean Howells	1890	A Hazard of New Fortunes
+769	3387	William Dean Howells	2002	The Story of Lucy Gault
+770	3401	William D. Howells	2002	The Story of Lucy Gault
+771	3403	William D. Howells	2002	The Story of Lucy Gault
+772	3409	Anthony Trollope	1857	Barchester Towers
+773	3420	Mary Wollstonecraft [Godwin]	1792	A Vindication of the Rights of Woman
+774	3424	Marcus Clarke	1870	For the Term of His Natural Life
+775	3431	E. L. Voynich	1897	The Gadfly
+776	3458	Mary Baker Eddy	1875	Science and Health with Key to the Scriptures
+777	3470	Joseph Furphy	1903	Such Is Life
+778	3475	Edgar Rice Burroughs	1921	The Efficiency Expert
+779	3495	Padraic Colum	1916	The King of Ireland's Son
+780	3499	Louisa May Alcott	1886	Jo's Boys
+781	3526	Jules Verne	1863	Five Weeks in a Balloon
+782	3529	Mary Wollstonecraft	1796	Letters Written During a Short Residence in Sweden, Norway, and Denmark
+783	3608	Robert Tressell	1914	The Ragged-Trousered Philanthropists
+784	3622	Anthony Trollope	1879	The Duke's Children
+785	3623	Sir James George Frazer	1890	The Golden Bough
+786	3629	Theodore Dreiser	1914	The Titan
+787	3629	Theodore Dreiser	1952	The Titan
+788	3632	Wilkie Collins	1872	Poor Miss Finch
+789	3635	Kathleen Norris	1907	Mother
+790	3646	Winston Churchill	1917	The Dwelling-Place of Light
+791	3647	Winston Churchill	1917	The Dwelling-Place of Light
+792	3648	Winston Churchill	1917	The Dwelling-Place of Light
+793	3649	Winston Churchill	1917	The Dwelling-Place of Light
+794	3655	Maria Edgeworth	1796	The Parent's Assistant
+795	3670	Charles Reade	1853	Peg Woffington
+796	3677	Steele Rudd	1899	On Our Selection
+797	3681	Winston Churchill	1908	Mr. Crewe's Career
+798	3682	Winston Churchill	1908	Mr. Crewe's Career
+799	3683	Winston Churchill	1908	Mr. Crewe's Career
+800	3684	Winston Churchill	1908	Mr. Crewe's Career
+801	3698	William Cowper	2002	The Story of Lucy Gault
+802	3703	Ethel C. Pedley	1899	Dot and the Kangaroo
+803	3709	H. Rider Haggard	1918	Love Eternal
+804	3714	Friedrich de la Motte Fouque	1811	Undine
+805	3726	Giovanni Boccaccio	1351	The Decameron
+806	3726	Giovanni Boccaccio	1352	The Decameron
+807	3727	Henry Handel Richardson	1908	Maurice Guest
+808	3728	Henry Handel Richardson	1910	The Getting of Wisdom
+809	3734	Victor Appleton	1911	Tom Swift in the Caves of Ice
+810	3736	Winston Churchill	1915	A Far Country
+811	3737	Winston Churchill	1915	A Far Country
+812	3738	Winston Churchill	1915	A Far Country
+813	3739	Winston Churchill	1915	A Far Country
+814	3741	Thomas Paine	1894	The Writings of Thomas Paine
+815	3742	Thomas Paine	1894	The Writings of Thomas Paine
+816	3743	Thomas Paine	1894	The Writings of Thomas Paine
+817	3755	Thomas Paine	1776	Common Sense
+818	3755	Thomas Paine	1993	Common Sense
+819	3776	Arthur Conan Doyle	1915	The Valley of Fear
+820	3777	Victor Appleton	1911	Tom Swift and His Electric Rifle
+821	3781	Bram Stoker	1910	The Jewel of Seven Stars
+822	3782	John Buchan	1922	Huntingtower
+823	3783	Maksim Gorky	1907	Mother
+824	3795	Louisa May Alcott	1878	Under the Lilacs
+825	3796	Lucy Maud Montgomery	1921	Rilla of Ingleside
+826	3797	H. G. Wells	1906	In the Days of the Comet
+827	3808	Jules Verne	1886	Robur the Conqueror
+828	3813	H. Rider Haggard	1909	The Lady of Blossholme
+829	3817	John Galsworthy	1939	The Legend of the Holy Drinker
+830	3829	P. G. Wodehouse	1906	Love Among the Chickens
+831	3833	K. Langloh Parker	1896	Australian Legendary Tales
+832	3976	Alphonse Daudet	1874	Fromont and Risler
+833	3977	Alphonse Daudet	1874	Fromont and Risler
+834	3978	Alphonse Daudet	1874	Fromont and Risler
+835	3979	Alphonse Daudet	1874	Fromont and Risler
+836	3980	Alphonse Daudet	1874	Fromont and Risler
+837	3991	Pierre Loti	1888	Madame Chrysanthème
+838	3992	Pierre Loti	1888	Madame Chrysanthème
+839	3993	Pierre Loti	1888	Madame Chrysanthème
+840	3994	Pierre Loti	1888	Madame Chrysanthème
+841	3995	Pierre Loti	1888	Madame Chrysanthème
+842	4002	Emile Gaboriau	1901	The Queen of the Caribbean
+843	4017	Maurice Leblanc	1909	The Hollow Needle
+844	4032	Ignatius Donnelly	1882	Atlantis: The Antediluvian World
+845	4047	Anna Katherine Green	1878	The Leavenworth Case
+846	4057	Walter Horatio Pater	1885	Marius the Epicurean
+847	4058	Walter Horatio Pater	1885	Marius the Epicurean
+848	4061	Edward Creasy	1851	The Fifteen Decisive Battles of the World
+849	4071	Emile Gaboriau	1869	Monsieur Lecoq
+850	4071	Emile Gaboriau	1868	Monsieur Lecoq
+851	4072	Algernon Charles Swinburne	1871	Songs before Sunrise
+852	4074	H. Rider Haggard	1899	Swallow
+853	4078	Oscar Wilde	1890	The Picture of Dorian Gray
+854	4084	Tobias Smollett	1751	The Adventures of Peregrine Pickle
+855	4085	Tobias Smollett	1748	The Adventures of Roderick Random
+856	4090	Jessie L. Weston	1920	From Ritual to Romance
+857	4204	William Harmon Norton	2002	The Story of Lucy Gault
+858	4208	Jonathan Swift	1766	A Journal to Stella
+859	4217	James Joyce	1916	A Portrait of the Artist as a Young Man
+860	4219	Philip E. Muskett (?-1909)	1893	The Art of Living in Australia
+861	4223	Fergus Hume	1886	The Mystery of a Hansom Cab
+862	4225	H. G. Wells	1908	First and Last Things
+863	4227	Victor Appleton	1911	Tom Swift and His Wireless Message
+864	4230	Victor Appleton	1910	Tom Swift and His Motor Cycle
+865	4239	Thomas Malthus	1826	An Essay on the Principle of Population
+866	4240	D. H. Lawrence	1920	Women in Love
+867	4262	Henry James	1904	The Golden Bowl
+868	4263	Henry James	1904	The Golden Bowl
+869	4264	Henry James	1904	The Golden Bowl
+870	4268	Elizabeth Cleghorn Gaskell	1864	Cousin Phillis
+871	4274	Elizabeth Cleghorn Gaskell	1864	Wives and Daughters
+872	4276	Elizabeth Cleghorn Gaskell	1982	North and South
+873	4276	Elizabeth Cleghorn Gaskell	1855	North and South
+874	4277	Richard Henry Dana	1840	Two Years Before the Mast
+875	4287	William J. Locke	1940	The Hamlet
+876	4297	George Gissing	1895	Eve's Ransom
+877	4298	George Gissing	1895	The Paying Guest
+878	4299	George Gissing	1986	The Whirlpool
+879	4299	George Gissing	1897	The Whirlpool
+880	4300	James Joyce	1922	Ulysses
+881	4300	James Joyce	1833	Ulysses
+882	4301	George Gissing	1889	The Nether World
+883	4303	George Gissing	1892	Denzil Quarrier
+884	4305	George Gissing	1884	The Unclassed
+885	4306	George Gissing	1904	Veranilda
+886	4307	George Gissing	1894	In the Year of Jubilee
+887	4309	George Gissing	1886	Demos
+888	4310	George Gissing	1905	Will Warburton
+889	4312	George Gissing	1888	A Life's Morning
+890	4313	George Gissing	1893	The Odd Women
+891	4327	Edith Wharton	1902	The Valley of Decision
+892	4327	Edith Wharton	1942	The Valley of Decision
+893	4328	Charles Sturt	1833	Two Expeditions into the Interior of Southern Australia, 1828-31
+894	4330	Charles Sturt	1833	Two Expeditions into the Interior of Southern Australia, 1828-31
+895	4335	Thomas Malthus	1815	The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn
+896	4340	Grant Allen	1895	The British Barbarians
+897	4344	Alexander Pushkin	1912	Marie
+898	4351	Walter Bagehot	1867	The English Constitution
+899	4356	L. Frank Baum	1912	Sky Island
+900	4357	L. Frank Baum	1901	American Fairy Tales
+901	4358	L. Frank Baum	1911	The Sea Fairies
+902	4359	Walter Bagehot	1873	Lombard Street: A Description of the Money Market
+903	4363	Friedrich Nietzsche	1886	Beyond Good and Evil
+904	4367	Ulysses S. Grant	1885	Personal Memoirs of Ulysses S. Grant
+905	4379	William J. Locke	2002	The Story of Lucy Gault
+906	4380	Henri Barbusse	2015	Under Fire
+907	4380	Henri Barbusse	1916	Under Fire
+908	4382	Frank Norris	1903	The Pit
+909	4383	Louis Hemon	1913	Maria Chapdelaine
+910	4394	Marie Corelli	1886	A Romance of Two Worlds
+911	4397	John Galsworthy	1906	The Forsyte Saga
+912	4401	George Meredith	1856	The Shaving of Shagpat
+913	4402	George Meredith	1856	The Shaving of Shagpat
+914	4403	George Meredith	1856	The Shaving of Shagpat
+915	4404	George Meredith	1856	The Shaving of Shagpat
+916	4405	George Meredith	1856	The Shaving of Shagpat
+917	4406	George Meredith	1859	The Ordeal of Richard Feverel
+918	4407	George Meredith	1859	The Ordeal of Richard Feverel
+919	4408	George Meredith	1859	The Ordeal of Richard Feverel
+920	4409	George Meredith	1859	The Ordeal of Richard Feverel
+921	4410	George Meredith	1859	The Ordeal of Richard Feverel
+922	4411	George Meredith	1859	The Ordeal of Richard Feverel
+923	4412	George Meredith	1859	The Ordeal of Richard Feverel
+924	4444	George Meredith	1870	The Adventures of Harry Richmond
+925	4445	George Meredith	1870	The Adventures of Harry Richmond
+926	4446	George Meredith	1870	The Adventures of Harry Richmond
+927	4447	George Meredith	1870	The Adventures of Harry Richmond
+928	4448	George Meredith	1870	The Adventures of Harry Richmond
+929	4449	George Meredith	1870	The Adventures of Harry Richmond
+930	4450	George Meredith	1870	The Adventures of Harry Richmond
+931	4451	George Meredith	1870	The Adventures of Harry Richmond
+932	4452	George Meredith	1870	The Adventures of Harry Richmond
+933	4453	George Meredith	1875	Beauchamp's Career
+934	4454	George Meredith	1875	Beauchamp's Career
+935	4455	George Meredith	1875	Beauchamp's Career
+936	4456	George Meredith	1875	Beauchamp's Career
+937	4457	George Meredith	1875	Beauchamp's Career
+938	4458	George Meredith	1875	Beauchamp's Career
+939	4459	George Meredith	1875	Beauchamp's Career
+940	4460	George Meredith	1875	Beauchamp's Career
+941	4508	Norman Douglas	1917	South Wind
+942	4520	D. H. Lawrence	1922	Aaron's Rod
+943	4526	George Gissing	1892	Born in Exile
+944	4532	Victor Appleton	1914	Tom Swift and His Photo Telephone
+945	4540	Charles M. Sheldon	1896	In His Steps
+946	4543	George Berkley	1735	The Querist
+947	4552	Zane Grey	1916	The Border Legion
+948	4556	Marjorie Allen Seiffert	1842	A Woman of Thirty
+949	4583	David Hume	1779	Dialogues Concerning Natural Religion
+950	4599	Anthony Trollope	1862	The Small House at Allington
+951	4600	William Dean Howells	1890	A Hazard of New Fortunes
+952	4603	Robert Hichens	1859	On the Origin of Species
+953	4608	Victor Appleton	1912	Tom Swift in Captivity
+954	4630	T. S. Arthur	2008	The Hollow Men
+955	4630	T. S. Arthur	1998	The Hollow Men
+956	4630	T. S. Arthur	1925	The Hollow Men
+957	4635	Victor Appleton	1912	Tom Swift and His Great Searchlight
+958	4666	Hector St. John de Crevecoeur	1782	Letters from an American Farmer
+959	4686	Suelette Dreyfus	1997	Underground
+960	4686	Suelette Dreyfus	2006	Underground
+961	4704	James Oliver Curwood	1919	Nomads of the North
+962	4705	David Hume	1738	A Treatise of Human Nature
+963	4709	George Barr McCutcheon	1902	Brewster's Millions
+964	4722	George Berkeley	1709	An Essay Towards a New Theory of Vision
+965	4723	George Berkeley	1710	A Treatise Concerning the Principles of Human Knowledge
+966	4724	George Berkeley	1713	Three Dialogues between Hylas and Philonous
+967	4730	C. J. Dennis	1915	The Songs of a Sentimental Bloke
+968	4731	Ethel Sybil Turner	1894	Seven Little Australians
+969	4734	Arnold Bennett	1907	The Grim Smile of the Five Towns
+970	4745	A. E. W. Mason	1910	At the Villa Rose
+971	4747	James Oliver Curwood	1919	The River's End
+972	4748	James Oliver Curwood	1917	Baree, Son of Kazan
+973	4761	Leo Tolstoy	1863	The Cossacks
+974	4763	Lewis Carroll	1887	The Game of Logic
+975	4770	Louisa May Alcott	1873	Work: A Story of Experience
+976	4774	William Shakespeare	2002	The Story of Lucy Gault
+977	4910	Norman Lindsay	1918	The Magic Pudding
+978	4917	Anthony Trollope	1848	The Kellys and the O'Kellys
+979	4920	Austin Hall	1951	The Blind Spot
+980	4922	Clarence E. Mulford	1906	Bar-20
+981	4925	Thomas Bulfinch	1807	The Age of Reason
+982	4925	Thomas Bulfinch	1795	The Age of Reason
+983	4925	Thomas Bulfinch	1794	The Age of Reason
+984	4925	Thomas Bulfinch	1945	The Age of Reason
+985	4928	Thomas Bulfinch	1855	Bulfinch's Mythology
+986	4943	Winston S. Churchill	1899	The River War
+987	4961	Sinclair Lewis	1914	Our Mr. Wrenn
+988	4966	Sir Walter Scott	1814	Waverley
+989	4969	Anthony Trollope	1865	The Belton Estate
+990	5007	Arthur B. Reeve	1913	The Poison Belt
+991	5083	Henry Mackenzie	1771	The Man of Feeling
+992	5085	William Hazlitt	1817	Characters of Shakespear's Plays
+993	5093	J.M. Barrie	1902	The Little White Bird
+994	5109	Ignatius Donnelly	1883	Ragnarok: The Age of Fire and Gravel
+995	5117	William James	1959	The Mansion
+996	5118	Anthony Trollope	1877	The American Senator
+997	5122	John Fox, Jr.	1908	The Trail of the Lonesome Pine
+998	5129	Vaughan Kester	1911	The Prodigal Judge
+999	5135	Emile Zola	1871	The Fortune of the Rougons
+1000	5140	Anthony Trollope	1869	He Knew He Was Right
+1001	5148	Arthur Conan Doyle	1896	Rodney Stone
+1002	5155	Ignatius Donnelly	1890	Caesar's Column
+1003	5164	Richard Marsh	1861	The Beetle
+1004	5164	Richard Marsh	1897	The Beetle
+1005	5167	William Butler Yeats	2002	The Story of Lucy Gault
+1006	5170	Ella Wheeler Wilcox	1917	Poems of Experience
+1007	5174	H. Rider Haggard	1915	Allan and the Holy Flower
+1008	5175	H. Rider Haggard	1903	Pearl Maiden
+1009	5182	Clara Reeve	1777	The Old English Baron
+1010	5191	William Henry Rhodes	2002	The Story of Lucy Gault
+1011	5199	Sir Ernest Shackleton	1919	South
+1012	5207	Joseph A. Altsheler	1939	The Legend of the Holy Drinker
+1013	5228	H. Rider Haggard	1905	Ayesha
+1014	5230	H. G. Wells	1911	The Invisible Man
+1015	5230	H. G. Wells	1897	The Invisible Man
+1016	5231	Anthony Trollope	1875	The Way We Live Now
+1017	5231	Anthony Trollope	1990	The Way We Live Now
+1018	5247	Arnold Bennett	1908	The Old Wives' Tale
+1019	5265	G.K. Chesterton	1909	The Ball and the Cross
+1020	5267	Theodore Dreiser	1900	Sister Carrie
+1021	5272	Robert Louis Stevenson	1879	Travels with a Donkey in the Cévennes
+1022	5311	Christopher Morley	1917	Parnassus on Wheels
+1023	5312	L. Frank Baum	1897	Mother Goose in Prose
+1024	5324	Sabine Baring-Gould	1865	The Book of Were-Wolves
+1025	5339	Adelbert Chamisso	1814	Peter Schlemihl
+1026	5340	Lucy Maud Montgomery	1920	Further Chronicles of Avonlea
+1027	5341	Lucy Maud Montgomery	1910	Kilmeny of the Orchard
+1028	5342	Lucy Maud Montgomery	1911	The Story Girl
+1029	5343	Lucy Maud Montgomery	1919	Rainbow Valley
+1030	5347	Dorothy Canfield	1916	Understood Betsy
+1031	5348	Horatio Alger	1868	Ragged Dick
+1032	5353	Sir Walter Scott	1815	Guy Mannering
+1033	5354	Sir Walter Scott	1815	Guy Mannering
+1034	5355	Sir Walter Scott	1815	Guy Mannering
+1035	5356	Winston Churchill	1913	The Inside of the Cup
+1036	5357	Winston Churchill	1913	The Inside of the Cup
+1037	5358	Winston Churchill	1913	The Inside of the Cup
+1038	5359	Winston Churchill	1913	The Inside of the Cup
+1039	5360	Winston Churchill	1913	The Inside of the Cup
+1040	5361	Winston Churchill	1913	The Inside of the Cup
+1041	5362	Winston Churchill	1913	The Inside of the Cup
+1042	5363	Winston Churchill	1913	The Inside of the Cup
+1043	5364	Winston Churchill	1913	The Inside of the Cup
+1044	5365	Winston Churchill	1899	Richard Carvel
+1045	5366	Winston Churchill	1899	Richard Carvel
+1046	5367	Winston Churchill	1899	Richard Carvel
+1047	5368	Winston Churchill	1899	Richard Carvel
+1048	5369	Winston Churchill	1899	Richard Carvel
+1049	5370	Winston Churchill	1899	Richard Carvel
+1050	5371	Winston Churchill	1899	Richard Carvel
+1051	5372	Winston Churchill	1899	Richard Carvel
+1052	5373	Winston Churchill	1899	Richard Carvel
+1053	5374	Winston Churchill	1910	A Modern Chronicle
+1054	5375	Winston Churchill	1910	A Modern Chronicle
+1055	5376	Winston Churchill	1910	A Modern Chronicle
+1056	5377	Winston Churchill	1910	A Modern Chronicle
+1057	5378	Winston Churchill	1910	A Modern Chronicle
+1058	5379	Winston Churchill	1910	A Modern Chronicle
+1059	5380	Winston Churchill	1910	A Modern Chronicle
+1060	5381	Winston Churchill	1910	A Modern Chronicle
+1061	5382	Winston Churchill	1910	A Modern Chronicle
+1062	5398	Winston Churchill	1918	A Traveller In War-Time
+1063	5401	Myrtle Reed	1909	Old Rose and Silver
+1064	5500	Francis Bacon	1605	The Advancement of Learning
+1065	5658	Joseph Conrad	1900	Lord Jim
+1066	5669	John Stuart Mill	1861	Considerations on Representative Government
+1067	5670	Virginia Woolf	1922	Jacob's Room
+1068	5687	Charles Kingsley	1846	The Battle of Life
+1069	5688	Mark Twain (Samuel Clemens)	1869	The Innocents Abroad
+1070	5689	Mark Twain (Samuel Clemens)	1869	The Innocents Abroad
+1071	5690	Mark Twain (Samuel Clemens)	1869	The Innocents Abroad
+1072	5691	Mark Twain (Samuel Clemens)	1869	The Innocents Abroad
+1073	5692	Mark Twain (Samuel Clemens)	1869	The Innocents Abroad
+1074	5693	Mark Twain (Samuel Clemens)	1869	The Innocents Abroad
+1075	5726	Arabella B. Buckley	1900	The fairy-land of science
+1076	5737	Jack London	1912	Smoke Bellew
+1077	5745	H. Rider Haggard	1921	She and Allan
+1078	5746	H. Rider Haggard	1920	The Ancient Allan
+1079	5754	H. Rider Haggard	1901	Lysbeth
+1080	5759	George Barr McCutcheon	1904	The Day of the Dog
+1081	5764	H. Rider Haggard	1898	Doctor Therne
+1082	5768	Sam Williams	2002	Free as in Freedom: Richard Stallman's Crusade for Free Software
+1083	5774	Upton Sinclair	1922	They Call Me Carpenter
+1084	5782	Mark Twain (Samuel Clemens)	1880	A Tramp Abroad
+1085	5783	Mark Twain (Samuel Clemens)	1880	A Tramp Abroad
+1086	5784	Mark Twain (Samuel Clemens)	1880	A Tramp Abroad
+1087	5785	Mark Twain (Samuel Clemens)	1880	A Tramp Abroad
+1088	5786	Mark Twain (Samuel Clemens)	1880	A Tramp Abroad
+1089	5787	Mark Twain (Samuel Clemens)	1880	A Tramp Abroad
+1090	5788	Mark Twain (Samuel Clemens)	1880	A Tramp Abroad
+1091	5808	Mark Twain (Samuel Clemens)	1897	Following the Equator
+1092	5809	Mark Twain (Samuel Clemens)	1897	Following the Equator
+1093	5810	Mark Twain (Samuel Clemens)	1897	Following the Equator
+1094	5811	Mark Twain (Samuel Clemens)	1897	Following the Equator
+1095	5812	Mark Twain (Samuel Clemens)	1897	Following the Equator
+1096	5813	Mark Twain (Samuel Clemens)	1897	Following the Equator
+1097	5814	Mark Twain (Samuel Clemens)	1897	Following the Equator
+1098	5815	E. Phillips Oppenheim	1920	The Great Impersonation
+1099	5827	Bertrand Russell	1912	The Problems of Philosophy
+1100	5830	Louisa May Alcott	1887	A Garland for Girls
+1101	5883	Donald Keyhoe	2006	The Flying Saucers Are Real
+1102	5890	Mary E. Blain	1969	Fire from Heaven
+1103	5897	Anthony Trollope	1860	Castle Richmond
+1104	5898	H. Rider Haggard	1887	Jess
+1105	5950	Sir Walter Scott	1822	The Fortunes of Nigel
+1106	5959	Sir Walter Scott	1823	Peveril of the Peak
+1107	5971	George Barr McCutcheon	1906	Jane Cable
+1108	6018	James Boswell	1784	The Journal of a Tour to the Hebrides
+1109	6026	William Wood	2002	The Story of Lucy Gault
+1110	6037	Thomas Dixon	2005	The New Policeman
+1111	6050	William Morris	1889	The Roots of the Mountains
+1112	6053	Fanny Burney	1778	Evelina
+1113	6062	John Hay	1871	Pike County Ballads
+1114	6066	Talbot Mundy	1916	King of the Khyber Rifles
+1115	6073	Henry Rider Haggard	1921	Smith and the Pharaohs
+1116	6086	Jane Porter	1810	The Scottish Chiefs
+1117	6100	Eleanor H. Porter	1915	Pollyanna Grows Up
+1118	6124	Samuel Richardson	1740	Pamela; or, Virtue Rewarded
+1119	6137	Douglas Mawson	1982	Life, the Universe and Everything
+1120	6308	Charles Kingsley	1925	Hypatia
+1121	6308	Charles Kingsley	1853	Hypatia
+1122	6310	William W. Walter	1959	The Mansion
+1123	6315	Margaret Deland	1906	The Awakening of Helena Richie
+1124	6317	Joshua Slocum	1900	Sailing Alone Around the World
+1125	6354	Henry James	1909	Italian Hours
+1126	6402	Isabel Lady Burton & W. H. Wilkins	1904	The Romance of Isabel, Lady Burton
+1127	6406	Sir Walter Scott	1820	The Monastery
+1128	6407	Sir Walter Scott	1820	The Abbot
+1129	6424	H. G. Wells	1905	A Modern Utopia
+1130	6435	Frederick Winslow Taylor	1911	The Principles of Scientific Management
+1131	6444	Frank V. Webster	1910	The Boys of Bellwood School
+1132	6450	J. Fenimore Cooper	1827	The Prairie
+1133	6451	Arthur M. Winfield	1990	The Ghost from the Grand Banks
+1134	6455	Jack London	1916	The Little Lady of the Big House
+1135	6456	Walter Lippmann	1922	Public Opinion
+1136	6474	Margaret Deland	1999	The Iron Woman
+1137	6474	Margaret Deland	1911	The Iron Woman
+1138	6490	Sir Walter Scott	1825	The Betrothed
+1139	6490	Sir Walter Scott	1827	The Betrothed
+1140	6491	Frances Hodgson Burnett	1922	The Head of the House of Coombe
+1141	6578	Harold MacGrath	1848	The Communist Manifesto
+1142	6593	Henry Fielding	1749	The History of Tom Jones, a Foundling
+1143	6602	Eugene Sue	1842	The Mysteries of Paris
+1144	6626	Emile Zola	1867	Thérèse Raquin
+1145	6683	P. G. Wodehouse	1914	The Little Nugget
+1146	6684	P. G. Wodehouse	1916	Uneasy Money
+1147	6686	Rabindranath Tagore	1997	The Gardener
+1148	6686	Rabindranath Tagore	1913	The Gardener
+1149	6687	Helena Pretrovna Blavatsky	1879	From the Caves and Jungles of Hindostan
+1150	6688	George Eliot	1860	The Mill on the Floss
+1151	6695	F. Scott Fitzgerald	1922	Tales of the Jazz Age
+1152	6709	James De Mille	1888	A Strange Manuscript Found in a Copper Cylinder
+1153	6711	Edward Mandell House	1912	Philip Dru: Administrator
+1154	6742	Moliere	1661	The School for Husbands
+1155	6753	P. G. Wodehouse	1910	Psmith in the City
+1156	6759	Tobias Smollett	1753	The Adventures of Ferdinand Count Fathom
+1157	6760	Tobias Smollett	1753	The Adventures of Ferdinand Count Fathom
+1158	6761	Tobias Smollett	1753	The Adventures of Ferdinand Count Fathom
+1159	6762	Aristotle	-400	Politics
+1160	6762	Aristotle	2003	Politics
+1161	6769	H. Rider Haggard	1894	The People of the Mist
+1162	6824	R. D. Blackmore	1880	Mary Anerley
+1163	6852	Ritter von Leopold Sacher-Masoch	1870	Venus in Furs
+1164	6863	William Wood	1844	The Pencil of Nature
+1165	6877	P. G. Wodehouse	1905	The Head of Kay's
+1166	6879	P. G. Wodehouse	1904	The Gold Bat
+1167	6880	P. G. Wodehouse	1920	The Coming of Bill
+1168	6899	L. T. Meade	1922	Seven Pillars of Wisdom
+1169	6900	Ivan Turgenev	1856	Rudin
+1170	6902	Ivan Turgenev	1860	On the Eve
+1171	6911	William George Jordan	1959	The Mansion
+1172	6927	P. G. Wodehouse	1907	The White Feather
+1173	6936	Mary Godolphin	1719	Robinson Crusoe
+1174	6955	P. G. Wodehouse	1912	The Prince and Betty
+1175	6979	Stphen Crane	1907	The Secret Agent
+1176	6984	P. G. Wodehouse	1902	The Pothunters
+1177	6985	P. G. Wodehouse	1903	A Prefect's Uncle
+1178	7003	Sir Walter Scott	1816	The Antiquary
+1179	7004	Sir Walter Scott	1816	The Antiquary
+1180	7005	Sir Walter Scott	1816	The Antiquary
+1181	7009	Molière	1670	Monsieur de Pourceaugnac
+1182	7031	E. M. Hull	1919	The Sheik
+1183	7042	Charles Kingsley	1841	Discipline
+1184	7045	Sherwood Anderson	1917	Marching Men
+1185	7052	Edward Bellamy	1880	Dr. Heidenhoff's Process
+1186	7058	H. G. Wells	1903	Mankind in the Making
+1187	7065	Henry Lawson	2011	Master of One Hundred Bones
+1188	7082	William Godwin	1876	Lives of the Necromancers
+1189	7085	Nathaniel Hawthorne	1828	Fanshawe
+1190	7100	Mark Twain (Samuel Clemens)	1884	Adventures of Huckleberry Finn
+1191	7100	Mark Twain (Samuel Clemens)	1885	Adventures of Huckleberry Finn
+1192	7101	Mark Twain (Samuel Clemens)	1884	Adventures of Huckleberry Finn
+1193	7101	Mark Twain (Samuel Clemens)	1885	Adventures of Huckleberry Finn
+1194	7102	Mark Twain (Samuel Clemens)	1885	Adventures of Huckleberry Finn
+1195	7102	Mark Twain (Samuel Clemens)	1884	Adventures of Huckleberry Finn
+1196	7103	Mark Twain (Samuel Clemens)	1885	Adventures of Huckleberry Finn
+1197	7103	Mark Twain (Samuel Clemens)	1884	Adventures of Huckleberry Finn
+1198	7104	Mark Twain (Samuel Clemens)	1884	Adventures of Huckleberry Finn
+1199	7104	Mark Twain (Samuel Clemens)	1885	Adventures of Huckleberry Finn
+1200	7105	Mark Twain (Samuel Clemens)	1884	Adventures of Huckleberry Finn
+1201	7105	Mark Twain (Samuel Clemens)	1885	Adventures of Huckleberry Finn
+1202	7106	Mark Twain (Samuel Clemens)	1884	Adventures of Huckleberry Finn
+1203	7106	Mark Twain (Samuel Clemens)	1885	Adventures of Huckleberry Finn
+1204	7107	Mark Twain (Samuel Clemens)	1885	Adventures of Huckleberry Finn
+1205	7107	Mark Twain (Samuel Clemens)	1884	Adventures of Huckleberry Finn
+1206	7112	R. D. Blackmore	1877	Erema
+1207	7118	Henry James	1897	What Maisie Knew
+1208	7154	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+1209	7155	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+1210	7156	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+1211	7157	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+1212	7158	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+1213	7159	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+1214	7160	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+1215	7161	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+1216	7162	Mark Twain (Samuel Clemens)	1881	The Prince and the Pauper
+1217	7164	Rabindranath Tagore	1910	Gitanjali
+1218	7178	Marcel Proust	1913	Swann's Way
+1219	7193	Mark Twain (Samuel Clemens)	1876	The Adventures of Tom Sawyer
+1220	7194	Mark Twain (Samuel Clemens)	1876	The Adventures of Tom Sawyer
+1221	7195	Mark Twain (Samuel Clemens)	1876	The Adventures of Tom Sawyer
+1222	7196	Mark Twain (Samuel Clemens)	1876	The Adventures of Tom Sawyer
+1223	7197	Mark Twain (Samuel Clemens)	1876	The Adventures of Tom Sawyer
+1224	7198	Mark Twain (Samuel Clemens)	1876	The Adventures of Tom Sawyer
+1225	7199	Mark Twain (Samuel Clemens)	1876	The Adventures of Tom Sawyer
+1226	7200	Mark Twain (Samuel Clemens)	1876	The Adventures of Tom Sawyer
+1227	7214	Knut Hamsun	1894	Pan
+1228	7230	P. G. Wodehouse	1907	Not George Washington
+1229	7242	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+1230	7243	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+1231	7244	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+1232	7245	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+1233	7246	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+1234	7247	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+1235	7248	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+1236	7249	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+1237	7250	Mark Twain (Samuel Clemens)	1889	A Connecticut Yankee in King Arthur's Court
+1238	7265	William Makepeace Thackeray	2002	The Story of Lucy Gault
+1239	7284	Charlotte Mary Yonge	1848	The Communist Manifesto
+1240	7303	Edward Bellamy	1897	Equality
+1241	7307	Ivan Goncharov	2001	The Precipice
+1242	7307	Ivan Goncharov	1869	The Precipice
+1243	7308	H. G. Wells	1910	The History of Mr Polly
+1244	7348	Ben Macomber	2007	The Water Thief
+1245	7352	H. Belloc	1908	First and Last Things
+1246	7355	William H. Wharton	1959	The Mansion
+1247	7359	William D. Howells	1886	Indian Summer
+1248	7371	Ann Radcliffe	1790	A Sicilian Romance
+1249	7372	Nathaniel Hawthorne	1872	Septimius Felton
+1250	7381	Anthony Trollope	1872	The Eustace Diamonds
+1251	7385	Norman Douglas	1915	Old Calabria
+1252	7414	Sherwood Anderson	1920	Poor White
+1253	7423	P. G. Wodehouse	1909	Mike
+1254	7433	Henry James	1899	The Awkward Age
+1255	7435	R. D. Blackmore	1887	Springhaven
+1256	7443	Sherwood Anderson	1916	Windy McPherson's Son
+1257	7452	Paramhansa Yogananda	1946	Autobiography of a Yogi
+1258	7467	William Makepeace Thackeray	1855	The Newcomes
+1259	7469	George Eliot	1876	Daniel Deronda
+1260	7477	Edward J. M. D. Plunkett, Lord Dunsany	1912	The Book of Wonder
+1261	7481	Anthony Trollope	1857	The Three Clerks
+1262	7522	Upton Sinclair	1917	King Coal
+1263	7529	Henry James	1888	The Reverberator
+1264	7586	Edward Bulwer-Lytton	1849	The Caxtons
+1265	7587	Edward Bulwer-Lytton	1849	The Caxtons
+1266	7588	Edward Bulwer-Lytton	1849	The Caxtons
+1267	7589	Edward Bulwer-Lytton	1849	The Caxtons
+1268	7590	Edward Bulwer-Lytton	1849	The Caxtons
+1269	7591	Edward Bulwer-Lytton	1849	The Caxtons
+1270	7592	Edward Bulwer-Lytton	1849	The Caxtons
+1271	7593	Edward Bulwer-Lytton	1849	The Caxtons
+1272	7594	Edward Bulwer-Lytton	1849	The Caxtons
+1273	7595	Edward Bulwer-Lytton	1849	The Caxtons
+1274	7596	Edward Bulwer-Lytton	1849	The Caxtons
+1275	7597	Edward Bulwer-Lytton	1849	The Caxtons
+1276	7598	Edward Bulwer-Lytton	1849	The Caxtons
+1277	7599	Edward Bulwer-Lytton	1849	The Caxtons
+1278	7601	Edward Bulwer-Lytton	1849	The Caxtons
+1279	7602	Edward Bulwer-Lytton	1849	The Caxtons
+1280	7603	Edward Bulwer-Lytton	1849	The Caxtons
+1281	7604	Edward Bulwer-Lytton	1849	The Caxtons
+1282	7605	Edward Bulwer-Lytton	1849	The Caxtons
+1283	7728	Edward Bulwer-Lytton	1830	Paul Clifford
+1284	7729	Edward Bulwer-Lytton	1830	Paul Clifford
+1285	7730	Edward Bulwer-Lytton	1830	Paul Clifford
+1286	7731	Edward Bulwer-Lytton	1830	Paul Clifford
+1287	7732	Edward Bulwer-Lytton	1830	Paul Clifford
+1288	7733	Edward Bulwer-Lytton	1830	Paul Clifford
+1289	7734	Edward Bulwer-Lytton	1830	Paul Clifford
+1290	7735	Edward Bulwer-Lytton	1830	Paul Clifford
+1291	7774	Upton Sinclair	1903	The Journal of Arthur Stirling
+1292	7791	Martin Anderson Nexo	1900	Pelle the Conqueror
+1293	7792	Martin Anderson Nexo	1900	Pelle the Conqueror
+1294	7793	Martin Anderson Nexo	1900	Pelle the Conqueror
+1295	7794	Martin Anderson Nexo	1900	Pelle the Conqueror
+1296	7795	Martin Anderson Nexo	1900	Pelle the Conqueror
+1297	7797	William Dean Howells	1879	The Lady of The Aroostook
+1298	7813	Henry James	1874	Madame de Mauves
+1299	7835	Benjamin Disraeli	1870	Lothair
+1300	7853	Sir Walter Scott	1823	Quentin Durward
+1301	7891	Wilkie Collins	2005	The Dead Alive
+1302	7926	Benjamin Disraeli	1667	Paradise Lost
+1303	7957	C. K. Ober	1938	Out of the Silent Planet
+1304	7964	Arthur Conan Doyle	1889	The Mystery of Cloomber
+1305	7967	Romain Rolland	1904	Jean-Christophe
+1306	7979	Romain Rolland	1904	Jean-Christophe
+1307	7987	Sir Walter Scott	1828	The Fair Maid of Perth
+1308	8080	Henry James	1871	A Passionate Pilgrim
+1309	8086	Cory Doctorow	2003	Down and Out in the Magic Kingdom
+1310	8101	Henry Blake Fuller	1919	Bertram Cope's Year
+1311	8123	William Makepeace Thackeray	1857	The Virginians
+1312	8135	Sir Hugh Walpole	1898	The Cathedral
+1313	8135	Sir Hugh Walpole	1968	The Cathedral
+1314	8147	Rudyard Kipling	1888	The Man Who Would Be King
+1315	8164	P. G. Wodehouse	1919	My Man Jeeves
+1316	8166	Francois Rabelais	1534	Gargantua and Pantagruel
+1317	8167	Francois Rabelais	1534	Gargantua and Pantagruel
+1318	8168	Francois Rabelais	1534	Gargantua and Pantagruel
+1319	8169	Francois Rabelais	1534	Gargantua and Pantagruel
+1320	8170	Francois Rabelais	1534	Gargantua and Pantagruel
+1321	8184	H. Rider Haggard	1908	The Ghost Kings
+1322	8199	Garrett P. Serviss	1978	The Moon Maiden
+1323	8201	George MacDonald	1881	Mary Marston
+1324	8203	William Dean Howells	1882	A Modern Instance
+1325	8223	Charles Brockden Brown	1799	Edgar Huntly
+1326	8295	William Dean Howells	1907	Through the Eye of the Needle
+1327	8382	Catherine Parr Traill	1852	Canadian Crusoes
+1328	8387	Knut Hamsun	2010	Hunger
+1329	8387	Knut Hamsun	2017	Hunger
+1330	8387	Knut Hamsun	1890	Hunger
+1331	8394	Arthur Conan Doyle	1892	The Doings of Raffles Haw
+1332	8406	Julian Hawthorne	1980	Metroland
+1333	8409	Aphra Behn	1684	Love-Letters Between a Nobleman and His Sister
+1334	8430	William J. Locke	2002	The Story of Lucy Gault
+1335	8441	Robert W. Chambers	1951	Between Planets
+1336	8449	William Dean Howells	1894	A Traveler from Altruria
+1337	8455	Antonio Fogazzaro	1997	The Saint
+1338	8455	Antonio Fogazzaro	1905	The Saint
+1339	8471	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1340	8472	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1341	8473	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1342	8474	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1343	8475	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1344	8476	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1345	8477	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1346	8478	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1347	8479	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1348	8480	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1349	8481	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1350	8482	Mark Twain (Samuel Clemens)	1883	Life on the Mississippi
+1351	8525	Mark Twain (Samuel Clemens)	1906	Eve's Diary
+1352	8526	Mark Twain (Samuel Clemens)	1906	Eve's Diary
+1353	8527	Mark Twain (Samuel Clemens)	1906	Eve's Diary
+1354	8528	Mark Twain (Samuel Clemens)	1906	Eve's Diary
+1355	8529	Robert Herrick	1971	The World Inside
+1356	8549	Robert Hichens	1879	Travels with a Donkey in the Cévennes
+1357	8558	Emile Zola	1876	L'Assommoir
+1358	8574	Frances H. Burnett	1906	Racketty-Packetty House
+1359	8582	Mark Twain (Samuel Clemens)	1872	Roughing It
+1360	8583	Mark Twain (Samuel Clemens)	1872	Roughing It
+1361	8584	Mark Twain (Samuel Clemens)	1872	Roughing It
+1362	8585	Mark Twain (Samuel Clemens)	1872	Roughing It
+1363	8586	Mark Twain (Samuel Clemens)	1872	Roughing It
+1364	8587	Mark Twain (Samuel Clemens)	1872	Roughing It
+1365	8588	Mark Twain (Samuel Clemens)	1872	Roughing It
+1366	8589	Mark Twain (Samuel Clemens)	1872	Roughing It
+1367	8600	Emile Zola	1876	L'Assommoir
+1368	8642	Margaret Fuller Ossoli	1843	Woman in the Nineteenth Century
+1369	8644	Stanley Waterloo	1897	The Story of Ab
+1370	8646	Adam Ferguson, L.L.D.	1767	An Essay on the History of Civil Society
+1371	8647	James Fenimore Cooper	1844	Afloat and Ashore
+1372	8665	Charles Romyn Dake	1899	A Strange Discovery
+1373	8667	H. Rider Haggard	1882	Cetywayo and His White Neighbours
+1374	8736	Joseph Conrad	1987	Gaspar Ruiz
+1375	8774	William Wordsworth	1807	Poems, in Two Volumes
+1376	8778	William Morris	1897	The Water of the Wondrous Isles
+1377	8801	Walt Whitman	1865	Drum-Taps
+1378	8824	William Wordsworth	1807	Poems, in Two Volumes
+1379	8866	Neltje Blanchan	1917	Wild Flowers Worth Knowing
+1380	8867	Booth Tarkington	1918	The Magnificent Ambersons
+1381	8899	Elinor Glyn	1907	Three Weeks
+1382	8920	Edwin Arnold	1879	The Light of Asia
+1383	8953	William F. Kirk	2002	The Story of Lucy Gault
+1384	8954	Mary Elizabeth Braddon	1862	Lady Audley's Secret
+1385	9070	Molière	1660	The Imaginary Cuckold
+1386	9097	Henry M. Robert	2011	Robert's Rules of Order
+1387	9104	Theodore Roosevelt	1882	The Naval War of 1812
+1388	9169	Emile Zola	1897	Paris
+1389	9169	Emile Zola	2013	Paris
+1390	9182	Charlotte Brontë	1853	Villette
+1391	9198	Isaak Walton	1653	The Compleat Angler
+1392	9236	Nathaniel Hawthorne	1920	Main Street
+1393	9244	Nathaniel Hawthorne	1878	Little Daffydowndilly, and other stories
+1394	9244	Nathaniel Hawthorne	1883	Little Daffydowndilly, and other stories
+1395	9244	Nathaniel Hawthorne	1887	Little Daffydowndilly, and other stories
+1396	9244	Nathaniel Hawthorne	1879	Little Daffydowndilly, and other stories
+1397	9254	Nathaniel Hawthorne	1883	Biographical stories
+1398	9254	Nathaniel Hawthorne	1878	Biographical stories
+1399	9254	Nathaniel Hawthorne	1850	Biographical stories
+1400	9298	May Sinclair	1922	Life and Death of Harriett Frean
+1401	9301	George MacDonald	1871	Ranald Bannerman's Boyhood
+1402	9310	Arthur Schnitzler	1918	Casanova's Homecoming
+1403	9404	Sir Winston S. Churchill	1898	The Story of the Malakand Field Force
+1404	9473	Henryk Sienkiewicz	1900	The Knights of the Cross
+1405	9473	Henryk Sienkiewicz	1953	The Knights of the Cross
+1406	9483	Dora Sigerson	1906	The Story and Song of Black Roderick
+1407	9489	Gene Stratton-Porter	1915	Michael O'Halloran
+1408	9498	D. H. Lawrence	1912	The Trespasser
+1409	9504	Arthur Conan Doyle	1889	Micah Clarke
+1410	9606	Eugene Field	1889	A Little Book of Western Verse
+1411	9609	Henry Fielding	1742	Joseph Andrews
+1412	9611	Henry Fielding	1742	Joseph Andrews
+1413	9615	Ivan Sergeevich Turgenev	1850	The Diary of a Superfluous Man
+1414	9622	William Wordsworth	1798	Lyrical Ballads
+1415	9660	John Knox	1600	The first blast of the trumpet against the monstruous regiment of women
+1416	9662	David Hume	1748	An Enquiry Concerning Human Understanding
+1417	9780	H. Rider Haggard	1907	Fair Margaret
+1418	9795	William le Queux	2002	The Story of Lucy Gault
+1419	9805	William H. Ryus	2002	The Story of Lucy Gault
+1420	9808	Edgar Jepson	1920	The Loudwater Mystery
+1421	9829	James Branch Cabell	2006	The Jesus Dynasty
+1422	9830	F. Scott Fitzgerald	1922	The Beautiful and Damned
+1423	9879	Jeffery Farnol	1913	The Amateur Gentleman
+1424	9880	Elizabeth Cady Stanton	1895	The Woman's Bible
+1425	9904	William Makepeace Thackeray	2002	The Story of Lucy Gault
+1426	9908	Louis Joseph Vance	1918	The False Faces
+1427	9947	Anonymous	1921	Queen Victoria
+1428	9983	J. Sheridan Le Fanu	1864	Wylder's Hand
+1429	9990	Horatio Alger	1870	Brave and Bold
+1430	10002	William Hope Hodgson	1908	The House on the Borderland
+1431	10007	J. Sheridan LeFanu	1872	Carmilla
+1432	10095	Richard Garnett	1888	The Twilight of the Gods and Other Tales
+1433	10148	Howard Pyle	1883	The Merry Adventures of Robin Hood
+1434	10165	Percy Greg	1880	Across the Zodiac
+1435	10217	Mary Hunter Austin	1903	The Land of Little Rain
+1436	10291	H.G. Wells	1918	In the Fourth Year
+1437	10323	Edward Stratemeyer	1899	The Rover Boys at School
+1438	10324	Max Brand	2006	World War Z
+1439	10337	David Garnett	1922	Lady into Fox
+1440	10339	Jules Verne	1897	An Antarctic Mystery
+1441	10345	Fanny Trollope	1832	Domestic Manners of the Americans
+1442	10363	J. Fenimore Cooper	1831	The Bravo
+1443	10365	James Fenimore Cooper	1820	Precaution
+1444	10429	Zona Gale	1921	Miss Lulu Bett
+1445	10473	William Patterson White	2002	The Story of Lucy Gault
+1446	10482	William A. Alcott	2002	The Story of Lucy Gault
+1447	10540	Kate Douglas Wiggin	1910	Mother Carey's Chickens
+1448	10542	William Hope Hodgson	1907	"The Boats of the ""Glen Carrig"""
+1449	10554	P. G. Wodehouse	1934	Right Ho, Jeeves
+1450	10615	John Locke	1690	An Essay Concerning Human Understanding
+1451	10616	John Locke	1690	An Essay Concerning Human Understanding
+1452	10636	Marco Polo and Rustichello of Pisa	1300	The Travels of Marco Polo
+1453	10662	William Hope Hodgson	1912	The Night Land
+1454	10712	Herman Melville	1850	White-Jacket
+1455	10718	William Le Queux	2002	The Story of Lucy Gault
+1456	10736	Jack London	1902	Children of the Frost
+1457	10743	J. Meade Falkner	1898	Moonfleet
+1458	10830	Henry W. Hewet	2012	Canada
+1459	10926	Helen Hunt Jackson	1878	Saxe Holm's Stories
+1460	10935	Selma Lagerloef	1906	The Wonderful Adventures of Nils
+1461	10935	Selma Lagerloef	1907	The Wonderful Adventures of Nils
+1462	10943	Jacques Futrelle	1909	Elusive Isabel
+1463	10966	William Hope Hodgson	1909	The Ghost Pirates
+1464	10977	James Oliver Curwood	1916	The Grizzly King
+1465	10984	Knut Hamsun	1917	Growth of the Soil
+1466	10988	Frederick Ferdinand Moore	1979	The Devil's Alternative
+1467	11012	James Weldon Johnson	1912	The Autobiography of an Ex-Colored Man
+1468	11030	Harriet Jacobs (AKA Linda Brent)	1861	Incidents in the Life of a Slave Girl
+1469	11051	Jack London	1902	The Cruise of the Dazzler
+1470	11052	Edith Wharton	1913	The Custom of the Country
+1471	11060	Anatole France	1882	The Aspirations of Jean Servien
+1472	11068	William Hazlitt	2002	The Story of Lucy Gault
+1473	11127	Mary Roberts Rinehart	1913	The Case of Jennie Brice
+1474	11128	R. Austin Freeman	1907	The Red Thumb Mark
+1475	11162	Helen Bannerman	1899	The Story of Little Black Sambo
+1476	11167	Charles Augustus Kincaid	1914	Deccan Nursery Tales
+1477	11224	John Stuart Mill	1861	Utilitarianism
+1478	11228	Charles W. Chesnutt	1901	The Marrow of Tradition
+1479	11229	M.P. Shiel	1901	The Purple Cloud
+1480	11231	Herman Melville	1853	Bartleby, the Scrivener
+1481	11413	Arthur Conan Doyle	1893	The Refugees
+1482	11502	H. G. Wells	1914	An Englishman Looks at the World
+1483	11505	G. K. Chesterton	1908	All Things Considered
+1484	11556	Jules Verne	1896	Facing the Flag
+1485	11620	Miles Franklin	1901	My Brilliant Career
+1486	11639	James Branch Cabell	1921	Figures of Earth
+1487	11640	H. G. Wells	1899	Love and Mr Lewisham
+1488	11686	Henryk Sienkiewicz	1891	Without Dogma
+1489	11689	Alice Duer Miller	1915	Are Women People?
+1490	11696	H.G. Wells	1904	The Food of the Gods and How It Came to Earth
+1491	11757	Margery Williams	1922	The Velveteen Rabbit
+1492	11866	Daniel Defoe	1719	The life and Strange Surprizing Adventures of Robinson Crosoe
+1493	11870	H. G. Wells	1904	The Country of the Blind
+1494	11892	Alfred Pink	1904	Gardening for the Million
+1495	11913	H. Rider Haggard	1888	Mr Meeson's Will
+1496	11961	Joseph A. Altsheler	1939	The Legend of the Holy Drinker
+1497	12045	Clara Erskine Clement	1904	Women in the fine arts, from the seventh century B.C. to the twentieth century A.D.
+1498	12103	Beatrix Potter	1905	The Tale of Mrs. Tiggy-Winkle
+1499	12115	J Lort Stokes	1846	Discoveries in Australia
+1500	12146	John Lort Stokes	1846	Discoveries in Australia
+1501	12163	H.G. Wells	1899	The Sleeper Awakes
+1502	12175	Baroness Orczy	2005	The Venus of Salò
+1503	12177	Elia Wilkinson Peattie	1869	The Precipice
+1504	12177	Elia Wilkinson Peattie	2001	The Precipice
+1505	12187	R. Austin Freeman	1912	The Mystery of 31 New Inn
+1506	12245	G.K. Chesterton	1901	The Defendant
+1507	12259	Daniel Defoe	1720	Memoirs of a Cavalier
+1508	12346	F. Marion Crawford	1884	A Roman Singer
+1509	12375	Walter Kellogg Towers	1962	Masters of Space
+1510	12410	Marco Polo and Rustichello of Pisa	1300	The Travels of Marco Polo
+1511	12411	William Pember Reeves	2002	The Story of Lucy Gault
+1512	12431	Hannah Webster Foster	1797	The Coquette
+1513	12555	Arthur Conan Doyle	1898	The Tragedy of the Korosko
+1514	12587	Victor Hugo	1869	The Man Who Laughs
+1515	12623	Daniel Defoe	2010	The Rembrandt Affair
+1516	12670	G. Lytton Strachey	1912	Landmarks in French Literature
+1517	12678	William Henry Irwin	2002	The Story of Lucy Gault
+1518	12803	Thomas Love Peacock	1834	Tylney Hall
+1519	12861	James Hutton	1788	Theory of the Earth
+1520	12891	A. E. W. Mason	1906	Running Water
+1521	12954	Captain Frederick Marryat	1837	The Phantom Ship
+1522	12958	Samuel Richardson	1741	Pamela II
+1523	12959	Frederick Marryat	1832	Newton Forster
+1524	13072	Yoritomo-Tashi	1993	Common Sense
+1525	13072	Yoritomo-Tashi	1776	Common Sense
+1526	13102	Giovanni Boccaccio	1352	The Decameron
+1527	13102	Giovanni Boccaccio	1351	The Decameron
+1528	13144	Eileen Edna Power	1924	Medieval People
+1529	13152	Arthur Conan Doyle	1890	The Firm of Girdlestone
+1530	13240	John W. Cousin	1910	A Short Biographical Dictionary of English Literature
+1531	13321	Charles Warren Stoddard	1859	On the Origin of Species
+1532	13413	Anton Chekhov	1887	The Bet and Other Stories/Enemies
+1533	13468	G. K. Chesterton	1920	The New Jerusalem
+1534	13486	William Morris	1876	The Story of Sigurd the Volsung and the Fall of the Niblungs
+1535	13514	Washington Irving	1824	Tales of a Traveller
+1536	13610	Havelock Ellis	1900	Studies in the Psychology of Sex Vol. 1
+1537	13611	Havelock Ellis	1900	Studies in the Psychology of Sex Vol. 1
+1538	13612	Havelock Ellis	1900	Studies in the Psychology of Sex Vol. 1
+1539	13613	Havelock Ellis	1900	Studies in the Psychology of Sex Vol. 1
+1540	13614	Havelock Ellis	1900	Studies in the Psychology of Sex Vol. 1
+1541	13615	Havelock Ellis	1900	Studies in the Psychology of Sex Vol. 1
+1542	13626	Alexandre Dumas	1847	The Forty-five Guardsmen
+1543	13673	Captain Frederick Marryat	1835	The Pacha of Many Tales
+1544	13723	Arnold Bennett	1806	Leonora
+1545	13969	Arthur Machen	1907	The Hill of Dreams
+1546	13970	Robert M. Bird	1837	Nick of the Woods
+1547	13985	Henry Sydnor Harrison	1913	V.V.'s Eyes
+1548	14001	Emerson Hough	1902	The Mississippi Bubble
+1549	14018	Laura E. Richards	1912	Marie
+1550	14021	Robert Hugh Benson	1908	Lord of the World
+1551	14044	Arthur Machen	1951	The Sands of Mars
+1552	14060	H. G. Wells	1916	Mr. Britling Sees It Through
+1553	14079	Alice Hegan Rice	1905	Sandy
+1554	14107	John Meade Falkner	1895	The Lost Stradivarius
+1555	14179	James Hutton	1788	Theory of the Earth
+1556	14220	Beatrix Potter	1909	The Tale of The Flopsy Bunnies
+1557	14228	Washington Irving	1822	Bracebridge Hall
+1558	14257	Somerset Maugham	1971	The Magician
+1559	14257	Somerset Maugham	1908	The Magician
+1560	14273	Selma Lagerlof	1894	Invisible links
+1561	14293	Robert Carlton Brown	1978	The Complete Guide to Middle-earth
+1562	14301	Pierre Benoit	1919	Atlantida
+1563	14304	Beatrix Potter	1902	The Tale of Peter Rabbit
+1564	14328	Boethius	524	The Consolation of Philosophy
+1565	14355	Emerson Hough	1909	54-40 or Fight
+1566	14356	Selma Lagerlof	1914	The Emperor of Portugallia
+1567	14363	Apsley Cherry-Garrard	1922	The Worst Journey in the World
+1568	14474	Michael Faraday	1861	The Chemical History of a Candle
+1569	14486	B. M. Bower	2005	The Tender Bar
+1570	14519	Alfred Sutro	1963	Family Favourites
+1571	14540	Saki	1913	When William Came
+1572	14581	Vaughan Kester	1960	The Lotus and the Robot
+1573	14645	Robert Grant	1900	Unleavened Bread
+1574	14654	Jack London	1902	A Daughter of the Snows
+1575	14671	Charles Major	1902	Dorothy Vernon of Haddon Hall
+1576	14682	Henry Harland	1932	My Friend Flicka
+1577	14712	Frank Norris	1914	Vandover and the Brute
+1578	14838	Beatrix Potter	1902	The Tale of Peter Rabbit
+1579	14851	J. S. LeFanu	1922	Seven Pillars of Wisdom
+1580	14860	Walter Scott	1890	The Journal of Sir Walter Scott
+1581	14868	Beatrix Potter	1903	The Tailor of Gloucester
+1582	14872	Beatrix Potter	1903	The Tale of Squirrel Nutkin
+1583	14877	Beatrix Potter	1909	The Tale of Ginger and Pickles
+1584	14883	Martha Finley	2012	The Party Journalist
+1585	14888	Joseph Conrad	2009	The Gathering Storm
+1586	15067	Joris-Karl Huysmans	1968	The Cathedral
+1587	15067	Joris-Karl Huysmans	1898	The Cathedral
+1588	15077	Beatrix Potter	1906	The Tale of Mr. Jeremy Fisher
+1589	15095	Douglass Sherley	1982	Life, the Universe and Everything
+1590	15099	Edward Eggleston	1871	The Hoosier Schoolmaster
+1591	15137	Beatrix Potter	1905	The Tale of Mrs. Tiggy-Winkle
+1592	15179	Douglass Sherley et al.	1982	Life, the Universe and Everything
+1593	15233	William Beatty	2002	The Story of Lucy Gault
+1594	15263	William Still	2002	The Story of Lucy Gault
+1595	15284	Beatrix Potter	1918	The Tale of Johnny Town-Mouse
+1596	15335	Pierre Loti	1888	Madame Chrysanthème
+1597	15399	Olaudah Equiano	1789	The Interesting Narrative of the Life of Olaudah Equiano
+1598	15408	Gertrude Stein	1909	Three Lives
+1599	15422	Herman Melville	1855	Israel Potter
+1600	15482	Ruth Sawyer	1915	The Primrose Ring
+1601	15487	Jane Addams	1902	Democracy and Social Ethics
+1602	15491	Robert Hooke	1665	Micrographia
+1603	15502	Jackson Gregory	1902	The Cruise of the Dazzler
+1604	15542	William MacLeod Raine	2002	The Story of Lucy Gault
+1605	15569	Mrs. Molesworth	1877	The Cuckoo Clock
+1606	15575	Beatrix Potter	1908	The Tale of Samuel Whiskers or The Roly-Poly Pudding
+1607	15578	Frank L. Packard	1989	The Trial
+1608	15578	Frank L. Packard	1987	The Trial
+1609	15578	Frank L. Packard	1925	The Trial
+1610	15588	Jonas Lie	1874	The Pilot and His Wife
+1611	15663	George Rawlinson	1949	Nineteen Eighty-Four
+1612	15723	Edward Stratemeyer	1909	The Rover Boys on Treasure Isle
+1613	15725	Benito Pérez Galdós	1876	Doña Perfecta
+1614	15738	May Edginton	1667	Paradise Lost
+1615	15776	John Maynard Keynes	1920	The Economic Consequences of the Peace
+1616	15776	John Maynard Keynes	1919	The Economic Consequences of the Peace
+1617	15784	Isaac Newton	1728	The Chronology of Ancient Kingdoms
+1618	15795	Edward Stratemeyer	1904	The Rover Boys in Camp
+1619	15808	Robert Hugh Benson	1906	The History of Richard Raynal, Solitary
+1620	15830	William Wells Brown	1959	The Mansion
+1621	15837	Selma Lagerlöf	1901	Jerusalem
+1622	15837	Selma Lagerlöf	1902	Jerusalem
+1623	15859	Herman Melville	1856	The Piazza Tales
+1624	15948	William Morris	1950	The Town
+1625	15948	William Morris	1957	The Town
+1626	15976	Rudyard Kipling	1906	Puck of Pook's Hill
+1627	15991	Frederick Marryat	1834	Japhet, in Search of a Father
+1628	15992	Robert Hugh Benson	1912	Come Rack! Come Rope!
+1629	16000	Arthur Thomas Quiller-Couch	1951	The Sands of Mars
+1630	16007	William Carleton	2002	The Story of Lucy Gault
+1631	16017	William Carleton	2002	The Story of Lucy Gault
+1632	16058	Annie Besant and Charles W. Leadbeater	1908	Occult Chemistry
+1633	16078	Patrick MacGill	1992	The Butcher Boy
+1634	16096	Frank Norris	1900	A Man's Woman
+1635	16161	George Rawlinson	1875	The Seven Great Monarchies Of The Ancient Eastern World
+1636	16162	George Rawlinson	1875	The Seven Great Monarchies Of The Ancient Eastern World
+1637	16163	George Rawlinson	1875	The Seven Great Monarchies Of The Ancient Eastern World
+1638	16164	George Rawlinson	1875	The Seven Great Monarchies Of The Ancient Eastern World
+1639	16165	George Rawlinson	1875	The Seven Great Monarchies Of The Ancient Eastern World
+1640	16166	George Rawlinson	1875	The Seven Great Monarchies Of The Ancient Eastern World
+1641	16167	George Rawlinson	1875	The Seven Great Monarchies Of The Ancient Eastern World
+1642	16199	William Godwin	1798	Memoirs of the Author of A Vindication of the Rights of Woman
+1643	16261	Lafcadio Hearn	1887	Some Chinese Ghosts
+1644	16310	Richard Harding Davis	2012	Canada
+1645	16321	John Hay	1883	The Breadwinners
+1646	16375	Robert Hugh Benson	1879	Travels with a Donkey in the Cévennes
+1647	16389	Elizabeth von Arnim	1923	The Enchanted April
+1648	16470	Upton Sinclair	1917	The Profits of Religion
+1649	16517	W. Somerset Maugham	1897	Liza of Lambeth
+1650	16523	Bahá’u’lláh	1872	Kitáb-i-Aqdas
+1651	16560	Francis C. Woodworth	1798	The Midnight Bell
+1652	16677	Marie Belloc Lowndes	1912	The Chink in the Armour
+1653	16692	Elinor Glyn	1906	Beyond the Rocks
+1654	16697	Bahá’u’lláh	1891	Epistle to the Son of the Wolf
+1655	16741	Mary H. Eastman	1852	Aunt Phillis's Cabin
+1656	16768	William Marsden	2002	The Story of Lucy Gault
+1657	16769	G. K. Chesterton	1908	Orthodoxy
+1658	16939	Bahá’u’lláh	1850	Gems of Divine Mysteries
+1659	16941	Bahá’u’lláh	1857	The Hidden Words
+1660	16965	E. Gordon Browne	1921	Queen Victoria
+1661	17011	Peter Rosegger	1905	I.N.R.I.
+1662	17028	Cory Doctorow	2004	Eastern Standard Tribe
+1663	17043	William MacLeod Raine	2002	The Story of Lucy Gault
+1664	17047	John Buchan	1900	The Half-Hearted
+1665	17075	Thomas More	1553	Dialogue of Comfort against Tribulation
+1666	17089	Beatrix Potter	1910	The Tale of Mrs. Tittlemouse
+1667	17125	Richmal Crompton	1922	More William
+1668	17144	George Sylvester Viereck	1907	The House of the Vampire
+1669	17155	Frederick Boyle	2012	The Party Journalist
+1670	17157	Jonathan Swift	1726	Gulliver's Travels
+1671	17176	Arnold Bennett	2002	The Story of Lucy Gault
+1672	17195	Elbert Hubbard	1916	A Message to Garcia
+1673	17213	Wilfred Scawen Blunt	1882	The Future of Islam
+1674	17306	Frederick Engels	1845	The Condition of the Working Class in England
+1675	17314	E. Nesbit	2004	Five Children and It
+1676	17314	E. Nesbit	1902	Five Children and It
+1677	17354	Luella Agnes Owen	1898	Cave Regions of the Ozarks and Black Hills
+1678	17396	Frances Hodgson Burnett	1911	The Secret Garden
+1679	17460	R. D. Blackmore	1869	Lorna Doone
+1680	17500	Thomas Hardy	1878	The Return of the Native
+1681	17504	Elbert Hubbard	1997	The Stranger
+1682	17504	Elbert Hubbard	1987	The Stranger
+1683	17504	Elbert Hubbard	1986	The Stranger
+1684	17504	Elbert Hubbard	1942	The Stranger
+1685	17508	H. G. Wells	1897	Certain Personal Matters
+1686	17731	Joseph Conrad	1897	The Nigger of the 'Narcissus'
+1687	17769	J. Sheridan Le Fanu	1863	The House by the Churchyard
+1688	17772	Juliana Horatia Ewing	1869	Mrs. Overtheway's Remembrances
+1689	17780	George Eliot	1857	Scenes of Clerical Life
+1690	17792	Mary E. Wilkins Freeman	1899	The Jamesons
+1691	17844	Will Lillibridge	1941	Berlin Diary
+1692	17851	Mary Prince	1831	The History of Mary Prince
+1693	17854	Paul Laurence Dunbar	1902	The Sport of the Gods
+1694	17965	Alfred Ollivant	1963	Family Favourites
+1695	17973	William Morris	2002	The Story of Lucy Gault
+1696	18000	Anthony Trollope	1867	Phineas Finn
+1697	18021	Herbert Allen Giles	1902	China and the Chinese
+1698	18135	Alexander Smith	1857	Der Nachsommer
+1699	18136	William Morgan	2002	The Story of Lucy Gault
+1700	18137	Henry Beam Piper	1962	Little Fuzzy
+1701	18185	Robert W. Chambers	1997	The Stranger
+1702	18185	Robert W. Chambers	1987	The Stranger
+1703	18185	Robert W. Chambers	1986	The Stranger
+1704	18185	Robert W. Chambers	1942	The Stranger
+1705	18202	William Withington	2002	The Story of Lucy Gault
+1706	18224	Cory Doctorow	2005	Someone Comes to Town, Someone Leaves Town
+1707	18247	Mary Shelley	1826	The Last Man
+1708	18259	Booth Tarkington	1922	Gentle Julia
+1709	18304	Julian Street	1927	Adrienne Mesurat
+1710	18328	William Morris	1876	The Story of Sigurd the Volsung and the Fall of the Niblungs
+1711	18458	Andre Norton	1957	Star Born
+1712	18459	Francesco Colonna	1999	Hypnerotomachia Poliphili
+1713	18459	Francesco Colonna	1499	Hypnerotomachia Poliphili
+1714	18508	Charles Brockden Brown	1799	Arthur Mervyn
+1715	18510	James Runciman	2006	The Jesus Dynasty
+1716	18513	John Mark	1997	Cash: The Autobiography
+1717	18566	Henry James, Junr.	1879	Hawthorne
+1718	18582	Elizabeth Stuart Phelps	1866	Gypsy Breynton
+1719	18602	George Oliver Smith	1959	"The Fourth ""R"""
+1720	18614	Elizabeth Lewis and George MacDonald	1871	At the Back of the North Wind
+1721	18626	Arthur Scott Bailey	1951	The Sands of Mars
+1722	18640	Anthony Trollope	1874	Phineas Redux
+1723	18666	L. T. Meade	1922	Seven Pillars of Wisdom
+1724	18689	Elizabeth Wetherell	1850	The Wide, Wide World
+1725	18719	Murray Leinster	1953	Space Tug
+1726	18752	Friedrich de la Motte Fouquée	1811	Undine
+1727	18794	Christiaan Rudolf de Wet	1902	Three Years' War
+1728	18807	Henry Beam Piper	1948	He Walked Around the Horses
+1729	18829	Larry Evans	2004	Winner Take All
+1730	18835	Alfred North Whitehead	1971	The Concept of Nature in Marx
+1731	18860	William Winter	2002	The Story of Lucy Gault
+1732	18881	John Kendrick Bangs	1869	The Idiot
+1733	18883	A. E. W. Mason	1902	The Four Feathers
+1734	18891	Ethel C. Pedley	1899	Dot and the Kangaroo
+1735	18949	Henry Beam Piper	2003	Day of the Iguana
+1736	18988	William Combe	2002	The Story of Lucy Gault
+1737	19002	Lewis Carroll	1865	Alice's Adventures in Wonderland
+1738	19082	William Rounseville Alger	2002	The Story of Lucy Gault
+1739	19092	Thornton W. Burgess	1917	The Adventures of Paddy the Beaver
+1740	19134	W. J. Dawson	1992	The Children of Men
+1741	19141	Garrett Putman Serviss	1947	Edison's Conquest of Mars
+1742	19145	Andre Norton	1958	The Time Traders
+1743	19191	Edith Wharton	1907	The Fruit of the Tree
+1744	19237	‘Abdu’l-Bahá	1875	The Secret of Divine Civilization
+1745	19252	Shoghi Effendi	1974	Bahá'í Administration
+1746	19284	‘Abdu’l-Bahá	1912	Paris Talks
+1747	19337	Charles Dickens	1843	A Christmas Carol
+1748	19362	Jules Verne and Michel Verne	1910	In the Year 2889
+1749	19447	Albert Pike	1872	Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry
+1750	19450	L Frank. Baum	1908	Dorothy and the Wizard in Oz
+1751	19466	L Frank. Baum	1904	The Marvelous Land of Oz
+1752	19467	L Frank. Baum	1914	Little Wizard Stories of Oz
+1753	19500	Anthony Trollope	1864	Can You Forgive Her?
+1754	19505	Charles Dickens	1843	A Christmas Carol
+1755	19506	Mark Twain	1889	A Connecticut Yankee in King Arthur's Court
+1756	19508	Jonathan Swift	1729	A Modest Proposal
+1757	19515	Edgar Rice Burroughs	1917	A Princess of Mars
+1758	19527	William MacLeod Raine	2002	The Story of Lucy Gault
+1759	19573	Lewis Carroll	1865	Alice's Adventures in Wonderland
+1760	19575	Lucy Maud Montgomery	1909	Anne of Avonlea
+1761	19576	Lucy Maud Montgomery	1908	Anne of Green Gables
+1762	19615	Legh Richmond	1814	The Dairyman's Daughter
+1763	19634	Friedrich Nietzsche	1886	Beyond Good and Evil
+1764	19640	Mark Twain	1885	Adventures of Huckleberry Finn
+1765	19640	Mark Twain	1884	Adventures of Huckleberry Finn
+1766	19651	Andre Alice Norton	1963	Key Out of Time
+1767	19660	E. Everett Evans	1953	Man of Many Minds
+1768	19680	Leo Tolstoy	1852	Childhood
+1769	19683	Herbert Allen Giles	1902	China and the Chinese
+1770	19686	Aldous Huxley	1921	Crome Yellow
+1771	19710	Patrick MacGill	2012	The Party Journalist
+1772	19722	Robert Louis Stevenson	1885	A Child's Garden of Verses
+1773	19726	Marion Zimmer Bradley	1961	The Door Through Space
+1774	19732	Hall Caine	1900	The Eternal City
+1775	19762	Thomas Clark Hinkle	1973	How to Eat Fried Worms
+1776	19766	Mary E. Wilkins	1892	Young Lucretia and Other Stories
+1777	19771	Benjamin Disraeli	1837	Henrietta Temple
+1778	19782	Jean Webster	1912	Daddy-Long-Legs
+1779	19796	René Descartes	1637	Discourse on the Method
+1780	19797	Bram Stoker	1897	Dracula
+1781	19805	Beatrix Potter	1910	The Tale of Mrs. Tittlemouse
+1782	19810	Willa Sibert Cather	1918	My Ántonia
+1783	19831	Jefferson Davis	1881	The Rise and Fall of the Confederate Government
+1784	19839	Jane Austen	1815	Emma
+1785	19841	Mark Twain	1906	Eve's Diary
+1786	19978	Fernando Pessoa	1918	35 Sonnets
+1787	19986	Fà'iz El-Ghusein	1917	Martyred Armenia
+1788	20008	Benjamin Disraeli	1831	The Young Duke
+1789	20058	Gilbert K. Chesterton	1904	The Napoleon of Notting Hill
+1790	20085	Henry James	1890	The Tragic Muse
+1791	20101	Charles King	1916	Under Fire
+1792	20101	Charles King	2015	Under Fire
+1793	20122	Alexandre Dumas père	1849	The Queen's Necklace
+1794	20154	John Wood Campbell	1961	Invaders from the Infinite
+1795	20198	George Borrow	1851	Lavengro
+1796	20241	William Painter	1890	The Palace of Pleasure
+1797	20312	Charles Kingsley	1997	Out of the Dust
+1798	20330	Harris Dickson	1901	The Black Wolf's Breed
+1799	20335	James M. Beck	1936	The Cat and the Devil
+1800	20358	Jean Webster	1907	Jerry Junior
+1801	20387	M. R. (Montague Rhodes) James	1919	A Thin Ghost and Others
+1802	20492	Rosa Mulholland	2005	Terry
+1803	20506	H. C. Leeds	1920	The Cats of Ulthar
+1804	20519	George Oliver Smith	1956	Highways in Hiding
+1805	20532	P. G. Wodehouse	1906	Love Among the Chickens
+1806	20563	Charles Goff Thomson	2005	Terry
+1807	20606	Edith Nesbit	1910	The Magic City
+1808	20657	Charles Lamb and Mary  Lamb	1807	Tales from Shakspeare
+1809	20657	Charles Lamb and Mary  Lamb	1837	Tales from Shakspeare
+1810	20657	Charles Lamb and Mary  Lamb	1918	Tales from Shakspeare
+1811	20657	Charles Lamb and Mary  Lamb	1922	Tales from Shakspeare
+1812	20707	John W Campbell	1953	The Black Star Passes
+1813	20721	Amanda Minnie Douglas	1909	A Little Girl in Old Pittsburg
+1814	20722	Amanda Minnie Douglas	1909	A Little Girl in Old Pittsburg
+1815	20728	Henry Beam Piper	1963	Space Viking
+1816	20749	Sir Walter Scott	1823	St. Ronan's Well
+1817	20781	Johanna Spyri	1880	Heidi
+1818	20782	Edward Elmer Smith	1934	Triplanetary
+1819	20788	Andre Norton	1960	Storm Over Warlock
+1820	20795	Charles Dickens	1845	The Cricket on the Hearth
+1821	20796	Marion Zimmer Bradley	1963	The Colors of Space
+1822	20857	Edward Elmer Smith	1947	Spacehounds of IPC
+1823	20869	Edward Elmer Smith and Lee Hawkins Garby	1928	The Skylark of Space
+1824	20919	Robert Sheckley	1960	The Status Civilization
+1825	20933	Gilbert White	1789	The Natural History and Antiquities of Selborne
+1826	20934	Gilbert White	1789	The Natural History and Antiquities of Selborne
+1827	20988	John W Campbell	1957	Islands of Space
+1828	21002	Thomas Jefferson	1894	The Writings of Thomas Paine
+1829	21048	Jean Webster	1911	Just Patty
+1830	21051	Edward Elmer Smith	1948	Skylark Three
+1831	21088	John Conroy Hutcheson	2010	The White Road
+1832	21088	John Conroy Hutcheson	2002	The White Road
+1833	21188	Victor Appleton	1914	Tom Swift and His Photo Telephone
+1834	21197	Diego Collado	1632	Diego Collado's Grammar of the Japanese Language
+1835	21205	Harold Bindloss	1910	The Gold Trail
+1836	21264	Jean Webster	1908	The Four Pools Mystery
+1837	21266	Charles Almanzo Babcock	1901	Bird day; how to prepare for it
+1838	21331	James Morier	1824	The adventures of Hajji Baba of Ispahan
+1839	21549	Captain Frederick Marryat	1834	Jacob Faithful
+1840	21550	Captain Frederick Marryat	1830	The King's Own
+1841	21557	Captain Frederick Marryat	1832	Newton Forster
+1842	21571	Frederick Marryat	1835	The Pacha of Many Tales
+1843	21572	Frederick Marryat	1842	Percival Keene
+1844	21573	Frederick Marryat	1837	The Phantom Ship
+1845	21578	Edward Howard	1836	Rattlin the Reefer
+1846	21580	Frederick Marryat	1822	The Pirate
+1847	21582	Patrick Fahy	2012	The Party Journalist
+1848	21621	William G. Rutherford	2002	The Story of Lucy Gault
+1849	21639	Jean Webster	1903	When Patty Went to College
+1850	21659	Miles Franklin	1909	Some Everyday Folk and Dawn
+1851	21670	Garrett Putnam Serviss	1947	Edison's Conquest of Mars
+1852	21770	Henry James	1884	The Author of Beltraffio
+1853	21816	Herman Melville	1857	The Confidence-Man
+1854	21839	Jane Austen	1811	Sense and Sensibility
+1855	21873	Harry Harrison	1962	Planet of the Damned
+1856	21886	Mary Johnston	1667	Paradise Lost
+1857	21913	William O. Stoddard	2002	The Story of Lucy Gault
+1858	21914	L. Frank Baum	1905	The Woggle-Bug Book
+1859	21936	Jack London	1902	The Cruise of the Dazzler
+1860	21943	Adelbert von Chamisso	1814	Peter Schlemihl
+1861	21957	David C. Taylor	1980	The Psychology of the Psychic
+1862	21964	William Patterson Atkinson	2002	The Story of Lucy Gault
+1863	21969	Henry James	1911	The Outcry
+1864	21970	Jack London	1912	The Scarlet Plague
+1865	21971	Jack London	1912	A Son of the Sun
+1866	22053	U. Waldo Cutler	1904	Stories of King Arthur and His Knights
+1867	22109	Dan Beard	1980	Metroland
+1868	22147	Daniel A. Goodsell	1980	The Secret Servant
+1869	22147	Daniel A. Goodsell	2007	The Secret Servant
+1870	22158	Harold MacGrath	1908	The Lure of the Mask
+1871	22214	Margaret Wolfe Hamilton	1878	Molly Bawn
+1872	22472	Charles Fort	1919	The Book of the Damned
+1873	22480	D. H. Lawrence	1916	The Prussian Officer and Other Stories
+1874	22496	Frederick Marryat	1844	The Settlers in Canada
+1875	22524	William Morrison	2002	The Story of Lucy Gault
+1876	22532	Emma Speed Sampson	1922	Mary Louise and Josie O'Gorman
+1877	22547	Edward Stratemeyer (AKA Arthur M. Winfield)	1909	The Rover Boys on Treasure Isle
+1878	22557	J. G. Bourinot	2012	The Casual Vacancy
+1879	22566	L. Frank Baum	1908	Dorothy and the Wizard in Oz
+1880	22629	Edward Elmer Smith	1960	The Vortex Blaster
+1881	22650	William Morris	1858	The Defence of Guenevere and Other Poems
+1882	22680	James Russell Lowell	1988	The Big Nowhere
+1883	22704	Edward Bellamy	1889	To Whom This May Come
+1884	22720	William Le Queux	2002	The Story of Lucy Gault
+1885	22752	William MacLeod Raine	2002	The Story of Lucy Gault
+1886	22754	Edward Elmer Smith	1962	Masters of Space
+1887	22775	Hugo Münsterberg	1909	Psychotherapy
+1888	22782	Paul Carus	1927	The Living Buddha
+1889	22877	George Borrow	1851	Lavengro
+1890	22878	George Borrow	1851	Lavengro
+1891	22888	Kate Greenaway	1879	Under the Window
+1892	22910	Sir Henry James Sumner Maine	1861	Ancient Law
+1893	22914	Robert Boyle	1661	The Sceptical Chymist
+1894	22928	Stephen French Whitman	1974	Carrie
+1895	22996	Edward Stratemeyer	1906	The Rover Boys on the Plains
+1896	23034	Brantz Mayer	1855	Captain Canot
+1897	23042	William Shakespeare	1940	The Hamlet
+1898	23046	William Shakespeare	2002	The Story of Lucy Gault
+1899	23058	Alexander Sergeievitch Poushkin	1834	The Queen of Spades
+1900	23126	Frederic W. Farrar	1858	Eric, or, Little by Little
+1901	23193	Mayne Reid	1855	The White Chief
+1902	23287	George Borrow	1851	Lavengro
+1903	23303	Anonymous	2012	Canada
+1904	23344	Charles Dickens	1859	On the Origin of Species
+1905	23350	Beatrix Potter	1922	Cecily Parsley's Nursery Rhymes
+1906	23489	Jules Verne	1882	Godfrey Morgan
+1907	23506	Joseph Conrad	1986	Chance
+1908	23506	Joseph Conrad	2004	Chance
+1909	23506	Joseph Conrad	1913	Chance
+1910	23514	Thomas Nelson Page	1951	The Holy Sinner
+1911	23564	William Harrison Ainsworth	1834	Rookwood
+1912	23601	James B. Connolly	1961	The Lovers
+1913	23601	James B. Connolly	2009	The Lovers
+1914	23614	Oliver Herford	1995	Happy Days
+1915	23625	Norman Lindsay	1918	The Magic Pudding
+1916	23636	William Fitzgerald Jenkins	2010	A Fatal Frame of Mind
+1917	23727	D. H. Lawrence	1920	The Lost Girl
+1918	23731	Stanley Grauman Weinbaum	1934	A Martian Odyssey
+1919	23771	Edward Eggleston	1871	The Hoosier Schoolmaster
+1920	23772	John Donne	1624	Devotions upon Emergent Occasions
+1921	23779	Amanda Millie Douglas	1909	A Little Girl in Old Pittsburg
+1922	23786	Amanda Millie Douglas	1909	A Little Girl in Old Pittsburg
+1923	23790	John Wood Campbell	1966	The Ultimate Weapon
+1924	23860	William A. Alcott	2002	The Story of Lucy Gault
+1925	23885	Douglas Grant	1982	Life, the Universe and Everything
+1926	23923	Owen Wister	1907	How Doth the Simple Spelling Bee
+1927	23997	Aleksandr Sergeevich Pushkin	1825	Eugene Onegin
+1928	24010	Anatole France	1912	The Gods Are Athirst
+1929	24020	George Eliot	1862	Romola
+1930	24022	Charles Dickens	1843	A Christmas Carol
+1931	24034	Anthony Hope	1978	The Mirror
+1932	24034	Anthony Hope	1885	The Mirror
+1933	24035	Murray Leinster	1959	The Pirates of Zan
+1934	24093	Thomas Dixon	1911	The Root of Evil
+1935	24096	J.-K. (Joris-Karl) Huysmans	1895	En route
+1936	24103	Anthony Trollope	1879	Cousin Henry
+1937	24201	R. Austin Freeman	1911	The Eye of Osiris
+1938	24211	Frederick Marryat	1844	The Settlers in Canada
+1939	24246	Ward Moore	1947	Greener Than You Think
+1940	24280	John Keats	1667	Paradise Lost
+1941	24297	William Murray Graydon	2002	The Story of Lucy Gault
+1942	24299	William Murray Graydon	2002	The Story of Lucy Gault
+1943	24301	William Murray Graydon	2002	The Story of Lucy Gault
+1944	24306	Robert Chambers	1981	The Flame Knife
+1945	24379	Charles E. Carryl	1892	The Admiral's Caravan
+1946	24436	Gordon Randall Garrett	1962	Anything You Can Do
+1947	24459	L. Frank Baum	1917	The Lost Princess of Oz
+1948	24470	Frederick Marryat	1834	Japhet, in Search of a Father
+1949	24499	Robert Smythe Hichens	1894	The Green Carnation
+1950	24574	John Henry Newman	1848	Loss and Gain
+1951	24632	Talbot Baines Reed	1887	The Fifth Form at St. Dominic's
+1952	24693	John Maclean	1935	Tortilla Flat
+1953	24742	James Stephens	2006	Mary, Mary
+1954	24842	Ernest Dunlop Swinton	1904	The Defence of Duffer's Drift
+1955	24923	Charles Darwin	1868	The Variation of Animals and Plants under Domestication
+1956	25014	Gustave Flaubert	1881	Bouvard et Pécuchet
+1957	25031	Charles E. Carryl	1885	Davy and the Goblin
+1958	25051	Murray Leinster	1953	Space Platform
+1959	25053	Gustave Flaubert	1874	The Temptation of Saint Anthony
+1960	25063	John Gay	2008	The Reapers
+1961	25068	William Martin	1795	The Book of Los
+1962	25102	Hector Malot	1893	Nobody's Girl
+1963	25301	Thornton W. Burgess	1915	The Adventures of Danny Meadow Mouse
+1964	25308	G. K. Chesterton	1922	Eugenics and other Evils
+1965	25344	Nathaniel Hawthorne	1850	The Scarlet Letter
+1966	25345	Jacob Wassermann	2006	The Jesus Dynasty
+1967	25383	William Dean Howells	2002	The Story of Lucy Gault
+1968	25430	Sinclair Lewis	1917	The Innocents
+1969	25439	Edward Bellamy	1888	Looking Backward
+1970	25449	George Manville Fenn	1967	The Cat
+1971	25474	Sinclair Lewis	1917	The Job
+1972	25519	L. Frank Baum	1914	Little Wizard Stories of Oz
+1973	25529	Thornton W. Burgess	1915	The Adventures of Danny Meadow Mouse
+1974	25547	William Morris	1897	The Sundering Flood
+1975	25550	Andre Alice Norton	1962	The Defiant Agents
+1976	25570	Hall Caine	1894	The Manxman
+1977	25579	Anthony Trollope	1870	Ralph the Heir
+1978	25581	L. Frank Baum	1916	Rinkitink in Oz
+1979	25584	Joseph Sheridan Le Fanu	1975	The Purcell Papers
+1980	25584	Joseph Sheridan Le Fanu	1880	The Purcell Papers
+1981	25608	Robert Louis Stevenson	1885	A Child's Garden of Verses
+1982	25609	Robert Louis Stevenson	1885	A Child's Garden of Verses
+1983	25610	Robert Louis Stevenson	1885	A Child's Garden of Verses
+1984	25611	Robert Louis Stevenson	1885	A Child's Garden of Verses
+1985	25617	Robert Louis Stevenson	1885	A Child's Garden of Verses
+1986	25627	Robert Silverberg	1961	The Haunted Monastery
+1987	25767	Henry James	1893	Picture and Text
+1988	25786	Charles Whibley	1842	American Notes
+1989	25838	Francis Marion Crawford	1907	Fair Margaret
+1990	25876	George Douglas Brown	1901	The House with the Green Shutters
+1991	25885	Ben Ames Williams	1919	All the Brothers Were Valiant
+1992	25888	William Beebe	2002	The Story of Lucy Gault
+1993	25955	Emmuska Orczy, Baroness Orczy	1915	The Bronze Eagle
+1994	26027	Rudyard Kipling	1906	Puck of Pook's Hill
+1995	26098	Alan Alexander Milne	1995	Happy Days
+1996	26240	Thomas Dixon	1906	The Clansman
+1997	26295	William M. Thayer	2002	The Story of Lucy Gault
+1998	26316	Ellen Glasgow	1913	Virginia
+1999	26334	William Edward Hartpole Lecky	2002	The Story of Lucy Gault
+2000	26348	Hans Aanrud	1903	Lisbeth Longfrock
+2001	26494	Oscar Wilde	1921	Vera
+2002	26499	Opie Read	1896	The Jucklins
+2003	26514	Max Pemberton	1893	The Iron Pirate
+2004	26516	William Beebe	2002	The Story of Lucy Gault
+2005	26526	E. W. (Ernest William) Hornung	1905	Stingaree
+2006	26541	Anthony Trollope	1870	The Vicar of Bullhampton
+2007	26610	Sinclair Lewis	1915	The Trail of the Hawk
+2008	26624	L. Frank Baum	1909	The Road to Oz
+2009	26637	William Le Queux	2002	The Story of Lucy Gault
+2010	26651	Robert W. Chambers	1981	The Flame Knife
+2011	26659	William James	1913	The Wallet of Time
+2012	26732	Sinclair Lewis	1919	Free Air
+2013	26740	Oscar Wilde	1890	The Picture of Dorian Gray
+2014	26779	William. D. O'Connor	2002	The Story of Lucy Gault
+2015	26842	George Santayana	1896	The Sense of Beauty
+2016	26851	Thomas Hughes	1861	Tom Brown at Oxford
+2017	26977	William Bowen	1921	The Old Tobacco Shop
+2018	26998	J. M. Barrie	1906	Peter Pan in Kensington Gardens
+2019	26999	J. M. Barrie	1906	Peter Pan in Kensington Gardens
+2020	27063	William Somerset Maugham	2002	The Story of Lucy Gault
+2021	27083	John Stuart Mill	1869	The Subjection of Women
+2022	27085	Carl Sandburg	1922	Rootabaga Stories
+2023	27179	Jan Kochanowski	1580	Laments
+2024	27189	Leo Tolstoi	1904	Bethink Yourselves!
+2025	27384	Alexandre Dumas (Pere)	1836	The Captain's Daughter
+2026	27385	Alexandre Dumas (Pere)	1843	The Conspirators (novel)
+2027	27411	Anton Tchekoff	1896	The House with the Mezzanine
+2028	27424	Hilaire Belloc	1907	Cautionary Tales for Children
+2029	27432	Ford Madox Ford	1906	The Fifth Queen
+2030	27444	Robert Silverberg	1958	Starman's Quest
+2031	27575	Gustave Flaubert	1857	Madame Bovary
+2032	27618	Susan Warner	2004	The End of Faith
+2033	27635	Henry Ernest Dudeney	1907	The Canterbury Puzzles
+2034	27669	James Herbert Walker	2006	The Jesus Dynasty
+2035	27681	James Fenimore Cooper	1826	The Last of the Mohicans
+2036	27683	Helen Keller	1908	The World I Live In
+2037	27690	Hector Malot	1893	Nobody's Girl
+2038	27698	William Roscher	1848	Principles of Political Economy
+2039	27705	William Le Queux	1957	The Town
+2040	27705	William Le Queux	1950	The Town
+2041	27712	Anthony Trollope	1871	Sir Harry Hotspur of Humblethwaite
+2042	27737	Alphonse Daudet	1868	Le Petit Chose
+2043	27771	A. A. Milne	1917	Once on a Time
+2044	27780	Robert Louis Stevenson	1883	Treasure Island
+2045	27786	William John Locke	2002	The Story of Lucy Gault
+2046	27805	Kenneth Grahame	1908	The Wind in the Willows
+2047	27851	Alfred Gurney	1884	A Christmas Faggot
+2048	27870	Rudyard Kipling	1896	The Seven Seas
+2049	27887	Ernest Thompson Seton	1898	Wild Animals I Have Known
+2050	27922	Edward Ormondroyd	1957	David and the Phoenix
+2051	27924	Charles Dickens	1866	Mugby Junction
+2052	27935	Frank A. Munsey	2015	Under Fire
+2053	27935	Frank A. Munsey	1916	Under Fire
+2054	27951	L. Frank Baum	1907	Policeman Bluejay
+2055	27981	Mayne Reid	1858	The Plant Hunters
+2056	28004	Henry James	1884	A Little Tour in France
+2057	28030	Henry Slesar	1908	Maurice Guest
+2058	28054	Fyodor Dostoyevsky	1880	The Brothers Karamazov
+2059	28069	John Kendrick Bangs	1907	Alice in Blunderland: An Iridescent Dream
+2060	28225	William Carew Hazlitt	2002	The Story of Lucy Gault
+2061	28240	Adam Mickiewicz	1834	Pan Tadeusz
+2062	28242	Lydia Maria Child	1833	An Appeal in Favor of that Class of Americans Called Africans
+2063	28244	Robert W. Chambers	1951	The Rebel
+2064	28376	Susan Warner	1850	The Wide, Wide World
+2065	28435	James De Mille	2002	The Story of Lucy Gault
+2066	28484	H. L. Mansel	1933	The Shape of Things to Come
+2067	28489	William J. Locke	1906	The Beloved Vagabond
+2068	28495	Ian Hay	1991	Scalpel
+2069	28500	William H. Ukers	2002	The Story of Lucy Gault
+2070	28527	Henry Fisk Carlton	1855	The Song of Hiawatha
+2071	28554	Philip Kindred Dick	1988	Beyond Lies the Wub
+2072	28619	Mrs. Molesworth	1877	The Cuckoo Clock
+2073	28629	Mrs [Margaret] Oliphant	1876	Phoebe, Junior
+2074	28656	Herman Melville	1846	Typee
+2075	28696	Lewis Carroll	1896	Symbolic Logic
+2076	28722	Robert Louis Stevenson	1885	A Child's Garden of Verses
+2077	28847	William [Wilhelm] Busch	1865	Max and Moritz
+2078	28871	George Rawlinson	1875	The Seven Great Monarchies Of The Ancient Eastern World
+2079	28885	Lewis Carroll	1865	Alice's Adventures in Wonderland
+2080	28897	Charles Darwin	1868	The Variation of Animals and Plants under Domestication
+2081	28988	Theodore Dreiser	1911	Jennie Gerhardt
+2082	29000	Anthony Trollope	1847	The Macdermots of Ballycloran
+2083	29042	Lewis Carroll	1885	A Tangled Tale
+2084	29131	Robert Ames Bennet	1879	Travels with a Donkey in the Cévennes
+2085	29173	William Le Queux	2002	The Story of Lucy Gault
+2086	29196	Robert J. Shea	1990	Mine
+2087	29220	Virginia Woolf	1921	Monday or Tuesday
+2088	29257	Ameen Rihani	1911	The Book of Khalid
+2089	29311	Edmond Leamy	1920	Irish Fairy Tales
+2090	29345	Robert Frost	1916	Mountain Interval
+2091	29399	Charles Webster Leadbeater	1899	Clairvoyance
+2092	29405	Edgar Rice Burroughs	1918	The Gods of Mars
+2093	29452	Henry James	1902	The Wings of the Dove
+2094	29472	H. G. Wells	1895	Select Conversations with an Uncle
+2095	29487	Robert Sheckley	1879	Travels with a Donkey in the Cévennes
+2096	29579	Robert Sheckley	1953	Watchbird
+2097	29581	Marah Ellis Ryan	2005	The Breadwinner
+2098	29602	James Roberts	2006	The Jesus Dynasty
+2099	29623	Wesley Barefoot	1877	The Cuckoo Clock
+2100	29629	Burton Egbert Stevenson	1879	Travels with a Donkey in the Cévennes
+2101	29650	Harold Bindloss	1909	The Greater Power
+2102	29756	G. A. Henty	1888	The Cat of Bubastes
+2103	29888	Lewis Carroll	1876	The Hunting of the Snark
+2104	29897	William Morrison	1931	Sanctuary
+2105	29897	William Morrison	1995	Sanctuary
+2106	29897	William Morrison	2003	Sanctuary
+2107	30017	Ruth Stiles Gannett	1948	My Father's Dragon
+2108	30023	William Dean Howells	2002	The Story of Lucy Gault
+2109	30059	Henry James	1902	The Wings of the Dove
+2110	30107	John Stuart Mill	1848	Principles of Political Economy
+2111	30120	Oscar Wilde	1888	The Happy Prince and Other Tales
+2112	30142	Cory Doctorow	2008	Little Brother
+2113	30142	Cory Doctorow	1985	Little Brother
+2114	30149	Susan Warner	1980	Metroland
+2115	30188	Ford Madox Ford	1906	The Fifth Queen
+2116	30208	Robert G. Ingersoll	2007	The Ghost
+2117	30236	Juan Valera	1874	Pepita Jiménez
+2118	30274	Thomas Day	1783	The History of Sandford and Merton
+2119	30302	Elizabeth Beauchamp	1901	The Benefactress
+2120	30365	Henryk Sienkiewicz	1911	In Desert and Wilderness
+2121	30368	Charles Dickens	1843	A Christmas Carol
+2122	30371	Charles Louis Fontenay	1879	Travels with a Donkey in the Cévennes
+2123	30477	William Le Queux	2002	The Story of Lucy Gault
+2124	30486	Charlotte Brontë	1849	Shirley
+2125	30503	Edward Money	2005	The Truth About Hillary
+2126	30528	Anderson Horne	1904	The Day of the Dog
+2127	30537	L. Frank Baum	1909	The Road to Oz
+2128	30601	Elsie Lincoln Benedict and Ralph Paine Benedict	1921	How to Analyze People on Sight
+2129	30664	John Henry Cardinal Newman	1855	Callista
+2130	30723	Ivan Sergeevich Turgenev	1862	Fathers and Sons
+2131	30742	Gordon Randall Garrett	1962	Anything You Can Do
+2132	30754	John Ruskin	1853	The Stones of Venice
+2133	30755	John Ruskin	1853	The Stones of Venice
+2134	30756	John Ruskin	1853	The Stones of Venice
+2135	30792	George Borrow	1851	Lavengro
+2136	30795	Henry Wadsworth Longfellow	1855	The Song of Hiawatha
+2137	30841	Edward Stratemeyer	1906	The Rover Boys on the Plains
+2138	30852	L. Frank  Baum	1918	The Tin Woodman of Oz
+2139	31004	Samuel Warren	1841	Ten Thousand a-Year
+2140	31053	Daniel Defoe	1996	The Story of B
+2141	31108	Robert Hunter	1837	Goldilocks and the Three Bears
+2142	31274	Anthony Trollope	1873	Lady Anna
+2143	31305	Heinrich Heine	1843	Atta Troll
+2144	31422	Jack London	1903	The Kempton-Wace Letters
+2145	31466	William Roscoe	2002	The Story of Lucy Gault
+2146	31488	Stephen Crane	1907	The Secret Agent
+2147	31542	Romain Rolland	1920	Pierre et Luce
+2148	31619	Marion Zimmer Bradley	1962	The Planet Savers
+2149	31622	Helen Keller	1903	Optimism
+2150	31710	Richard Jefferies	1994	The Will and the Way
+2151	31763		1920	Irish Fairy Tales
+2152	31824	Theodore Dreiser	1915	"The ""Genius"""
+2153	31879	Hannah More	1809	Coelebs in Search of a Wife
+2154	31945	Kálmán Mikszáth	1895	St. Peter's Umbrella
+2155	32022	John Addington Symonds	1883	A Problem in Greek Ethics
+2156	32026	Clifford Donald Simak	1959	The World That Couldn't Be
+2157	32032	Philip Kindred Dick	1989	Second Variety
+2158	32032	Philip Kindred Dick	1991	Second Variety
+2159	32087	Frank Riley	1979	The Executioner's Song
+2160	32094	L. Frank Baum	1913	The Patchwork Girl of Oz
+2161	32154	Philip K. Dick	1957	The Variable Man
+2162	32205	Frederick Boyle	2012	The Party Journalist
+2163	32224	Thomas Hughes	1857	Tom Brown's School Days
+2164	32242	Nathaniel Hawthorne	1851	A Wonder-Book for Girls and Boys
+2165	32256	Fritz Reuter Leiber	1958	The Big Time
+2166	32270	John Blaine	1980	Metroland
+2167	32271	Felix Dahn	1876	A Struggle for Rome
+2168	32316	William E. Bentley	2002	The Story of Lucy Gault
+2169	32330	Felix Dahn	1876	A Struggle for Rome
+2170	32338	Victor Hugo	1866	Toilers of the Sea
+2171	32359	Robert Moore Williams	1984	The Aquitaine Progression
+2172	32377	Felix Dahn	1876	A Struggle for Rome
+2173	32498	Alexander Blade	1827	The Betrothed
+2174	32498	Alexander Blade	1825	The Betrothed
+2175	32530	Philip Francis Nowlan	1928	Armageddon 2419 A.D.
+2176	32540	John Muir	1911	My First Summer in the Sierra
+2177	32547	William James	1912	Essays in Radical Empiricism
+2178	32551	Charles V. De Vet	1859	On the Origin of Species
+2179	32588	John Addington Symonds	1896	A Problem in Modern Ethics
+2180	32596	Anatole France	1914	The Revolt of the Angels
+2181	32610	Franz Habl	1925	The Trial
+2182	32610	Franz Habl	1989	The Trial
+2183	32610	Franz Habl	1987	The Trial
+2184	32649	Henry James	1917	The Middle Years
+2185	32652	William P. McGivern	2002	The Story of Lucy Gault
+2186	32658	Stephen Bartholomew	2010	The Grand Design
+2187	32697	Frank Quattrocchi	2008	The Swarm
+2188	32697	Frank Quattrocchi	2016	The Swarm
+2189	32697	Frank Quattrocchi	2004	The Swarm
+2190	32706	Edward Elmer Smith	1934	Triplanetary
+2191	32759	Robert E. Howard	1977	Red Nails
+2192	32759	Robert E. Howard	1936	Red Nails
+2193	32772	Rudyard Kipling	1910	Rewards and Fairies
+2194	32795	Anna Katharine Green	2016	The Thousandth Floor
+2195	32801	Alexander Blade	1825	The Betrothed
+2196	32801	Alexander Blade	1827	The Betrothed
+2197	32825	William R. Bradshaw	2002	The Story of Lucy Gault
+2198	32888	William Walton	1897	Paris
+2199	32888	William Walton	2013	Paris
+2200	32939	Henry James	1901	The Sacred Fount
+2201	32954	Robert Louis Stevenson	1879	Travels with a Donkey in the Cévennes
+2202	33043	W. Riley	1912	Windyridge
+2203	33048	Emily Grant Hutchings	1917	Jap Herron
+2204	33065	William MacHarg	2002	The Story of Lucy Gault
+2205	33111	Frederick Engels	1884	The Origin of the Family, Private Property and the State
+2206	33121	Frank Aretas Haskell	2002	The Story of Lucy Gault
+2207	33200	William Hard	2002	The Story of Lucy Gault
+2208	33224	Charles Lyell	1830	Principles of Geology
+2209	33299	Daniel P. Kidder	2002	The Kill Artist
+2210	33325	Henry James	1897	The Spoils of Poynton
+2211	33349	William Evans	2002	The Story of Lucy Gault
+2212	33353	Herbert Jenkins	1918	Patricia Brent, Spinster
+2213	33361	L. Frank Baum	1907	Ozma of Oz
+2214	33374	Robert J. Sawyer	2008	Wake
+2215	33375	Robert J. Sawyer	2010	Watch
+2216	33425	Ralph Henry Barbour	1906	The Crimson Sweater
+2217	33432	John Kendrick Bangs	1901	Mr. Munchausen
+2218	33447	William Henry Fox Talbot	1844	The Pencil of Nature
+2219	33478	John Pendleton Kennedy	1835	Horse-Shoe Robinson
+2220	33505	William Butler Yeats	2002	The Story of Lucy Gault
+2221	33516	Jules Verne	1298	Golden Legend
+2222	33529	Howard Carleton Browne	1956	The Return of Tharn
+2223	33549	Gabriel Tarde	1848	The Communist Manifesto
+2224	33565	William Dana Orcutt	2002	The Story of Lucy Gault
+2225	33673	John Ruskin	1842	The King of the Golden River
+2226	33731	William McLennan	2002	The Story of Lucy Gault
+2227	33800	Eugène Sue	1842	The Mysteries of Paris
+2228	33801	Eugène Sue	1842	The Mysteries of Paris
+2229	33802	Eugène Sue	1842	The Mysteries of Paris
+2230	33803	Eugène Sue	1842	The Mysteries of Paris
+2231	33804	Eugène Sue	1842	The Mysteries of Paris
+2232	33805	Eugène Sue	1842	The Mysteries of Paris
+2233	33836	R. C.  Dallas	1928	The Open Conspiracy
+2234	33844	William S. Lyon	2002	The Story of Lucy Gault
+2235	33886	Hermann Sudermann	1971	The Winds of War
+2236	33897	William O. Stoddard	2002	The Story of Lucy Gault
+2237	33901	J. M. Barrie	1902	The Little White Bird
+2238	34000	Anthony Trollope	1863	Rachel Ray
+2239	34053	William Painter	1890	The Palace of Pleasure
+2240	34063	Eldred Nathaniel Woodcock	1913	Fifty Years a Hunter and Trapper
+2241	34089	E. M. Forster	1911	The Celestial Omnibus
+2242	34093	A. R. (Arthur Robert) Harding	1906	Mink Trapping
+2243	34110	A. R. (Arthur Robert) Harding	1907	Deadfalls and Snares
+2244	34193	Sydney George Fisher	1899	The True Benjamin Franklin
+2245	34238	William Cobbett	1822	Rural Rides
+2246	34278	William Le Queux	2002	The Story of Lucy Gault
+2247	34339	George MacDonald	1872	The Princess and the Goblin
+2248	34361	Hermann Sudermann	1908	The Song of Songs
+2249	34366	Elisabeth von Arnim	1921	Vera
+2250	34406	Alexander Berkman	1912	Prison Memoirs of an Anarchist
+2251	34410	W. W. Tarn	1927	The Treasure of the Sierra Madre
+2252	34414	Richmal Crompton	1922	Just William
+2253	34477	Robert Mitchell Henry	2009	The Evolution of God
+2254	34527	Cory Doctorow	2009	Makers
+2255	34580	Max Stirner	1844	The Ego and Its Own
+2256	34653	Maurice Leblanc	1920	The Three Eyes
+2257	34697	James Arthur Kjelgaard	1978	The Last Good Kiss
+2258	34725	Louis Couperus	1900	The Hidden Force
+2259	34740	Edward Step	1895	Wayside and woodland blossoms
+2260	34758	Maurice Leblanc	1910	813
+2261	34791	Hermann Sudermann	1908	The Song of Songs
+2262	34795	Maurice Leblanc	1918	The Golden Triangle
+2263	34808	Jean Rudolph Wyss	1812	The Swiss Family Robinson
+2264	34840	William Painter	1890	The Palace of Pleasure
+2265	34858	George Meredith	1859	The Ordeal of Richard Feverel
+2266	34884	Charles James Lever	1859	On the Origin of Species
+2267	34901	John Stuart Mill	1859	On Liberty
+2268	34901	John Stuart Mill	2014	On Liberty
+2269	34912	John Augustine Zahm	1913	Woman in Science
+2270	34916	J. Fenimore Cooper	1845	The Chainbearer
+2271	34959	F. Marion Crawford	1891	Khaled: A Tale of Arabia
+2272	34970	Herman Melville	1852	Pierre: or, The Ambiguities
+2273	35022	Carolyn Wells	1956	The Diamond Bikini
+2274	35072	Elizabeth von Arnim	1920	In the Mountains
+2275	35091	Francis Hackett	1987	The Trial
+2276	35091	Francis Hackett	1925	The Trial
+2277	35091	Francis Hackett	1989	The Trial
+2278	35155	Alessandro Manzoni	1827	The Betrothed
+2279	35155	Alessandro Manzoni	1825	The Betrothed
+2280	35164	A. P. Herbert	1919	The Secret Battle
+2281	35187	Kenneth Grahame	1898	Dream days
+2282	35279	Albert Mordell	1954	The Literature of Australian Birds
+2283	35505	Arnold Bennett	1902	Anna of the Five Towns
+2284	35514	James E. Talmage	1909	The Great Apostasy
+2285	35517	Arthur Machen	1895	The Three Impostors
+2286	35555	Rudyard Kipling	1901	Kim
+2287	35587	Mayne Reid	1865	The Headless Horseman
+2288	35607	William Dana Orcutt	2002	The Story of Lucy Gault
+2289	35614	J. U. Giesy	1918	Palos of the Dog Star Pack
+2290	35638	Maria Edgeworth	1806	Leonora
+2291	35667	William Carlos Williams	1921	Sour Grapes
+2292	35683	John Cameron	1908	Association Football and How to Play It
+2293	35770	Elaine Wilber	2002	The Story of Lucy Gault
+2294	35781	Hall Caine	1887	The Deemster
+2295	35809	William Wilson Hunter	2002	The Story of Lucy Gault
+2296	35833	Johnston McCulley	2005	The Black Angel
+2297	35877	Sigmund Freud	1921	Group Psychology and the Analysis of the Ego
+2298	35895	Paul Carus	1894	The Gospel of Buddha
+2299	35898	John Ruskin	1849	The Seven Lamps of Architecture
+2300	36028	Thomas Mann	1909	Royal Highness
+2301	36080	Angela Brazil	1827	The Betrothed
+2302	36080	Angela Brazil	1825	The Betrothed
+2303	36127	Sabine Baring-Gould	1866	Curious Myths of the Middle Ages
+2304	36127	Sabine Baring-Gould	1869	Curious Myths of the Middle Ages
+2305	36132	Maria Edgeworth	1796	The Parent's Assistant
+2306	36152	Gail Hamilton	1996	Neverwhere
+2307	36155	William Le Queux	1959	The Mansion
+2308	36198	Herman Whitaker	1902	The Mystery of the Sea
+2309	36247	William Hamilton Osborne	2002	The Story of Lucy Gault
+2310	36288	William Whewell	2002	The Story of Lucy Gault
+2311	36419	William Charles Scully	2002	The Story of Lucy Gault
+2312	36432	Robert W. Bruere	1953	The Coming of Conan
+2313	36450	James J. Walsh	1909	Psychotherapy
+2314	36481	W. Harrison Ainsworth	1844	Auriol
+2315	36483	Johann Wolfgang von Goethe	1795	Wilhelm Meister's Apprenticeship
+2316	36494	E. T. A. Hoffmann	1815	The Devil's Elixirs
+2317	36520	Charles Darwin	1871	The Descent of Man, and Selection in Relation to Sex
+2318	36548	Frederick Henry Ambrose Scrivener	1861	A Plain Introduction to the Criticism of the New Testament
+2319	36549	Frederick Henry Ambrose Scrivener	1861	A Plain Introduction to the Criticism of the New Testament
+2320	36561	Frances Trollope	1839	The Widow Barnaby
+2321	36562	Frances Trollope	1839	The Widow Barnaby
+2322	36563	Frances Trollope	1839	The Widow Barnaby
+2323	36568	Mikhail Aleksandrovich Bakunin	1882	God and the State
+2324	36570	John Burgoyne	2009	The Lovers
+2325	36570	John Burgoyne	1961	The Lovers
+2326	36583	Henryk Sienkiewicz	1876	Hania
+2327	36612	George MacDonald	1883	The Princess and Curdie
+2328	36650	William T. Smedley	2002	The Story of Lucy Gault
+2329	36686	Mrs [Frances] Trollope	1837	The Vicar of Wrexhill
+2330	36840	R. J. Campbell	1960	The Making of Man
+2331	36951	Percy FitzPatrick	1907	Jock of the Bushveld
+2332	37005	E. T. A. Hoffmann	1815	The Devil's Elixirs
+2333	37027	Henryk Sienkiewicz	1884	With Fire and Sword
+2334	37091	Rudyard Kipling	1909	A Song of the English
+2335	37106	Louisa M. Alcott	1868	Little Women
+2336	37126	Emma Marshall	1893	Salome
+2337	37134	William Strunk	2002	The Story of Lucy Gault
+2338	37153	Lytton Strachey	1921	Queen Victoria
+2339	37164	Stephen McKenna	1978	The Stand
+2340	37172	Joseph Sheridan Le Fanu	1872	In a Glass Darkly
+2341	37173	Joseph Sheridan Le Fanu	1872	In a Glass Darkly
+2342	37174	Joseph Sheridan Le Fanu	1872	In a Glass Darkly
+2343	37189	Rebecca West	1918	The Return of the Soldier
+2344	37206	D. H. Lawrence	1921	Sea and Sardinia
+2345	37364	Rudyard Kipling	1895	The Second Jungle Book
+2346	37406	Henryk Sienkiewicz	1906	On the Field of Glory
+2347	37408	Theodore Lothrop Stoddard	1920	The Rising Tide of Color Against White World-Supremacy
+2348	37470	William Le Queux	1894	The Great War in England in 1897
+2349	37481	Emmuska Orczy, Baroness Orczy	1907	The Tangled Skein
+2350	37581	Charles Dickens	1845	The Cricket on the Hearth
+2351	37665	George Borrow	1862	Wild Wales
+2352	37712	Sir Arthur Conan Doyle	1909	The Crime of the Congo
+2353	37735	Neltje Blanchan	1897	Bird Neighbors
+2354	37976	L. Frank Baum	1901	Dot and Tot of Merryland
+2355	37992	Daniel Defoe	2002	The Kill Artist
+2356	38011	Lewis Morris	1937	The Ace of Knaves
+2357	38145	Friedrich Nietzsche	1878	Human, All Too Human
+2358	38230	Thomas Moore	1794	The Age of Reason
+2359	38230	Thomas Moore	1795	The Age of Reason
+2360	38230	Thomas Moore	1945	The Age of Reason
+2361	38230	Thomas Moore	1807	The Age of Reason
+2362	38413	Israel Zangwill	1894	The King of Schnorrers
+2363	38424	Henry James	1914	Notes of a Son and Brother
+2364	38510	Mary Brunton	1841	Discipline
+2365	38567	Louisa May Alcott	1875	Eight Cousins
+2366	38655	William Roscher	2002	The Story of Lucy Gault
+2367	38703	Georgette Heyer	1921	The Black Moth
+2368	38741	John Wilson	1993	The Law of Peoples
+2369	38753	Reginald Wright Kauffman	1973	Ruling Passion
+2370	38889	Theodore F. Wolfe	1956	I, Libertine
+2371	38895	Charles Reade	1845	The Cricket on the Hearth
+2372	38923	John Ruskin	1860	Modern Painters
+2373	38981	Jacques Futrelle	1908	The Chase of the Golden Meteor
+2374	39143	William Somerset Maugham	2002	The Story of Lucy Gault
+2375	39159	L. Frank Baum	1912	Sky Island
+2376	39162	H. G. Wells	1905	Kipps
+2377	39185	Charles Gilson	1992	Brother to Dragons
+2378	39229	H. Bedford-Jones	1921	The Mardi Gras Mystery
+2379	39229	H. Bedford-Jones	1988	The Mardi Gras Mystery
+2380	39252	Robert Hichens	1954	The Star Beast
+2381	39270	Laurence Sterne	1759	The Life and Opinions of Tristram Shandy, Gentleman
+2382	39272	Thomas Commerford Martin	1893	The Inventions, Researches, and Writings of Nikola Tesla
+2383	39296	Stanley J. Weyman	1891	The Story of Francis Cludde
+2384	39373	Andrew Gray	1993	Golden Trillium
+2385	39378	Aldous Huxley	1921	Mortal Coils
+2386	39397	Théophile Gautier	1882	One of Cleopatra's Nights and Other Fantastic Romances
+2387	39399	Charles Gilson	1859	On the Origin of Species
+2388	39452	John Bunyan	1678	The Pilgrim's Progress
+2389	39548	Oscar Micheaux	1888	The Torture Garden
+2390	39549	Mrs. Molesworth	1895	The Carved Lions
+2391	39666	Guy Thorne	1904	When It Was Dark
+2392	39670	Frederick Bateman	1869	The Idiot
+2393	39752	T. Crofton Crocker	1828	Fairy Legends and Traditions of the South of Ireland
+2394	39752	T. Crofton Crocker	1825	Fairy Legends and Traditions of the South of Ireland
+2395	39755	Daniel Stephen O'Connor	1996	The Story of B
+2396	39817	Richard Garnett	2008	The Age of Wonder
+2397	39827	Ralph Waldo Emerson	1860	The Conduct of Life
+2398	39834	Grazia Deledda	1902	After the divorce
+2399	39858	George Du Maurier	1894	Trilby
+2400	39868	L. Frank Baum	1920	Glinda of Oz
+2401	39891	Max Pemberton	1899	Jewel Mysteries I have Known
+2402	39910	Philip Henry Gosse	1857	Omphalos
+2403	39952	William Harvey Miner	1957	The Town
+2404	39952	William Harvey Miner	1950	The Town
+2405	39972	Harriet Beecher Stowe	1873	Palmetto Leaves
+2406	40000	Walter Rothschild	1907	Extinct Birds
+2407	40089	John Dewey	1919	Reconstruction in Philosophy
+2408	40140	Flora Annie Steel	1896	On the Face of the Waters
+2409	40175	Willis Eugene Tower	2002	The Story of Lucy Gault
+2410	40264	Clemence Dane	1917	Regiment of Women
+2411	40365	Errico Malatesta	1891	Anarchy
+2412	40367	Edith Wharton	1897	The Decoration of Houses
+2413	40404	William Harmon Norton	2002	The Story of Lucy Gault
+2414	40426	Jean Webster	1912	Daddy-Long-Legs
+2415	40434	William Le Queux	1983	The Place of Dead Roads
+2416	40477	Samuel H. M. Byers	1884	With Fire and Sword
+2417	40497	William Francis Hooker	2002	The Story of Lucy Gault
+2418	40573	Evelyn Sharp	1900	The Other Side of the Sun
+2419	40591	Charles A. Conant	1843	A Christmas Carol
+2420	40619	Fanny Burney	1796	Camilla
+2421	40646	Charles E. Chapman	1859	On the Origin of Species
+2422	40652	Ebenezer Cobham Brewer	1840	A Guide to the Scientific Knowledge of Things Familiar
+2423	40667	Cleo Garis	1867	The Mystery of Orcival
+2424	40701	Shirley Hibberd	1856	The book of the aquarium and water cabinet
+2425	40723	Charles Dickens	1846	The Battle of Life
+2426	40812	Thomas Wilson	1920	The Cask
+2427	40814	Fanny Fern	1854	Ruth Hall
+2428	40824	Charles J. Gillis	1843	A Christmas Carol
+2429	40826	William McDougall	1957	The Town
+2430	40826	William McDougall	1950	The Town
+2431	40828	William Le Queux	2002	The Story of Lucy Gault
+2432	40833	William Le Queux	2002	The Story of Lucy Gault
+2433	40836	William Le Queux	2002	The Story of Lucy Gault
+2434	40847	William James Lloyd Wharton	2002	The Story of Lucy Gault
+2435	40882	George Eliot	1866	Felix Holt, the Radical
+2436	40998	William Le Queux	2002	The Story of Lucy Gault
+2437	41003	William Le Queux	2002	The Story of Lucy Gault
+2438	41061	William B Stephenson, Jr.	2002	The Story of Lucy Gault
+2439	41078	William Le Queux	2002	The Story of Lucy Gault
+2440	41082	James George Frazer	1890	The Golden Bough
+2441	41089	William Le Queux	2002	The Story of Lucy Gault
+2442	41091	William Le Queux	2002	The Story of Lucy Gault
+2443	41127	Louisa May Alcott	1876	Rose in Bloom
+2444	41129	William Le Queux	2002	The Story of Lucy Gault
+2445	41130	William Le Queux	2002	The Story of Lucy Gault
+2446	41132	William Le Queux	2002	The Story of Lucy Gault
+2447	41134	William C. Falkner	2002	The Story of Lucy Gault
+2448	41185	William Le Queux	2002	The Story of Lucy Gault
+2449	41187	William Le Queux	2002	The Story of Lucy Gault
+2450	41199	William Le Queux	2002	The Story of Lucy Gault
+2451	41201	Iván Turgénieff	1850	The Diary of a Superfluous Man
+2452	41214	Sigmund Freud	1913	Totem and Taboo
+2453	41222	Alexandre Dumas, Pere	1839	Captain Pamphile
+2454	41232	Anzia Yezierska	1920	Hungry Hearts
+2455	41247	Samuel Warren	1841	Ten Thousand a-Year
+2456	41256	Mary Hays	1796	Memoirs of Emma Courtney
+2457	41332	Samuel Warren	1841	Ten Thousand a-Year
+2458	41359	James George Frazer	1890	The Golden Bough
+2459	41393	William Carew Hazlitt	1959	The Mansion
+2460	41405	Rosa Luxemburg	1913	The Accumulation of Capital
+2461	41414	Selma Lagerlöf	1908	The Girl from the Marsh Croft
+2462	41438	Anthony Hope	1896	The Heart of Princess Osra
+2463	41445	Mary Shelley	1818	Frankenstein
+2464	41453	William Le Queux	1959	The Mansion
+2465	41454	William Le Queux	1959	The Mansion
+2466	41455	William Le Queux	1929	The Sound and the Fury
+2467	41458	William Le Queux	2002	The Story of Lucy Gault
+2468	41459	William Le Queux	2002	The Story of Lucy Gault
+2469	41510	William Walker Atkinson	2002	The Story of Lucy Gault
+2470	41518	Robert Walser	1891	The Bottle Imp
+2471	41526	Amanda Minnie Douglas	1909	A Little Girl in Old Pittsburg
+2472	41637	Murray Leinster	1954	The Forgotten Planet
+2473	41646	Charlotte Turner Smith	1980	Emmeline
+2474	41646	Charlotte Turner Smith	1788	Emmeline
+2475	41659	Johann David Wyss	1812	The Swiss Family Robinson
+2476	41667	L. Frank Baum	1910	The Emerald City of Oz
+2477	41714	C.M. Kornbluth	1953	The Syndic
+2478	41739	C. Z. Barnett	1843	A Christmas Carol
+2479	41844	George Gibbs	1890	The Golden Bough
+2480	41855	Edith Wharton	1918	The Marne
+2481	41873	William W. Sanger	2002	The Story of Lucy Gault
+2482	41875		2004	The Yellow Silk
+2483	41876		2004	The Yellow Silk
+2484	41881	Alexandre Dumas	1845	The Corsican Brothers
+2485	41905	Samuel R. Delany	1963	Captives of the Flame
+2486	41910	Alexander Clarence Flick	1963	The Race of the Tiger
+2487	41981	Samuel R. Delany	1962	The Jewels of Aptor
+2488	41988	Henryk Sienkiewicz	1892	Let Us Follow Him
+2489	41997	James Otis	2006	The Jesus Dynasty
+2490	42129	William Lewins	2002	The Story of Lucy Gault
+2491	42145	Susanna Moodie	1825	The Betrothed
+2492	42145	Susanna Moodie	1827	The Betrothed
+2493	42165	Susanna Moodie	1825	The Betrothed
+2494	42165	Susanna Moodie	1827	The Betrothed
+2495	42174	Susanna Moodie	1827	The Betrothed
+2496	42174	Susanna Moodie	1825	The Betrothed
+2497	42183	Robert E. Howard	1978	Queen of the Black Coast
+2498	42209	Robert E. Howard	1976	The Devil in Iron
+2499	42236	Robert E. Howard	1979	Jewels of Gwahlur
+2500	42243	Robert E. Howard	1935	The Hour of the Dragon
+2501	42259	Robert E. Howard	1934	The People of the Black Circle
+2502	42259	Robert E. Howard	1977	The People of the Black Circle
+2503	42315	Jefferson Davis	1881	The Rise and Fall of the Confederate Government
+2504	42324	Mary W. Shelley	1818	Frankenstein
+2505	42332	Marie Corelli	1895	The Sorrows of Satan
+2506	42389	Sir Walter Scott	1822	The Pirate
+2507	42401	William Beckford	1786	Vathek
+2508	42426	E. Marlitt	1866	Goldelse
+2509	42441	Clarence E. Mulford	1913	The Coming of Cassidy
+2510	42455	Bram Stoker	1902	The Mystery of the Sea
+2511	42500	Henry David Thoreau	1864	The Maine Woods
+2512	42529	R. D. Blackmore	1897	Dariel
+2513	42566	William Theodore Parkes	2002	The Story of Lucy Gault
+2514	42671	Jane Austen	1813	Pride and Prejudice
+2515	42681	Alexandre Dumas	1825	The Betrothed
+2516	42681	Alexandre Dumas	1827	The Betrothed
+2517	42704	Oscar Wilde	1893	Salome
+2518	42715	August Mau	1899	Pompeii: Its Life and Art
+2519	42757	Alexandre Dumas (pere)	1853	The Countess of Charny
+2520	42768	Jean Webster	1909	Much Ado about Peter
+2521	42880	Will Durant	1935	Pylon
+2522	42901	Murray Leinster	1961	Creatures of the Abyss
+2523	42914	Philip Wylie	1930	Gladiator
+2524	42978	William S. Furneaux	2002	The Story of Lucy Gault
+2525	42991	Edgar Thurston	1909	Castes and Tribes of Southern India
+2526	42992	Edgar Thurston	1909	Castes and Tribes of Southern India
+2527	42993	Edgar Thurston	1909	Castes and Tribes of Southern India
+2528	42994	Edgar Thurston	1909	Castes and Tribes of Southern India
+2529	42995	Edgar Thurston	1909	Castes and Tribes of Southern India
+2530	42996	Edgar Thurston	1909	Castes and Tribes of Southern India
+2531	42997	Edgar Thurston	1909	Castes and Tribes of Southern India
+2532	43031	George Fox	2013	George North
+2533	43247	William Cleaver Wilkinson	2002	The Story of Lucy Gault
+2534	43269	James H. Foster	2006	The Jesus Dynasty
+2535	43325	Silas Kitto Hocking	1879	Her Benny
+2536	43376	Henry L. Mencken	1919	The American Language
+2537	43406	Helen Hay Whitney	1925	Herbs and Apples
+2538	43469	William Dean Howells	1877	A Counterfeit Presentment
+2539	43523	Henry David Thoreau	1899	The writings of Henry David Thoreau
+2540	43627	Songling Pu	1766	Strange Stories from a Chinese Studio
+2541	43628	Songling Pu	1766	Strange Stories from a Chinese Studio
+2542	43629	Songling Pu	1766	Strange Stories from a Chinese Studio
+2543	43678	Sir Walter Scott	1829	Anne of Geierstein
+2544	43711	Herbert A. Giles	1901	A History of Chinese Literature
+2545	43769	Amanda M. Douglas	1909	A Little Girl in Old Pittsburg
+2546	43936	L. Frank Baum	1900	The Wonderful Wizard of Oz
+2547	43968	William Gershom Collingwood	2002	The Story of Lucy Gault
+2548	44043	William H. Brereton	2002	The Story of Lucy Gault
+2549	44046	Stephen Lucius Gwynn	1886	Misery
+2550	44046	Stephen Lucius Gwynn	1987	Misery
+2551	44063	Douglas Dewar	1982	Life, the Universe and Everything
+2552	44073	Levi H. Dowling	1908	The Aquarian Gospel of Jesus the Christ
+2553	44074	Owen Gregory	1918	Meccania
+2554	44192	Peter Berlyn	2012	The Party Journalist
+2555	44225	Irvin S. Cobb	1931	The Joy of Cooking
+2556	44247	Walter Scott	1829	Anne of Geierstein
+2557	44337	William Gilmore Simms	2002	The Story of Lucy Gault
+2558	44371	William Henry Thorpe	2002	The Story of Lucy Gault
+2559	44547	Thomas Nelson Page	1922	Seven Pillars of Wisdom
+2560	44590	William Clark Russell	2002	The Story of Lucy Gault
+2561	44649	H. Rider Haggard	1899	The Last Boer War
+2562	44747	Stendhal	1830	The Red and the Black
+2563	44800	Frédéric Bastiat	1957	The Law
+2564	44800	Frédéric Bastiat	1850	The Law
+2565	44853	Charles DeLano Hine	1904	Letters From an Old Railway Official
+2566	44881	Philip Meadows Taylor	1839	Confessions of a Thug
+2567	44941	John Taylor	2009	The Lovers
+2568	44941	John Taylor	1961	The Lovers
+2569	45001	John Calvin	1536	Institutes of the Christian Religion
+2570	45038	R. D. Blackmore	1894	Perlycross
+2571	45045	Amanda M. Douglas	1909	A Little Girl in Old Pittsburg
+2572	45149	James E. Talmage	1912	The House of the Lord
+2573	45209	John Marston	1929	The Courts of the Morning
+2574	45228	Frank Wedekind	1903	Such Is Life
+2575	45264	Beatrix Potter	1904	The Tale of Two Bad Mice
+2576	45315	William Blake	1790	The Marriage of Heaven and Hell
+2577	45422	Albert Schweitzer	1906	The Quest of the Historical Jesus
+2578	45444	Charles DeLano Hine	1904	Letters From an Old Railway Official
+2579	45466	Émile Verhaeren	1870	Around the Moon
+2580	45480	William Ross Wallace	2002	The Story of Lucy Gault
+2581	45502	Jacob A. Riis	1890	How the Other Half Lives
+2582	45506	Edwin Abbott Abbott	1884	Flatland
+2583	45540	Arthur Drews	1909	The Christ Myth
+2584	45631	Solomon Northup	1853	Twelve Years a Slave
+2585	45666	Lucas Malet	1868	Little Women
+2586	45699	Frederic L. (Frederic Logan) Paxson	1910	The last American frontier
+2587	45839	Bram Stoker	1897	Dracula
+2588	45850	Robert Flint	1879	Travels with a Donkey in the Cévennes
+2589	45921	William Makepeace Thackeray	2002	The Story of Lucy Gault
+2590	45939	Thomas Percy	1765	Reliques of Ancient English Poetry
+2591	45940	Thomas Percy	1765	Reliques of Ancient English Poetry
+2592	45941	Thomas Percy	1765	Reliques of Ancient English Poetry
+2593	45950	Lewis Henry Morgan	1877	Ancient Society
+2594	45951	Julian Corbett	1980	Metroland
+2595	45988	Francis Bacon	1620	Novum Organum
+2596	46112	L	2008	The Dark Forest
+2597	46114	Lord Max Aitken Beaverbrook	1916	Canada in Flanders
+2598	46121	Rose Wilder Lane	1917	Henry Ford’s Own Story
+2599	46153	Charles Felix	1862	The Notting Hill Mystery
+2600	46236	William Le Queux	2002	The Story of Lucy Gault
+2601	46311	John Marston	1929	The Courts of the Morning
+2602	46312	John Marston	1929	The Courts of the Morning
+2603	46333	Jean-Jacques Rousseau	1970	The Social Contract
+2604	46333	Jean-Jacques Rousseau	1999	The Social Contract
+2605	46333	Jean-Jacques Rousseau	1763	The Social Contract
+2606	46333	Jean-Jacques Rousseau	1762	The Social Contract
+2607	46392	Edward Lear	1832	Illustrations of the Family of the Psittacidae, or Parrots
+2608	46399	Hendrik Van Loon	1921	The Story of Mankind
+2609	46409	Johanna Spyri	1880	Heidi
+2610	46420	John Baldwin Buckstone	1667	Paradise Lost
+2611	46492	Dmitri Mérejkowski	1895	The Death of the Gods
+2612	46566	William Holt-White	2002	The Story of Lucy Gault
+2613	46570	Jane Porter	1817	The Pastor's Fireside
+2614	46597	Jules Verne	1868	In Search of the Castaways
+2615	46610	Jane Porter	1817	The Pastor's Fireside
+2616	46637	Jane Porter	1817	The Pastor's Fireside
+2617	46674	Owen Johnson	1912	Stover at Yale
+2618	46697	Jane Porter	1817	The Pastor's Fireside
+2619	46727	Roswell Park	1897	An Epitome of the History of Medicine
+2620	46743	Henry Sidgwick	1874	The Methods of Ethics
+2621	46761	Jean Webster	1905	The Wheat Princess
+2622	46807	William Denison Lyman	1918	Lyman's History of old Walla Walla County
+2623	46808	William Denison Lyman	1918	Lyman's History of old Walla Walla County
+2624	46853	Thomas Malory	1485	Le Morte d'Arthur
+2625	46948	Richard K. Fox	1995	The Hot Zone
+2626	47025	Ludwig Feuerbach	1841	The Essence of Christianity
+2627	47166	L. Frank Baum	1906	John Dough and the Cherub
+2628	47252	Elizabeth Gordon	1914	Mother Earth's Children
+2629	47314	William Jackson	1844	The Pencil of Nature
+2630	47334	Robert Vaughn	1879	Travels with a Donkey in the Cévennes
+2631	47342	Ernest Vincent Wright	1939	Gadsby
+2632	47356	W. E. Gladstone	1858	Studies on Homer and the Homeric Age
+2633	47430	Maturin Murray Ballou	1844	Fanny Campbell, the Female Pirate Captain
+2634	47462	William Habington	2003	Sanctuary
+2635	47462	William Habington	1931	Sanctuary
+2636	47462	William Habington	1995	Sanctuary
+2637	47463	William Miller	1879	Wintering in the Riviera
+2638	47470	W. Somerset Maugham	1902	Mrs Craddock
+2639	47532	William Henry Withrow	2002	The Story of Lucy Gault
+2640	47576	William Dixon Bell	2002	The Story of Lucy Gault
+2641	47682	Charles Dexter Allen	1842	American Notes
+2642	47837	John Bate	1634	The Mysteryes of Nature and Art
+2643	47874	Harriet Beecher Stowe	1871	My Wife and I
+2644	47902	Dmitry Sergeyevich Merezhkovsky	1900	The Romance of Leonardo da Vinci
+2645	47905	Julian Hawthorne	1980	Metroland
+2646	47935	Ivan Sergeevich Turgenev	1862	Fathers and Sons
+2647	47944	Douglas Sladen	1982	Life, the Universe and Everything
+2648	47958	Harriet Beecher Stowe	1859	The Minister's Wooing
+2649	47970	George Vivian Poore	1860	The Mill on the Floss
+2650	47971	Margaret Armstrong	1915	Field book of western wild flowers
+2651	47980	Benito Pérez Galdós	1873	Trafalgar
+2652	48089	Thomas Dixon	1916	The Fall of a Nation
+2653	48169	Richard Wilson	1995	The Hot Zone
+2654	48217	Maurice Maeterlinck	1896	The Treasure of the Humble
+2655	48309	William Cleaver Wilkinson	2002	The Story of Lucy Gault
+2656	48507	Sabine Baring-Gould	1908	Devonshire Characters and Strange Events
+2657	48539	James Cutbush	1958	A Case of Conscience
+2658	48602	Ella S. Armitage	1912	The Early Norman Castles of the British Isles
+2659	48630	Lewis Carroll	1889	Sylvie and Bruno
+2660	48641	Émile Gaboriau	1869	Monsieur Lecoq
+2661	48641	Émile Gaboriau	1868	Monsieur Lecoq
+2662	48731	Victor Hugo	1862	Les Misérables
+2663	48732	Victor Hugo	1862	Les Misérables
+2664	48733	Victor Hugo	1862	Les Misérables
+2665	48734	Victor Hugo	1862	Les Misérables
+2666	48735	Victor Hugo	1862	Les Misérables
+2667	48778	L. Frank Baum	1911	The Sea Fairies
+2668	48788	William Somerset Maugham	1922	On a Chinese Screen
+2669	48818	Benito Pérez Galdós	1878	Marianela
+2670	48893	Théophile Gautier	1835	Mademoiselle de Maupin
+2671	48894	Théophile Gautier	1835	Mademoiselle de Maupin
+2672	49068	Sadakichi Hartmann	1910	The Whistler Book
+2673	49089	J. Watt Gibson	2002	Recollections of a Bleeding Heart: A Portrait of Paul Keating PM
+2674	49146	Mary Macleon	1998	The Shakespeare Stealer
+2675	49314	Nellie Bly	1888	Six Months in Mexico
+2676	49315	Claire Duras	1823	Ourika
+2677	49372	Victor Hugo	1874	Ninety-three
+2678	49421	David Fallon	1999	The Bad Beginning
+2679	49520	R. D. Blackmore	1890	Kit and Kitty
+2680	49525	Edward Elmer Smith	1950	First Lensman
+2681	49579	Frances Hodgson Burnett	1885	Little Lord Fauntleroy
+2682	49687	J. Alfred Gotch	1901	Early Renaissance Architecture in England
+2683	49786	William Black,	2002	The Story of Lucy Gault
+2684	49822	Ida M. Tarbell	1907	He Knew Lincoln
+2685	49858	W. E. Gladstone	1858	Studies on Homer and the Homeric Age
+2686	49907	Grant Allen	1897	Paris
+2687	49907	Grant Allen	2013	Paris
+2688	49935	H. C. (Herman Cyril) McNeile	1920	Bulldog Drummond
+2689	49949	Henry Stephens Salt	1899	The logic of vegetarianism
+2690	50022	Murray Leinster	1960	The Wailing Asteroid
+2691	50037	Mary Elisabeth Braddon	1886	Wyllard's Weird
+2692	50045	Will Rossiter	2002	The Story of Lucy Gault
+2693	50109	Mark Twain	1916	The Mysterious Stranger
+2694	50133	H. P. Lovecraft	1963	The Dunwich Horror and Others
+2695	50138	Robert Moore Williams	1992	Doomsday Book
+2696	50194	L. Frank Baum	1919	The Magic of Oz
+2697	50228	Francis Douce	1807	Illustrations of Shakspeare, and of Ancient Manners
+2698	50310	Guy Wetmore Carryl	1900	Mother Goose for Grownups
+2699	50372	William Clark Russell	2002	The Story of Lucy Gault
+2700	50441	Robert Silverberg	1957	Master of Life and Death
+2701	50462	George Payne Rainsford James	1831	Philip Augustus
+2702	50489	Charles Baudelaire	1859	On the Origin of Species
+2703	50504	William C. Storrick	2002	The Story of Lucy Gault
+2704	50534	Anonymous	1895	The Three Impostors
+2705	50561	Stanley G. Weinbaum	1950	The Dark Other
+2706	50566	Marion Zimmer Bradley	1964	Falcons of Narabedla
+2707	50571	Philip José Farmer	1957	The Green Odyssey
+2708	50598	Charles Boardman Hawes	1924	The Dark Frigate
+2709	50688	George Payne Rainsford James	1830	De l'Orme
+2710	50736	F. L. Wallace	1955	Address: Centauri
+2711	50819	Fritz Leiber	1977	Our Lady of Darkness
+2712	50848	Michael Shaara	1953	Soldier Boy
+2713	50863	E. Everett Evans	1955	Alien Minds
+2714	50885	William Morrison	2002	The Story of Lucy Gault
+2715	50895	Patrick MacGill	2012	The Party Journalist
+2716	50906	Winston Spencer Churchill	1899	Savrola
+2717	50924	Robert F. Young	1879	Travels with a Donkey in the Cévennes
+2718	50948	William Tenn	1955	Of All Possible Worlds
+2719	50966	Arthur Schopenhauer	1813	On the Fourfold Root of the Principle of Sufficient Reason
+2720	51024	Patrick MacGill	2012	The Party Journalist
+2721	51054	Alexandre Dumas	1857	The Wolf Leader
+2722	51060	Edgar Allan Poe	1838	The Narrative of Arthur Gordon Pym of Nantucket
+2723	51122	William Tenn	2002	The Story of Lucy Gault
+2724	51129	Manly Banister	1987	A Gift from the Culture
+2725	51161	Max Nordau	1892	Degeneration
+2726	51213	Joseph W. Zaehnsdorf	1890	The Art of Bookbinding
+2727	51233	C.M. Kornbluth	1959	The Marching Morons
+2728	51239	Robert Mudie	1967	The Contender
+2729	51240	William Morrison	2002	The Story of Lucy Gault
+2730	51257	Dean Evans	2003	The Confessor
+2731	51263	L. Frank Baum	1915	The Scarecrow of Oz
+2732	51307	William Le Queux	2002	The Story of Lucy Gault
+2733	51356	Friedrich Nietzsche	1872	The Birth of Tragedy
+2734	51391	Bram Stoker	1910	Famous Impostors
+2735	51425	William H. Davies	1908	The Autobiography of a Super-Tramp
+2736	51459	William Hogarth	1753	The Analysis of Beauty
+2737	51544	Franz Oppenheimer	1908	The State
+2738	51549	Fritz Leiber	1958	The Big Time
+2739	51770	Charles Seabridge	1859	On the Origin of Species
+2740	51845	Frederik Pohl	1959	Wolfbane
+2741	51854	Jay Franklin	1950	The Rat Race
+2742	51893	Mary Austin	1903	The Land of Little Rain
+2743	51905	William le Queux	1906	The Invasion of 1910
+2744	51950	Hall Caine	1968	The Pigman
+2745	51967	Robert Paltock	1751	The Life and Adventures of Peter Wilkins
+2746	51968	Robert Paltock	1751	The Life and Adventures of Peter Wilkins
+2747	52066	Henry Lawson	1900	Verses, Popular and Humorous
+2748	52084	Frank L. Packard	1987	The Trial
+2749	52084	Frank L. Packard	1989	The Trial
+2750	52084	Frank L. Packard	1925	The Trial
+2751	52106	Edward Westermarck	1906	The Origin and Development of the Moral Ideas
+2752	52166	Friedrich Wilhelm Nietzsche	1888	The Case of Wagner
+2753	52176	L. Frank (Lyman Frank) Baum	1914	Tik-Tok of Oz
+2754	52190	Friedrich Wilhelm Nietzsche	1908	Ecce Homo
+2755	52225	Gustave Flaubert	1874	The Temptation of Saint Anthony
+2756	52228	Frederik Pohl	1954	Search the Sky
+2757	52437	Douglas Durkin	1982	Life, the Universe and Everything
+2758	52501	H. G. Wells	1901	The First Men in the Moon
+2759	52506	Baron Robert Stephenson Smyth Baden-Powell	1908	Scouting for Boys
+2760	52572	Annie Fisler	1954	Story of O
+2761	52824	Thomas Barlow Wood	1870	The Story of a Bad Boy
+2762	52900	Louisa M. Alcott	1871	Little Men
+2763	52984	Paul Lafargue	1883	The Right to be Lazy
+2764	53004	W. E. Gladstone	1858	Studies on Homer and the Homeric Age
+2765	53028	John Davys Beresford	1911	The Hampdenshire Wonder
+2766	53123	Julian F. Grow	1980	Metroland
+2767	53193	William Alexander Taylor	1901	Intermere
+2768	53598	B. L. Farjeon	1922	Seven Pillars of Wisdom
+2769	53685	Charles Robert Maturin	1820	Melmoth the Wanderer
+2770	53686	Charles Robert Maturin	1820	Melmoth the Wanderer
+2771	53687	Charles Robert Maturin	1820	Melmoth the Wanderer
+2772	53688	Charles Robert Maturin	1820	Melmoth the Wanderer
+2773	53735	L. Frank Baum	1911	The Daring Twins
+2774	53765	Ruth Plumly Thompson	1922	Kabumpo in Oz
+2775	53929	James Oliver Curwood	1917	Baree, Son of Kazan
+2776	53958	Henry Herbert Goddard	1912	The Kallikak Family
+2777	54068	Jack London	1920	Hearts of Three
+2778	54111	Frank L. Packard	1911	On the Iron at Big Cloud
+2779	54230	Elizabeth Stuart Phelps	1868	The Gates Ajar
+2780	54236	Gabriele D’Annunzio	1969	The Intruder
+2781	54236	Gabriele D’Annunzio	1892	The Intruder
+2782	54268	William Judge	1893	The Ocean of Theosophy
+2783	54435	Elizabeth Barrett Browning	1856	Aurora Leigh
+2784	54488	Helena Petrovna Blavatsky	1888	The Secret Doctrine
+2785	54529	L. Frank Baum	1912	Phoebe Daring
+2786	54540	L. Frank Baum	1906	Daughters of Destiny
+2787	54604	Charles Dudley Warner	1877	Being a Boy
+2788	54700	Ivan Goncharov	1859	Oblomov
+2789	54710	Lincoln Steffens	1904	The Shame of the Cities
+2790	54720	Robert Fortune	1847	Three Years' Wandering in the Northern Provinces of China
+2791	54747	Ralph Henry Barbour	1907	Tom, Dick and Harriet
+2792	54765	Thomas Dixon, Jr.	1902	The Leopard's Spots
+2793	54812	Harriet Beecher Stowe	1853	A Key to Uncle Tom's Cabin
+2794	54824	Helena Petrovna Blavatsky	1888	The Secret Doctrine
+2795	54847	Margaret Hamilton Hungerford	1922	The Red House Mystery
+2796	54871	Patrick MacGill	2012	The Party Journalist
+2797	54895	Aldous Huxley	1920	Limbo
+2798	54895	Aldous Huxley	1952	Limbo
+2799	54909	Ralph Henry Barbour	1908	Harry's Island
+2800	54910	Margaret Deland	2006	The Rising Tide
+2801	54910	Margaret Deland	1916	The Rising Tide
+2802	54969	John Tyndall	2002	Shroud
+2803	54990	Patrick MacGill	2000	The Barn Burner
+2804	55020	L. Frank Baum	1914	The Last Egyptian
+2805	55024	Alexander Pushkin	1834	The Queen of Spades
+2806	55040	Lewis Carroll	1890	"The Nursery ""Alice"""
+2807	55078	Henry James	1903	The Birthplace
+2808	55201	Plato	-380	The Republic
+2809	55222	Florence Montgomery	1869	Misunderstood
+2810	55264	D'Arcy Wentworth Thompson	1917	On Growth and Form
+2811	55276	Julia Frankau	1997	Sky Trillium
+2812	55308	Henry George	1879	Progress and Poverty
+2813	55338	Robert Buchanan	1882	The Merry Men
+2814	55343	Henry Morgenthau	1918	Ambassador Morgenthau's Story
+2815	55389	J. P. (Jens Peter) Jacobsen	1880	Niels Lyhne
+2816	55435	Ralph Henry Barbour	1909	Captain Chub
+2817	55618	H. P. Blavatsky	1889	The Key to Theosophy
+2818	55627	Elsie Singmaster	1788	Emmeline
+2819	55627	Elsie Singmaster	1980	Emmeline
+2820	55707	J. W. Winkley	2000	Ghost in the Mirror
+2821	55737	L. Frank Baum	1904	Queen Zixi of Ix
+2822	55774	John Ross	1993	The Law of Peoples
+2823	55806	Ruth Plumly Thompson	1939	Ozoplaning with the Wizard of Oz
+2824	55822	Bronislaw Malinowski	1922	Argonauts of the Western Pacific
+2825	55948	Jack London	1913	The Abysmal Brute
+2826	55979	William H. Jackson	1844	Life and Confession of Sophia Hamilton
+2827	56008	Frédéric Mistral	1859	Mirèio
+2828	56020	William George Jordan	2002	The Story of Lucy Gault
+2829	56079	Ruth Plumly Thompson	1937	Handy Mandy in Oz
+2830	56154	Clarence E. Mulford	1918	The Man from Bar-20
+2831	56385	Fergus Hume	1906	Jonah's Luck
+2832	56426	Jane Webb-Loudon	1827	The Mummy!
+2833	56528	Émile Zola	1885	Germinal
+2834	56555	Jack Snow	1946	The Magical Mimics in Oz
+2835	56562	Robert Louis Stevenson	1886	Kidnapped
+2836	56621	Elizabeth Barrett Browning	1856	Aurora Leigh
+2837	56639	Anna Bowman Dodd	1887	The Republic of the Future
+2838	56644	Thomas Bulfinch	1855	Bulfinch's Mythology
+2839	56683	Jack Snow	1949	The Shaggy Man of Oz
+2840	56831	Marshall Saunders	2006	The Night Watch
+2841	56876	Elizabeth Burgoyne Corbett	1889	New Amazonia
+2842	56889	Fletcher Pratt	1969	The Blue Star
+2843	56960	Fred M. White	1907	The Midnight Guest
+2844	56979	William Simpson	2002	The Story of Lucy Gault
+2845	57037	Nicoló Machiavelli	2002	The Prince
+2846	57037	Nicoló Machiavelli	1532	The Prince
+2847	57037	Nicoló Machiavelli	2005	The Prince
+2848	57046	Cornelia Meigs	1919	The Pool of Stars
+2849	57070	Thomas E. Watson	1977	Napoleon's Campaigns in Miniature
+2850	57101	Emma Speed Sampson	1920	Mary Louise at Dorfield
+2851	57260	Bernard Mandeville (1670-1733)	1705	The Fable of the Bees
+2852	57272	William Stekel	2002	The Story of Lucy Gault
+2853	57393	Henry David Thoreau	1899	The writings of Henry David Thoreau
+2854	57489	Camille Flammarion	1894	Omega: The Last Days of the World
+2855	57515	John  Ireland	1975	The Shockwave Rider
+2856	57532	Charles Babbage	1864	Passages from the Life of a Philosopher.
+2857	57536	Ida M. Tarbell	1907	He Knew Lincoln
+2858	57539	Elizabeth Cleghorn Gaskell	1851	Cranford
+2859	57631	John Buchan	1916	The Power-House
+2860	57642	William H. Wright	2002	The Story of Lucy Gault
+2861	57669	Jacques Futrelle	1905	The Problem of Cell 13
+2862	57795	T. S. Eliot	1920	The Sacred Wood
+2863	57799	Edith Nesbit	1908	The House of Arden
+2864	57861	Julian Street	1980	Metroland
+2865	57913	Charlotte Perkins Gilman	1898	Women and Economics
+2866	57918	Cornelia Meigs	1918	The Pirate of Jasper Peak
+2867	57937	William Wilfred Campbell	2002	The Story of Lucy Gault
+2868	57976	Cornelia Meigs	1917	The Island of Appledore
+2869	58340	Percy Wyndham Lewis	1918	Tarr
+2870	58344	Hermann Hesse	1922	Siddhartha
+2871	58410	Amanda M. Douglas	1909	A Little Girl in Old Pittsburg
+2872	58433	Robert Hugh Benson	1879	Travels with a Donkey in the Cévennes
+2873	58471	Henry James	1888	Partial Portraits
+2874	58534	Arthur Train	1881	The Prince and the Pauper
+2875	58585	Kahlil Gibran	1923	The Prophet
+2876	58593	H. De Vere Stacpoole	1923	The Garden of God
+2877	58606	James Sully	1914	An Encounter
+2878	58664	Sadakichi Hartmann	1916	My Rubaiyat
+2879	58666	Arnold Bennett	1923	Riceyman Steps
+2880	58786	Walter Besant	1983	The Queen's Gambit
+2881	58795	Thomas Hughes	1549	Book of Common Prayer
+2882	58796	Thomas Boyd	1923	Through the Wheat
+2883	58817	Ralph Delahaye Paine	1906	The Praying Skipper and Other Stories
+2884	58820	Dorothy L. Sayers	1923	Whose Body?
+2885	58859	Benjamin Rush	1812	Medical Inquiries and Observations upon Diseases of the Mind
+2886	58860	Benjamin Rush	1812	Medical Inquiries and Observations upon Diseases of the Mind
+2887	58862	Benjamin Rush	1812	Medical Inquiries and Observations upon Diseases of the Mind
+2888	58872	Robert Frost	1923	New Hampshire
+2889	58874	Edgar Rice Burroughs	1922	Tarzan and the Golden Lion
+2890	58874	Edgar Rice Burroughs	1923	Tarzan and the Golden Lion
+2891	58899	Dave Dryfoos	2006	World War Z
+2892	58938	Henry James	1905	English Hours
+2893	58947	Hugh Lofting	1923	Doctor Dolittle's Post Office
+2894	58956	Dorothy Levitt	1909	The Woman and the Car
+2895	59031	Henry David Thoreau	1899	The writings of Henry David Thoreau
+2896	59035	Edward Step	1895	Wayside and woodland blossoms
+2897	59091	Charles Henry Brent	1978	The Stand
+2898	59142	Joseph Conrad	1923	The Rover
+2899	59178	John Buchan	1923	Midwinter
+2900	59206	Charles H. Caffin	1954	The Story of Man
+2901	59212	Arthur Berry	1898	A Short History of Astronomy
+2902	59239	G. K. Chesterton	1914	The Flying Inn
+2903	59287	Bryce Walton	2008	The Fire Waker
+2904	59373	Poul Anderson	2002	Catalyst
+2905	59386	Edward Westermarck	1891	The History of Human Marriage
+2906	59394	Miriam Allen de Ford	2007	The Maytrees
+2907	59422	H. Rider Haggard	1923	Wisdom's Daughter
+2908	59430	Agnes Repplier	1897	Essays in idleness
+2909	59437	Edith Wharton	1923	A Son at the Front
+2910	59473	Charles H. Caffin	1954	The Story of Man
+2911	59497	Vladimir Galaktionovich Korolenko	1886	The Blind Musician
